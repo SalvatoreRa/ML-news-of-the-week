@@ -5,7 +5,10 @@ A collection of the best ML news every week (research, news, resources)
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
 
 For each week you will find different sections:
-* 
+* **Research:** the most important published research of the week.
+* **News:** the most important news related to companies, institutions, and much more
+* **Resources:** released resources for artificial intelligence and machine learning
+* **Perspectives:** a collection of deep and informative articles about open question in artificial intelligence
 
 # ML news: Week 23-29 October
 
