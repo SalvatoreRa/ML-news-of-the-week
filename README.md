@@ -31,7 +31,7 @@ For each week you will find different sections:
 |[The Foundation Model Transparency Index](https://arxiv.org/abs/2310.12941) |Stanford measured how transparent companies are true their Large Language Models (LLMs) and other foundation models. The results? there is a lot to improve. [deep dive](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c) |
 |[SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://arxiv.org/abs/2311.00273v1) | Researchers developed a new method to improve empathy capabilities of large language models. This is can be very important for psychological counseling or medical application   [official code](https://github.com/scutcyr/soulchat) |
 |[Towards Foundation Models for Knowledge Graph Reasoning](https://github.com/DeepGraphLearning/ULTRA) | A foundation model for knowledge graphs which was actually missing[blog post from the authors](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)|
-|[]() | |
+|[Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | A comprehensive overview about the evaluation of LLMs |
 |[]() | |
 |[]() | |
 
@@ -52,9 +52,7 @@ For each week you will find different sections:
 |[Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/) |Stability AI, the startup behind the text-to-image AI model Stable Diffusion, thinks 3D model creation tools could be the next big thing in generative AI. |
 |[UK invests $273 million in AI supercomputer as it seeks to compete with U.S., China](https://www.cnbc.com/2023/11/01/uk-to-invest-273-million-in-turing-ai-supercomputer.html) |The U.K. government said Wednesday that it will invest £225 million, or $273 million, into an AI supercomputer, highlighting the country’s ambition to lead in the technology as it races to catch up to the U.S. and China. |
 |[The Beatles Just Released Their Final Song With The Help Of AI](https://futurism.com/the-byte/beatles-final-song-ai) | More than 50 years after their breakup, The Beatles have released their final song — and used AI to bring John Lennon's voice back to life.|
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 ## Resources
 |Link|description|
@@ -78,8 +76,7 @@ For each week you will find different sections:
 |[ChatGPT-Powered Hierarchical Comparisons for Image Classification](https://arxiv.org/abs/2311.00206v1) |Conventional image classification approaches typically evaluate their performance on the same set of categories as their training data. However, this evaluation paradigm fails to capture the challenges in real-world scenarios, where classes in the test set are not overlapped with the training set. For this reason here a simple method using ChatGPT to create hierarchical classes [official code](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)|
 |[talk-llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama) | Talk with an LLaMA AI in your terminal|
 |[What's In My Big Data?](https://arxiv.org/abs/2310.20707) |WIMBD platform analyzes content in text corpora, revealing duplicates, low-quality content, PII, toxicity, and benchmark contamination. [code will be release here](https://github.com/allenai/wimbd) |
-|[]() | |
-|[]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -96,13 +93,8 @@ For each week you will find different sections:
 |[What AI means for your product strategy](https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy) | 1 hour podcast about how AI will impact product strategy|
 |[4 Ways AI Is Changing Marketing](https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/) | How can AI be harnessed to drive more effective and efficient marketing? Forbes is discussing this|
 |[Sifting Through the Noise](https://maried.substack.com/p/sifting-through-the-noise) | We are in the ago of information overload and soon we can be flooded from AI generated content, how we survive? |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
 
-[Back to index]()
+[Back to index](#Index)
 
 # ML news: Week 23-29 October
 
@@ -158,16 +150,18 @@ For each week you will find different sections:
 |[ExecuTorch](https://pytorch.org/blog/pytorch-edge/) |PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch |
 |[Spelltest: AI-to-AI Testing for LLM Based Applications](https://github.com/artas728/spelltest) | Today's AI-driven applications largely depend on Large Language Models (LLMs) like GPT-4 to deliver innovative solutions. However, ensuring that they provide relevant and accurate responses in every situation is a challenge. Spelltest addresses this by simulating LLM responses using synthetic user personas and an evaluation technique to evaluate these responses automatically(but still requires human supervision).|
 |[polyfire-js](https://github.com/polyfire-ai/polyfire-js) |An all-in-one managed backend for AI apps. Build AI apps from the frontend, very fast |
-|[ToRA: A Tool-Integrated Reasoning Agent](https://github.com/microsoft/ToRA) |ToRA is a series of Tool-integrated Reasoning Agents designed to solve challenging mathematical reasoning problems by interacting with tools, e.g., computation libraries and symbolic solvers. ToRA series seamlessly integrate natural language reasoning with the utilization of external tools, thereby amalgamating the analytical prowess of language and the computational efficiency of external tools. |
+|[ToRA: A Tool-Integrated Reasoning Agent](https://github.com/microsoft/ToRA) |ToRA is a series of Tool-integrated Reasoning Agents designed to solve challenging mathematical reasoning problems by interacting with tools, e.g., computation libraries and symbolic solvers. ToRA series seamlessly integrates natural language reasoning with the utilization of external tools, thereby amalgamating the analytical prowess of language and the computational efficiency of external tools. |
 |[Adala](https://github.com/HumanSignal/adala/) |Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. |
 
 ## Perspectives
 |Link|description|
 |---|---|
 |[Emotional labor and its consequences](https://seths.blog/2023/10/emotional-labor-and-its-consequences/) | Emotional labor is what differentiate us from AI |
-|[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that has ignited a strong debate in Silicon Valley about positive impact of technology|
-|[Peak Data](https://eastwind.substack.com/p/peak-data) | a blog post discussing what will happen if the internet is filled only with AI-generated data, this will lead probably to collapse of AI model trained on these data|
+|[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that has ignited a strong debate in Silicon Valley about the positive impact of technology|
+|[Peak Data](https://eastwind.substack.com/p/peak-data) | a blog post discussing what will happen if the internet is filled only with AI-generated data, this will lead probably to the collapse of AI model trained on these data|
 |[Five Areas of AI Opportunity According to Snowflake’s Ahmad Khan](https://lsvp.com/five-areas-of-ai-opportunity-according-to-snowflakes-ahmad-khan/) |Lightspeed recently hosted the latest in its Generative AI series in Los Angeles, a fireside chat with Ahmad Khan, Head of AI/ML Strategy at Snowflake |
 |[An AI revolution is brewing in medicine. What will it look like?](https://www.nature.com/articles/d41586-023-03302-0) |Emerging generalist models could overcome some limitations of first-generation machine-learning tools for clinical use. |
 |[The Convergence of Data & Software Engineering in the Age of AI](https://tomtunguz.com/data-engineering/) | This convergence signals how far data teams have evolved into core engineering teams. Machine learning’s demand for data has accelerated this movement because AI needs data to function.|
-|[Managing AI Risks in an Era of Rapid Progress](https://managing-ai-risks.com/managing_ai_risks.pdf) | Soem of the biggest names in the field (Hinton, Bengio and so on) discuss the potential threats of AI and how to manage them |
+|[Managing AI Risks in an Era of Rapid Progress](https://managing-ai-risks.com/managing_ai_risks.pdf) | Some of the biggest names in the field (Hinton, Bengio and so on) discuss the potential threats of AI and how to manage them |
+
+[Back to index](#Index)
