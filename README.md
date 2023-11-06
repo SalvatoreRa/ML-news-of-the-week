@@ -51,7 +51,7 @@ For each week you will find different sections:
 |[Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/) |Stability AI, the startup behind the text-to-image AI model Stable Diffusion, thinks 3D model creation tools could be the next big thing in generative AI. |
 |[UK invests $273 million in AI supercomputer as it seeks to compete with U.S., China](https://www.cnbc.com/2023/11/01/uk-to-invest-273-million-in-turing-ai-supercomputer.html) |The U.K. government said Wednesday that it will invest £225 million, or $273 million, into an AI supercomputer, highlighting the country’s ambition to lead in the technology as it races to catch up to the U.S. and China. |
 |[The Beatles Just Released Their Final Song With The Help Of AI](https://futurism.com/the-byte/beatles-final-song-ai) | More than 50 years after their breakup, The Beatles have released their final song — and used AI to bring John Lennon's voice back to life.|
-
+|[Elon Musk's first AI product is a chatbot named Grok](https://mashable.com/article/elon-musk-x-ai-update)|Elon Musk's first AI product is here, and it's a chatbot called Grok — not to be confused with rizzed-up Baby Gronk.|
 
 ## Resources
 |Link|description|
@@ -92,6 +92,7 @@ For each week you will find different sections:
 |[What AI means for your product strategy](https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy) | 1 hour podcast about how AI will impact product strategy|
 |[4 Ways AI Is Changing Marketing](https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/) | How can AI be harnessed to drive more effective and efficient marketing? Forbes is discussing this|
 |[Sifting Through the Noise](https://maried.substack.com/p/sifting-through-the-noise) | We are in the age of information overload and soon we can be flooded with AI-generated content, how we survive? |
+|[How AI detectors can destroy innocent writers' livelihoods](https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods)|The massive false positive rate of general AI detectors had a devastating effect on freelance writer Michael Berben: being falsely accused of cheating, he lost his job.|
 
 [Back to index](#Index)
 
