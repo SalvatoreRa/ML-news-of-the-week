@@ -12,7 +12,7 @@ For each week you will find different sections:
 
 # Index
 * [ML news: Week 30 October - 5 November]()
-* [ML news: Week 30 October - 5 November]()
+* [ML news: Week 23-29 October](#ML-news:-Week-23-29-October)
 
 # ML news: Week 30 October - 5 November
 
