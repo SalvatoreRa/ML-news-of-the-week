@@ -32,7 +32,7 @@ For each week you will find different sections:
 |[SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://arxiv.org/abs/2311.00273v1) | Researchers developed a new method to improve empathy capabilities of large language models. This is can be very important for psychological counseling or medical application   [official code](https://github.com/scutcyr/soulchat) |
 |[Towards Foundation Models for Knowledge Graph Reasoning](https://github.com/DeepGraphLearning/ULTRA) | A foundation model for knowledge graphs which was actually missing[blog post from the authors](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)|
 |[Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | A comprehensive overview about the evaluation of LLMs |
-|[]() | |
+|[Deep Learning for Day Forecasts from Sparse Observations](https://arxiv.org/abs/2306.06079) | a state-of-the-art neural weather model; MetNet-3 makes predictions up to 24 hours ahead for precipitation, wind, temperature, and dew point.|
 |[]() | |
 
 ## News
