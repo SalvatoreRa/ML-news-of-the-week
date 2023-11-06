@@ -11,7 +11,7 @@ For each week you will find different sections:
 * **Perspectives:** a collection of deep and informative articles about open questions in artificial intelligence
 
 # Index
-* [ML news: Week 30 October - 5 November](bla)
+* [ML news: Week 30 October - 5 November](#ML-news:-Week-30-October---5-November)
 * [ML news: Week 23-29 October](#ML-news:-Week-23-29-October)
 
 # ML news: Week 30 October - 5 November
