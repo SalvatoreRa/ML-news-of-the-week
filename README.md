@@ -10,6 +10,10 @@ For each week you will find different sections:
 * **Resources:** released resources for artificial intelligence and machine learning
 * **Perspectives:** a collection of deep and informative articles about open questions in artificial intelligence
 
+## Suggestions and corrections
+
+Feel free to open an issue if you find some errors, if you have any suggestions, topics or any other comments
+
 # Index
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
