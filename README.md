@@ -1,6 +1,6 @@
 # ML news of the week
 
-A collection of the best ML news every week (research, news, resources)
+A collection of the best ML news every week (research, news, resources). Star this repository if you find useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
 
