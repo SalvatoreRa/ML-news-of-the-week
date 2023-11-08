@@ -1,6 +1,6 @@
 # ML news of the week
 
-A collection of the best ML news every week (research, news, resources). Star this repository if you find useful.
+A collection of the best ML news every week (research, news, resources). Star this repository if you find it useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
 
@@ -12,7 +12,7 @@ For each week you will find different sections:
 
 ## Suggestions and corrections
 
-Feel free to open an issue if you find some errors, if you have any suggestions, topics or any other comments
+Feel free to open an issue if you find some errors, if you have any suggestions, topics, or any other comments
 
 # Index
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
