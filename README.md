@@ -15,7 +15,7 @@ For each week you will find different sections:
 Feel free to open an issue if you find some errors, if you have any suggestions, topics, or any other comments
 
 # Index
-* [ML news: Week 12-19 October](#ML-news-Week-12-19-November)
+* [ML news: Week 12-19 November](#ML-news-Week-12-19-November)
 * [ML news: Week 6-12 October](#ML-news-Week-6-12-November)
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
