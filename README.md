@@ -86,7 +86,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Hallucination Leaderboard. ](https://github.com/vectara/hallucination-leaderboard) | This evaluates how often an LLM introduces hallucinations when summarizing a document.  |
 |[draw-a-ui](https://github.com/SawyerHood/draw-a-ui) |This is an app that uses tldraw and the gpt-4-vision api to generate html based on a wireframe you draw. |
 |[AMBER: An Automated Multi-dimensional Benchmark for Multi-modal Hallucination Evaluation. ](https://github.com/junyangwang0410/amber) | a new benchmark designed to assess and reduce hallucinations in Multi-modal Large Language Models (MLLMs)|
-|[https://github.com/jxnl/instructor](https://github.com/jxnl/instructor) | Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control.|
+|[instructor](https://github.com/jxnl/instructor) | Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control.|
 |[GPU-Accelerated LLM on a $100 Orange Pi. ](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi) | This post shows GPU-accelerated LLM running smoothly on an embedded device at a reasonable speed. Additionally, we are able to run a Llama-2 13b model at 1.5 tok/sec on a 16GB version of the Orange Pi 5+ under $150. |
 |[LLM Sherpa. ](https://github.com/nlmatics/llmsherpa) |LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use cases. |
 |[The Developer's Guide to Production-Grade LLM Apps.](https://buildingaistuff.com/p/the-developers-guide-to-production) |dvanced Techniques for Maximizing LLM Performance |
