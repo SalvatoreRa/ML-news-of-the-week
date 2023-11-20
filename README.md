@@ -39,12 +39,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO. ](https://arxiv.org/abs/2311.01057) |This group trained an ultra-small YOLO computer vision model and developed new RISC-V hardware specifically for vision, allowing for real-time object identification at very low latency and low power consumption. |
 |[SentAlign: Accurate and Scalable Sentence Alignment. ](https://arxiv.org/abs/2311.08982v1) |an accurate sentence alignment tool designed to handle very large parallel document pairs. It can efficiently handle tens of thousands of sentences. [official code.](https://github.com/steinst/sentalign)|
 |[Large Language Models are Temporal and Causal Reasoners for Video Question Answering. ]() | LLMs make errors in VQA when they focus too much on the language and ignore the video content, this article aims to solve this [official code.](https://github.com/mlvlab/Flipped-VQA)|
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
 
 ## News
 |Link|description|
@@ -77,9 +71,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Google delays launch of AI model Gemini, a potential rival to OpenAI's GPT-4. ](https://seekingalpha.com/news/4038121-google-delays-launch-of-ai-model-gemini-amid-race-with-openai) | Google is delaying the launch of its new large language model called Gemini, a potential rival to AI models from Microsoft (MSFT)-backed OpenAI|
 |[The Escalating AI Arm Race: Inside the High-Stakes Talent Wars with OpenAI and Google. ](https://www.maginative.com/article/the-escalating-ai-arm-race-inside-the-high-stakes-talent-wars-with-openai-and-google/) |OpenAI recruiters are pitching annual compensation packages around $5-10 million for senior researchers who jump ship depending on their role and expertise. |
 |[Meta disbanded its Responsible AI team. ](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence) | A new report says Meta’s Responsible AI team is now working on other AI teams.|
-|[]() | |
-|[]() | |
-|[]() | |
 
 ## Resources
 |Link|description|
@@ -105,7 +96,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[GPT-4 Turbo Note Taker.](https://tactiq.io/ai-tools/gpt4-note-taker) | Fast and simple, Tactiq’s AI Note Taker with GPT-4 Turbo lets you turn your meetings into actionable notes - so that you're always taking the right action and getting more out of your meetings.|
 |[Chroma. ](https://github.com/generatebio/chroma) |Chroma is a generative model for designing proteins programmatically. |
 |[A Survey on Language Models for Code. ](https://arxiv.org/abs/2311.07989v1) |gives a summary of LLMs for code, covering 500 relevant works, more than 30 assessment tasks, and more than 50 models. |
-|[]() | |
 
 ## Perspectives
 |Link|description|
@@ -121,11 +111,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Doomers Are Finally Getting Some Long Overdue Blowback. ](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
 |[There's a model for democratizing AI. ](https://www.programmablemutter.com/p/theres-a-model-for-making-ai-democratic) |The request for recommendations made by OpenAI on integrating democratic procedures in AI decision-making comes out as constrictive and prefers to handle delicate political matters without accepting accountability, which could limit the application and efficacy of democracy in AI governance. |
 |[Copilot is an Incumbent Business Model.](https://matt-rickard.com/copilot-is-an-incumbent-business-model) | Though its ultimate disruptive potential rests in redesigning workflows, a challenge that might open substantially larger market opportunities, the Copilot AI business model improves current workflows for efficiency without generating new markets or upending lower ends.|
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
 
 # ML news: Week 6-12 November
 
