@@ -20,6 +20,74 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
 
+# ML news: Week 20-26 November
+
+## Research
+|Link|description|
+|---|---|
+|[MILA: Memory-Based Instance-Level Adaptation for Cross-Domain Object Detection.](https://arxiv.org/abs/2309.01086) |Cross-domain object detection is challenging, and it involves aligning labeled source and unlabeled target domains. we propose a memory-based instance-level domain adaptation framework. Our method aligns a target instance with the most similar source instance of the same category retrieved from memory storage. [official code.](https://github.com/hitachi-rd-cv/MILA)|
+|[TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning.](https://arxiv.org/abs/2310.06753v1) |TopoMLP is a system that detects and analyzes traffic features and road centerlines to comprehend road scenes and identify drivable courses for self-driving automobiles. [official code.](https://github.com/wudongming97/topomlp)|
+|[Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model.](https://arxiv.org/abs/2310.17653) | In this study, several data optimization strategies that need less computational overhead to enable knowledge transfer across models are examined.|
+|[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.](https://arxiv.org/abs/2306.07691) | StyleTTS 2 is a text-to-speech model that combines huge speech language models with adversarial training and style diffusion to produce human-level voice synthesis. [official code.](https://github.com/yl4579/StyleTTS2)|
+|[Orca 2: Teaching Small Language Models How to Reason.](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) | A few months ago, we introduced Orca, a 13-billion language model that demonstrated strong reasoning abilities by imitating the step-by-step reasoning traces of more capable LLMs.Orca 2 significantly surpasses models of similar size (including the original Orca model) and attains performance levels similar to or better than models 5-10 times larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.|
+|[Proving Test Set Contamination in Black Box Language Models.](https://arxiv.org/abs/2310.17623) | a thorough examination of the data that was utilized to train language models. Its findings imply that a large number of closed-source models most likely did not train on widely used benchmarks.|
+|[Amazon Reportedly Training AI With Twice As Many Parameters As GPT-4 .](https://futurism.com/the-byte/amazon-training-ai-twice-parameters-gpt-4)  The model will have a whopping 2 trillion parameters, which are the variables that determine the output of a given model, making it one of the largest currently in development.| |
+
+
+## News
+|Link|description|
+|---|---|
+|[Discord is shutting down its AI chatbot Clyde.](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde) | Discord users won’t be able to chat to Clyde from December 1st onwards.|
+|[OpenAI has put ChatGPT Plus sign-ups on pause.](https://qz.com/openai-has-put-chatgpt-plus-sign-ups-on-pause-1851025002) |After announcing premium-tier users can build their own chatbots, CEO Sam Altman says its Plus subscription has exceeded capacity |
+|[OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future.](https://www.nytimes.com/2023/11/20/business/openai-staff-exodus-turmoil.html) | A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.|
+|[Sam Altman is still trying to return as OpenAI CEO.](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) |Altman’s move to Microsoft isn’t a done deal, and Ilya Sutskever’s flip to supporting Altman means two board members need to change their minds. |
+|[Salesforce looks to poach outbound OpenAI staff with "full cash" compensation offer.](https://www.itpro.com/technology/artificial-intelligence/salesforce-looks-to-poach-outbound-openai-staff-with-full-cash-compensation-offer) | OpenAI researchers leaving the firm in protest could be offered a lifeline at Salesforce|
+|[Amazon’s offering free courses on generative AI.](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses) | From the company that brought you AWS certification comes a new ‘AI Ready’ education track to help train aspiring professionals on Amazon’s AI tech.|
+|[Eye On AI: Bain Capital Ventures Launches BCV Labs In Search Of New AI Deals.](https://news.crunchbase.com/ai/bain-capital-launches-bcv-labs-startup-venture) | BCV Labs is a new AI incubator and technical community founded by Bain Capital Ventures that provides money, office space, events, GPU credits, fellowship program, and recruiting help.|
+|[Microsoft rebrands its AI-powered Bing Chat as Copilot.](https://www.engadget.com/microsoft-rebrands-its-ai-powered-bing-chat-as-copilot-160027250.html) |The company has also announced more Copilot AI features for its 365 apps. |
+|[Sam Altman to return as CEO of OpenAI.](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai) |After an attempted coup by OpenAI’s board that lasted five days, Altman is returning alongside co-founder Greg Brockman. |
+|[Microsoft and Nvidia are making it easier to run AI models on Windows.](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers) |Microsoft’s new Windows AI Studio lets developers access and configure AI models, such as Microsoft’s Phi, Meta’s Llama 2, and Mistral. |
+|[Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.](https://lmsys.org/blog/2023-11-21-lookahead-decoding) |Automating autoregressive language model inference may be done in a variety of ways. One method that has generated excitement is the use of draft models. Although it may take longer, this needs two models. On the other hand, you may reduce the requirement for a draft model and accelerate creation linearly by producing related ngrams from the same model. |
+|[OpenAI drops a big new ChatGPT feature with a joke about its CEO drama.](https://www.theverge.com/2023/11/21/23971489/openai-chatgpt-voice-feature-ceo-drama) | ChatGPT’s voice feature lets you ask it a question by saying it aloud — and now it’s available for free.|
+|[Emmett Shear threatening to leave OpenAI if board can’t prove Sam Altman’s wrongdoing.](https://www.dexerto.com/tech/emmett-shear-threatening-to-leave-openai-if-board-cant-prove-sam-altmans-wrongdoing-2394706) | Former Twitch CEO Emmett Shear took a role at OpenAI following the ousting of Sam Altman but is reportedly threatening to leave unless the board can show evidence of Altman’s wrongdoing.|
+|[Artificial intelligence finds ways to develop new drugs.](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html) | A new AI model developed by chemists at ETH Zurich can not only predict where a pharmaceutically active molecule can be chemically modified but also how best to do it. This makes it possible to identify new pharmaceutical ingredients more quickly and improve existing ones in a targeted manner.|
+|[OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say.](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/) |Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers wrote a letter to the board of directors warning of a powerful artificial intelligence discovery that they said could threaten humanity |
+
+
+## Resources
+|Link|description|
+|---|---|
+|[Neural-Cherche.](https://github.com/raphaelsty/neural-cherche) |Neural-Cherche is a library designed to fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset. |
+|[The Data Engineering Handbook.](https://github.com/DataEngineer-io/data-engineer-handbook) |This repo has all the resources you need to become an amazing data engineer. |
+|[tensorli.](https://github.com/joennlae/tensorli) | Absolute minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).|
+|[THE RISE OF “WET” ARTIFICIAL INTELLIGENCE.](https://proto.life/2023/11/perspective-the-rise-of-wet-artificial-intelligence/) |Combining AI with traditional wet lab work creates a virtuous circle from lab to data and back to the lab. |
+|[Video-LLaVA.](https://github.com/PKU-YuanGroup/Video-LLaVA) |Video-LLaVA exhibits remarkable interactive capabilities between images and videos, despite the absence of image-video pairs in the dataset. It achieves state-of-the-art performance in video summarization and captioning. |
+|[make-real-starter.](https://github.com/tldraw/make-real-starter) |Recently, tldraw released a popular tool that lets people quickly design software using a paint-like interface. GPT-V is then used to write code for the design's online version. It produces reliable and functional code and operates remarkably well. It also accepts commands in plain language. |
+|[AI Exploits.](https://github.com/protectai/ai-exploits) |A collection of real-world AI/ML exploits for responsibly disclosed vulnerabilities |
+|[Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation.](https://github.com/ysh-1998/cowpirec) | The recently proposed CoWPiRec method enhances recommender systems using text-based item representations combined with collaborative filtering information. Using word graphs for item interactions, this novel approach has demonstrated better performance in a range of recommendation circumstances, including solving the cold-start issue.|
+|[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
+|[Stable Video Diffusion Image-to-Video Model Card.](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) | Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.|
+|[LangChain for Go.](https://github.com/tmc/langchaingo) | Building applications with LLMs through composability, with Go|
+|[Reinforcement Learning for Generative AI: A Survey.](https://arxiv.org/pdf/2308.14328.pdf) |Comprehensive review across various application areas like NLP, computer vision, and more exciting and emerging domains. Insights into RL's flexibility in introducing new training approaches.Future directions for the evolution of generative AI.
+|
+
+
+## Perspectives
+|Link|description|
+|---|---|
+|[OpenAI’s identity crisis and the battle for AI’s future.](https://www.exponentialview.co/p/openais-identity-crisis-and-the-battle) |Last weekend some news happened in OpenAI, this blog post is about discussing some open questions. |
+|[A Data-Driven Look at the Rise of AI.](https://www.newcomer.co/p/a-data-driven-look-at-the-rise-of) |2023, The AI Revolution: Coatue's Sri Viswanath breaks down this year's developments in AI. |
+|[AI: The Coming Revolution.](https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023) |Coatue highlight four points for the future: AI has potential to break through the hype and meaningfully improve our world. Open source is the heartbeat of AI, but not all open source is created equally. Builders and investors need to understand the new, AI-centric tech stack. The best of AI is yet to come|
+|[OpenAI’s Misalignment and Microsoft’s Gain.](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/) |After co-founders Sam Altman and Greg Brockman resigned from OpenAI due to internal issues and the company's failing non-profit strategy, Microsoft acquired key staff and intellectual property from OpenAI, significantly changing the AI field. |
+|[AGI's Impact on Tech, SaaS Valuations.](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations) | Thought experiments on how AGI affects SaaS companies of all shapes and sizes|
+|[Oops! We Automated Bullshit.](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit) |ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit |
+|[Explaining the SDXL latent space.](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) | Using a smaller latent space for diffusion was one of the advances of the original Stable Diffusion model. This indicates that the diffusion occurs on a compressed image representation rather than on pixels. This article explores many interpretations of that space for SDXL.|
+|[Sudden Disturbances in Rapidly Moving Objects : The Implications of the OpenAI Fiasco.](https://tomtunguz.com/disturbing-rockets-in-flight) |The unexpected threat to OpenAI's dominating position in the developer ecosystem creates a chance for smaller businesses to step in and take advantage of a fresh opening. Microsoft will probably emerge victorious in the AI race, but it's possible that Anthropic and other model-layer businesses may capitalize on the disruption. |
+|[AI should focus on equity in pandemic preparedness.](https://www.nature.com/articles/d41586-023-03608-z) | Over-reliance on AI could inadvertently prioritize certain viruses or populations, leading to inequities in vaccine and disease research.|
+|[How AI is expanding art history.](https://www.nature.com/articles/d41586-023-03604-3) | From identifying disputed artworks to reconstructing lost masterpieces, artificial intelligence is enriching how we interpret our cultural heritage.|
+|[How AI shapes the life sciences: an interview with Oliver Stegle.](https://www.embl.org/news/lab-matters/how-ai-shapes-the-life-sciences-an-interview-with-oliver-stegle/) |Oliver Stegle explains how AI-based tools have the potential to transform our ability to better understand the complexity of life and how these tools will shape the future of scientific exploration |
+
+
 # ML news: Week 12-19 November
 
 ## Research
