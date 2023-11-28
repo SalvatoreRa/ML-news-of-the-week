@@ -69,8 +69,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
 |[Stable Video Diffusion Image-to-Video Model Card.](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) | Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.|
 |[LangChain for Go.](https://github.com/tmc/langchaingo) | Building applications with LLMs through composability, with Go|
-|[Reinforcement Learning for Generative AI: A Survey.](https://arxiv.org/pdf/2308.14328.pdf) |Comprehensive review across various application areas like NLP, computer vision, and more exciting and emerging domains. Insights into RL's flexibility in introducing new training approaches.Future directions for the evolution of generative AI.
-|
+|[Reinforcement Learning for Generative AI: A Survey.](https://arxiv.org/pdf/2308.14328.pdf) |Comprehensive review across various application areas like NLP, computer vision, and more exciting and emerging domains. Insights into RL's flexibility in introducing new training approaches.Future directions for the evolution of generative AI.|
 
 
 ## Perspectives
