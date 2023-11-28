@@ -87,6 +87,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[How AI is expanding art history.](https://www.nature.com/articles/d41586-023-03604-3) | From identifying disputed artworks to reconstructing lost masterpieces, artificial intelligence is enriching how we interpret our cultural heritage.|
 |[How AI shapes the life sciences: an interview with Oliver Stegle.](https://www.embl.org/news/lab-matters/how-ai-shapes-the-life-sciences-an-interview-with-oliver-stegle/) |Oliver Stegle explains how AI-based tools have the potential to transform our ability to better understand the complexity of life and how these tools will shape the future of scientific exploration |
 
+[Back to index](#Index)
+
 
 # ML news: Week 12-19 November
 
@@ -179,6 +181,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Doomers Are Finally Getting Some Long Overdue Blowback. ](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
 |[There's a model for democratizing AI. ](https://www.programmablemutter.com/p/theres-a-model-for-making-ai-democratic) |The request for recommendations made by OpenAI on integrating democratic procedures in AI decision-making comes out as constrictive and prefers to handle delicate political matters without accepting accountability, which could limit the application and efficacy of democracy in AI governance. |
 |[Copilot is an Incumbent Business Model.](https://matt-rickard.com/copilot-is-an-incumbent-business-model) | Though its ultimate disruptive potential rests in redesigning workflows, a challenge that might open substantially larger market opportunities, the Copilot AI business model improves current workflows for efficiency without generating new markets or upending lower ends.|
+
+[Back to index](#Index)
 
 # ML news: Week 6-12 November
 
@@ -276,6 +280,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Yoko Taro Foresees the End of Video Games as We Know Them](https://www.wired.com/story/yoko-taro-interview/) | Yoko Taro says the rise of AI will give birth to a new era of video games in which the line between developer and player is blurred into nonexistence. |
 |[How Generative AI Will Transform Knowledge Work](https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work)|Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine.|
 
+[Back to index](#Index)
 
 # ML news: Week 30 October - 5 November
 
