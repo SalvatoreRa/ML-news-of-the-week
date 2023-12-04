@@ -71,7 +71,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 ## Resources
 |Link|description|
 |---|---|
-|[ziplora-pytorch.](Low-rank learning matrices, or LoRAs, alter model behavior at a lower cost than traditional fine-tuning. This paper suggests a practical method for combining LoRAs while preserving their unique information.) | Low-rank learning matrices, or LoRAs, alter model behavior at a lower cost than traditional fine-tuning. This paper suggests a practical method for combining LoRAs while preserving their unique information. [original paper](https://ziplora.github.io/)|
+|[ziplora-pytorch.](https://ziplora.github.io/) | Low-rank learning matrices, or LoRAs, alter model behavior at a lower cost than traditional fine-tuning. This paper suggests a practical method for combining LoRAs while preserving their unique information. [original paper](https://arxiv.org/abs/2311.13600)|
 |[DuckTrack: Accurate Computer Activity Tracking.](https://duckai.org/blog/ducktrack) | It can be a little difficult to extract image, audio, and keystroke data from your computer. This library's goal is to train digital agents by simplifying that procedure.|
 |[direct-preference-optimization.](https://github.com/eric-mitchell/direct-preference-optimization) |Using extremely identical data, direct preference optimization is a reliable substitute for RLHF. An implementation of the approach can be studied in this repository to gain knowledge about it. |
 |[Kandinsky Video — a new text-to-video generation model.](https://ai-forever.github.io/kandinsky-video/) |This paper presents a new two-stage latent diffusion text-to-video generation architecture based on the text-to-image diffusion model. [code.](https://github.com/ai-forever/KandinskyVideo) |
