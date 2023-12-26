@@ -31,32 +31,24 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 ## Research
 |Link|description|
 |---|---|
-|[Stabilizing Transformer Training by Preventing Attention Entropy Collapse.](https://github.com/apple/ml-sigma-reparam) |Despite their incredible skills, transformers may be challenging to train because to their numerous instabilities. When the entropy of an Attention matrix collapses is one of the primary problems. With a straightforward reparametrization, our work offers a means to avoid it. |
+|[Stabilizing Transformer Training by Preventing Attention Entropy Collapse.](https://github.com/apple/ml-sigma-reparam) |Despite their incredible skills, transformers may be challenging to train because of their numerous instabilities. When the entropy of an Attention matrix collapses, it is one of the primary problems. With a straightforward reparametrization, our work offers a means to avoid it. |
 |[DiffusionLight: Light Probes for Free by Painting a Chrome Ball.](https://diffusionlight.github.io/?) | This effort overcomes the drawbacks of existing approaches that rely on HDR panorama datasets by introducing a unique method for predicting lighting in photos. The method uncovers a distinct link between chrome balls and diffusion noise by rendering chrome balls into conventional pictures using diffusion models.|
-|[DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving.](https://arxiv.org/abs/2312.09245v1) |A new framework called DriveMLM makes advantage of massive language models to improve autonomous driving. This system performs better in simulations and interacts with current autonomous driving systems. It does this by fusing linguistic judgments with vehicle controls. |
+|[DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving.](https://arxiv.org/abs/2312.09245v1) |A new framework called DriveMLM takes advantage of massive language models to improve autonomous driving. This system performs better in simulations and interacts with current autonomous driving systems. It does this by fusing linguistic judgments with vehicle controls. |
 |[Graph Neural Networks with Diverse Spectral Filtering.](https://arxiv.org/abs/2312.09041v1) |A novel technique known as DSF has been created by researchers to enhance spectral graph neural networks. The World Wide Web and other complicated networks can be handled more effectively by DSF by adding node-specific filter weights. |
 |[Evaluating and Mitigating Discrimination in Language Model Decisions.](https://www.anthropic.com/index/evaluating-and-mitigating-discrimination-in-language-model-decisions) |A proactive approach to assessing language models' potential for discrimination is covered in this article. The process involves coming up with a broad range of possible prompts for different decision scenarios and variations in demographic data. The main tactic for reducing both positive and negative discrimination is cautious prompt engineering. |
 |[Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models.](https://github.com/hutaihang/faster-diffusion) |A comparison of UNet encoders and decoders in diffusion models demonstrates the former's more stable behavior. Thanks to this realization, a novel encoder propagation strategy was developed, greatly accelerating jobs like text-to-image and text-to-video production. |
 |[VideoPoet: A large language model for zero-shot video generation.](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html) | VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. |
 |[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach.](https://arxiv.org/abs/2312.10740v1) | a deep learning method for identifying deepfake faces in videos utilizing four pre-trained CNN models for high accuracy. [official code.](https://github.com/faysal-md/unmasking-deepfake-faces-from-videos-an-explainable-cost-sensitive-deep-learning-approach-ieee2023)|
 |[Bi-directional Adapter for Multi-modal Tracking.](https://arxiv.org/abs/2312.10611v1) | This effort solves the drawbacks of single-modal object tracking by introducing a multi-modal visual cue tracking paradigm that dynamically leverages the advantages of several modalities, such as RGB and infrared. [official code.](https://github.com/sparktempest/bat)|
-|[Tokenize Anything via Prompting.](https://github.com/baaivision/tokenize-anything) |We present Tokenize Anything via Prompting, a unified and promptable model capable of simultaneously segmenting, recognizing, and captioning arbitrary regions, with flexible visual prompts (point, box and sketch).  |
+|[Tokenize Anything via Prompting.](https://github.com/baaivision/tokenize-anything) |We present Tokenize Anything via Prompting, a unified and promptable model capable of simultaneously segmenting, recognizing, and captioning arbitrary regions, with flexible visual prompts (point, box, and sketch).  |
 |[Gemini: A Family of Highly Capable Multimodal Models.](https://arxiv.org/abs/2312.11805) | Gemini Paper: This report introduces a new family of multimodal models, Gemini, that exhibit remarkable capabilities across image, audio, video, and text understanding. |
 |[FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning.](https://yeungchenwa.github.io/fontdiffuser-homepage) |Diffusion-based FontDiffuser is an automatic font production technique that works especially well with intricate characters and a wide range of style variants. It has a Style Contrastive Refinement module for style transfer and a Multi-scale Content Aggregation block for improved stroke preservation. |
-|[Splatter Image: Ultra-Fast Single-View 3D Reconstruction.](https://szymanowiczs.github.io/splatter-image) |The Splatter Image is an ultra-fast method for single- and few-view 3D reconstruction. Training is done on 1 GPU, reconstruction is done at 38 FPS and rendering at 588 FPS. |
+|[Splatter Image: Ultra-Fast Single-View 3D Reconstruction.](https://szymanowiczs.github.io/splatter-image) |The Splatter Image is an ultra-fast method for single- and few-view 3D reconstruction. Training is done on 1 GPU, reconstruction at 38 FPS, and rendering at 588 FPS. |
 |[PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU.](https://arxiv.org/abs/2312.12456) |The hypothesis that models include cool neurons that are utilized significantly less frequently and hot neurons that are used for nearly all inputs is investigated in this research. It is possible to conserve memory without significantly reducing throughput by preloading the hot neurons to the GPU. There's a code library companion available. |
-|[On Inference Stability for Diffusion Models.](https://arxiv.org/abs/2312.12431v1) |A 'sequence-aware' loss function has been created by researchers to enhance Denoising Probabilistic Models (DPMs) and solve the problem of timestep correlation in picture production. Better FID and Inception Scores demonstrate that this new method not only provides a tighter estimation of loss but also significantly improves picture quality on datasets such as CelebA and CIFAR10. |
+|[On Inference Stability for Diffusion Models.](https://arxiv.org/abs/2312.12431v1) |A 'sequence-aware' loss function has been created by researchers to enhance Denoising Probabilistic Models (DPMs) and solve the problem of timestep correlation in picture production. Better FID and Inception Scores demonstrate that this new method provides a tighter estimation of loss and significantly improves picture quality on datasets such as CelebA and CIFAR10. |
 |[CLIP-DINOiser: Teaching CLIP a few DINO tricks.](https://wysoczanska.github.io/CLIP_DINOiser/) |For better semantic segmentation without annotations, the novel CLIP-DINOiser approach combines self-supervised features with the zero-shot capabilities of the CLIP model. |
 |[A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models.](https://udifftext.github.io/) | A novel technique called UDiffText improves the legibility of text in AI-generated graphics. Through the use of a sophisticated text encoder and extensive dataset fine-tuning, UDiffText enhances text correctness and dramatically lowers spelling errors.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -75,8 +67,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Microsoft Copilot gets a music creation feature via Suno integration.](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/) |Microsoft Copilot, Microsoft’s AI-powered chatbot, can now compose songs thanks to an integration with GenAI music app Suno. |
 |[Stability AI announces paid membership for commercial use of its models.](https://www.theverge.com/2023/12/19/24008149/stability-ai-paid-subscription-commercial-rights-safety) |The company said paid tiers will fund the future of its AI research. |
 |[More than 10,000 research papers were retracted in 2023 — a new record.](https://www.nature.com/articles/d41586-023-03974-8) |The number of articles being retracted rose sharply this year. Integrity experts say that this is only the tip of the iceberg. |
-|[Large language models direct automated chemistry laboratory.](https://www.nature.com/articles/d41586-023-03790-0) | Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts. [research article.](https://www.nature.com/articles/s41586-023-06792-0)|
-|[Introducing Text-to-CAD.](https://zoo.dev/blog/introducing-text-to-cad) |After changing their name, Zoo Dev (formerly Kitty Cad) unveiled a new text-to-cad feature. This robust platform creates 3D assets that can be printed or used as parts. |
+|[Large language models direct automated chemistry laboratory.](https://www.nature.com/articles/d41586-023-03790-0) | Automation of chemistry research has focused on developing robots to execute jobs. Artificial intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts. [research article.](https://www.nature.com/articles/s41586-023-06792-0)|
+|[Introducing Text-to-CAD.](https://zoo.dev/blog/introducing-text-to-cad) |After changing its name, Zoo Dev (formerly Kitty Cad) unveiled a new text-to-cad feature. This robust platform creates 3D assets that can be printed or used as parts. |
 |[Waymo finds that its driverless cars ‘significantly outperformed’ humans.](https://9to5google.com/2023/12/20/waymo-driverless-humans/) | New safety research from Waymo finds that its driverless cars “led to a significant reduction in the rates of police-reported and injury-causing crashes compared to human drivers.”|
 |[Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model.](https://arxiv.org/abs/2312.12232) |A novel training-free framework called Diff-Text enables the creation of photo-realistic images with text in any language. Using sketched images as priors, it improves the multilingual capabilities of the Stable Diffusion model. |
 |[Largest Dataset Powering AI Images Removed After Discovery of Child Sexual Abuse Material.](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/) | The model is a massive part of the AI-ecosystem, used by Stable Diffusion and other major generative AI products. The removal follows discoveries made by Stanford researchers, who found thousands of instances of suspected child sexual abuse material in the dataset.|
@@ -84,28 +76,21 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI startup Anthropic reportedly in talks to raise $750M on a $15B valuation.](https://enterprisetalk.com/quick-bytes/ai-startup-anthropic-reportedly-in-talks-to-raise-750m-on-a-15b-valuation/) | Anthropic PBC, an artificial intelligence startup backed by Amazon.com Inc. and Google LLC, is reportedly in talks to raise $750 million in new funding at a valuation of $15 billion|
 |[Apple’s latest AI research could completely transform your iPhone.](https://venturebeat.com/ai/apples-latest-ai-research-could-completely-transform-your-iphone/) | two new papers introducing new techniques for 3D avatars and efficient language model inference. The advancements could enable more immersive visual experiences and allow complex AI systems to run on consumer devices such as the iPhone and iPad.|
 |[OpenAI buffs safety team and gives board veto power on risky AI.](https://techcrunch.com/2023/12/18/openai-buffs-safety-team-and-gives-board-veto-power-on-risky-ai/) |A new safety advisory group has been established by OpenAI, and the board has been given veto power over all models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
 |---|---|
 |[Introducing Ego-Exo4D: A foundational dataset for research on video learning and multimodal perception.](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/) |  Ego-Exo4D, a foundational dataset and benchmark suite to support research on video learning and multimodal perception.|
-|[Coffee.](https://github.com/Coframe/coffee) | Coffee, which was released last week, integrates AI into current codebases to speed up frontend development. The project primarily focuses on a first-class DX, drawing on insights the Coframe team has gained from producing more than 80% of their frontend using AI.|
+|[Coffee.](https://github.com/Coframe/coffee) | Coffee, which was released last week, integrates AI into current codebases to speed up front-end development. The project primarily focuses on a first-class DX, drawing on insights the Coframe team has gained from producing more than 80% of their front-end using AI.|
 |[DeepEval.](https://github.com/confident-ai/deepeval) | DeepEval is a simple-to-use, open-source evaluation framework for LLM applications. It is similar to Pytest but specialized for unit testing LLM applications. DeepEval evaluates performance based on metrics such as hallucination, answer relevancy, RAGAS, etc., using LLMs and various other NLP models locally on your machine.|
 |[Understanding GPU Memory 1: Visualizing All Allocations over Time.](https://pytorch.org/blog/understanding-gpu-memory-1/) | Determining the reason behind memory leaks in Pytorch has proven to be one of the most difficult tasks for practitioners. Pytorch 2.1 has some incredible new features that provide insight into memory utilization. Classifying the utilization into well-known buckets (such as activations and gradients) is another application for it.|
 |[Fine Tuning Mistral 7B on Magic the Gathering Drafts.](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the) | Tips, examples, and thoughts from an exploration of the world of fine tuning|
 |[MMLU prompt templates.](https://github.com/microsoft/promptbase/blob/main/src/promptbase/mmlu/prompt_templates.py) |The most effective prompting technique for MMLU at the moment is Microsoft's Medprompt+. The template, along with numerous other chain-of-thought style templates that are widely used in the evaluation community, was made available by Microsoft. |
 |[Amphion.](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. Amphion offers a unique feature: visualizations of classic models or architectures. |
-|[Big Vision.](https://github.com/google-research/big_vision) |This codebase is designed for training large-scale vision models using Cloud TPU VMs or GPU machines. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable and reproducible input pipelines. |
-|[Thoughts on Jaxtyping.](https://kidger.site/thoughts/jaxtyping/) |In machine learning, shape problems are difficult to debug and can go undetected until the model is attempted to run. Checking shapes as kinds can help you get over most of this obstacle and advance faster. |
-|[Legaltech x AI: The Lightspeed View.](https://lsvp.com/legaltech-x-ai-the-lightspeed-view/) |Lightspeed's perspective on the legaltech industry's use of AI is obvious and intriguing when viewed from the angle that what's good for VCs is good for everyone. Time will tell if they are on the right track or not, but there are some intriguing observations. |
+|[Big Vision.](https://github.com/google-research/big_vision) |This codebase is designed for training large-scale vision models using Cloud TPU VMs or GPU machines. It is based on Jax/Flax libraries and uses tf. data and TensorFlow Datasets for scalable and reproducible input pipelines. |
+|[Thoughts on Jaxtyping.](https://kidger.site/thoughts/jaxtyping/) |In machine learning, shape problems are difficult to debug and can go undetected until the model is attempted to run. Checking shapes as a kind can help you get over most of these obstacles and advance faster. |
+|[Legaltech x AI: The Lightspeed View.](https://lsvp.com/legaltech-x-ai-the-lightspeed-view/) |Lightspeed's perspective on the legal tech industry's use of AI is obvious and intriguing when viewed from the angle that what's good for VCs is good for everyone. Time will tell if they are on the right track or not, but there are some intriguing observations. |
 |[New Sequence Mixers.](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based) |The folks who brought us Mamba (and a ton of other models) have published a nice blog entry explaining simple sequence mixing topologies that provide some very significant speed increases over traditional Transformers. |
 |[microagents.](https://github.com/aymenfurter/microagents) | Agents Capable of Self-Editing Their Prompts / Python Code|
 |[LLMLingua.](https://github.com/microsoft/LLMLingua) |LLMLingua utilizes a compact, well-trained language model (e.g., GPT2-small, LLaMA-7B) to identify and remove non-essential tokens in prompts. This approach enables efficient inference with large language models (LLMs), achieving up to 20x compression with minimal performance loss. |
@@ -117,13 +102,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[llama-recipes.](https://github.com/facebookresearch/llama-recipes) |The 'llama-recipes' repository is a companion to the Llama 2 model. This repository aims to provide examples to quickly get started with fine-tuning for domain adaptation and how to run inference for the fine-tuned models. |
 |[LLaVA-Interactive.](https://llava-vl.github.io/llava-interactive/) | LLaVA-Interactive is a large language-and-vision assistant demo, dedicated to demonstrating the possibilities of multimodal human-machine interaction: visual input, visual output, and visual interaction. It combines complementary skills from three models: visual chat of LLaVA, visual prompt for segmentation from SEEM, and visual prompt for image generation/editing from GLIGEN.|
 |[Whisper Turbo.](https://github.com/FL33TW00D/whisper-turbo) | Whisper Turbo is a fast, cross-platform Whisper implementation, designed to run entirely client-side in your browser/electron app.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -131,28 +109,15 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Where, When, and How of AI with Theory Ventures, Open AI, MotherDuck and Lamini.](https://www.saastr.com/the-where-when-and-how-of-ai-with-theory-ventures-open-ai-motherduck-and-lamini/) | Prominent inventors and venture capitalists discuss the latest developments in artificial intelligence, ranging from the use of LLMs to enterprise innovation. This is a helpful fast summary if the speed of "things you should know about AI" is a little overwhelming.|
 |[The Competition is Coming for Nvidia.](https://www.bigtechnology.com/p/the-competition-is-coming-for-nvidia) |After a long, largely unimpeded run, NVIDIA’s challenge has finally arrived. |
 |[From Einstein to AI: how 100 years have shaped science.](https://www.nature.com/articles/d41586-023-04021-2) | Looking back a century reveals how much the research landscape has changed — and how unclear the consequences of scientific innovation can be.|
-|[ChatGPT and science: the AI system was a force in 2023 — for good and bad.](https://www.nature.com/articles/d41586-023-03930-6) | The poster child for generative AI software is a startling human mimic. It represents a potential new era in research, but brings risks.|
+|[ChatGPT and science: the AI system was a force in 2023 — for good and bad.](https://www.nature.com/articles/d41586-023-03930-6) | The poster child for generative AI software is a startling human mimic. It represents a potential new era in research but brings risks.|
 |[What was the Turing test actually about?.](https://www.nature.com/articles/d41586-023-04058-3) |It is important to develop metrics for the public scrutiny of today’s generative artificial intelligence. |
 |[Should scientists delegate their writing to ChatGPT?.](https://www.nature.com/articles/d41586-023-04055-6) | Scientists should exercise caution when using generative artificial intelligence (AI) tools such as ChatGPT to write grant applications|
-|[Mentor–trainee dialogue on proper use of AI tools.](https://www.nature.com/articles/d41586-023-04062-7) |The responsible use of artificial-intelligence (AI) tools in education and academia is important on a micro- as well as a macro scale |
+|[Mentor–trainee dialogue on proper use of AI tools.](https://www.nature.com/articles/d41586-023-04062-7) |The responsible use of artificial intelligence (AI) tools in education and academia is important on a micro- as well as a macro scale |
 |[My jaw hit the floor when I watched an AI master one of the world's toughest physical games in just six hours.](https://www.techradar.com/computing/artificial-intelligence/my-jaw-hit-the-floor-when-i-watched-an-ai-master-one-of-the-worlds-toughest-physical-games-in-just-six-hours) | An AI just mastered Labyrinth in six hours, and I am questioning my own existence.|
 |[Meta’s CTO on how the generative AI craze has spurred the company to ‘change it up’.](https://www.semafor.com/article/12/20/2023/meta-cto-andrew-bosworth-on-the-generative-ai-craze) | Andrew Bosworth, Chief Technology Officer at Meta, discusses the company's future plans and the hype around artificial intelligence.|
 |[End of YearPay Report 2023.](https://www.levels.fyi/2023/) |Levels.fyi's annual compensation report. View top-paying companies, cities, titles & other trends. |
 |[Year One of Generative AI: Six Key Trends.](https://foundationcapital.com/year-one-of-generative-ai-six-key-trends) |In this post, drawing on countless founder meetings and pitch decks, we distill our first-hand learnings into six trends that have defined the generative AI space throughout 2023 and that are set to shape its trajectory in 2024. |
 |[Marketplaces in the Age of AI.](https://a16z.com/marketplaces-in-the-age-of-ai/) |For the past 20 years, marketplaces have dominated company models. This is a summary from a16z discussing their predictions on how AI would affect this kind of business. Customizing the experience for both sides of the marketplace is the main concept. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 [Back to index](#Index)
 
