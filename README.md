@@ -16,6 +16,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # Index
 
+# 2023
+
 * [ML news: Week 18 - 24 December](#ML-news-Week-18-24-December)
 * [ML news: Week 11 - 17 December](#ML-news-Week-11-17-December)
 * [ML news: Week 4 - 10 December](#ML-news-Week-4-10-December)
@@ -25,6 +27,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 * [ML news: Week 6-12 October](#ML-news-Week-6-12-November)
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
+
+# 2023
 
 # ML news: Week 18 - 24 December
 
