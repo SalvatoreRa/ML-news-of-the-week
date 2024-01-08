@@ -16,6 +16,10 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # Index
 
+# 2024
+
+* [ML news: Week 1 - 7 January](#ML-news-Week-1-7-January)
+
 # 2023
 
 * [ML news: Week 18 - 24 December](#ML-news-Week-18-24-December)
@@ -27,6 +31,93 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 * [ML news: Week 6-12 October](#ML-news-Week-6-12-November)
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
+
+# 2024
+
+# ML news: Week 1 - 7 January
+
+## Research
+|Link|description|
+|---|---|
+|[MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining.](https://mosaicbert.github.io/) |MosaicBERT is a custom BERT architecture optimized for fast pretraining. This study motivated many of the architecture choices around MosaicML's MPT-7B and MPT-30B models. the main architectural modifications used: FlashAttention, ALiBi,  Gated Linear Units, Low Precision LayerNorm.|
+|[Improving Text Embeddings with Large Language Models.](https://arxiv.org/abs/2401.00368) | Microsoft researchers trained a decoder-only transformer based on Mistral for embeddings using synthetic data. In the class, it is the best. Remarkably, they create the synthetic retrieval training data using GPT-4 and a two-step prompting technique.|
+|[Images altered to trick machine vision can influence humans too.](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/) |New research shows that even subtle changes to digital images, designed to confuse computer vision systems, can also affect human perception |
+|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.](https://arxiv.org/abs/2401.01335) | The fact that existing language models require very expensive human preference data to function properly is one of their main disadvantages. Determining if it is possible to have language models self-play develop without gathering this data has emerged as a major area of current study. With only SFT data, a new technique called SPIN makes significant progress in that direction by significantly enhancing a basic model's performance on a variety of tasks.|
+|[Boundary Attention: Learning to Find Faint Boundaries at Any Resolution.](https://arxiv.org/abs/2401.00935) |Identifying edges and curves in pictures is a traditional computer vision challenge. Nevertheless, many existing approaches perform poorly when noise, quality changes, or out-of-distribution instances are introduced. With just 207k parameters, this newly discovered approach works very well on sensor readings. It significantly advances state of the art and employs a two-stage training procedure. |
+|[Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images.](https://arxiv.org/abs/2401.00766) | This work uses a unique temporally modulated recurrent network (TMRNet) with bracketing photography to achieve a considerable improvement in low-light photo quality. This method surpasses current multi-image processing techniques by training with synthetic data and adapting to real-world pictures.|
+|[Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.](https://auffusion.github.io/) | The Auffusion system presents a breakthrough in Text-to-Audio (TTA) creation, inspired by Text-to-Image diffusion models. It is quite good at turning text into high-quality audio, especially with complicated inputs.|
+|[Context-Aware Interaction Network for RGB-T Semantic Segmentation.](https://arxiv.org/abs/2401.01624v1) |CAINet is an innovative technique that researchers have developed to improve RGB-T semantic segmentation, which is important for autonomous driving. This system mixes many data kinds in a unique way, emphasizing the complementary qualities and global context of each form of data. |
+|[3D-Aware Visual Question Answering about Parts, Poses and Occlusions.](https://arxiv.org/abs/2310.17914v1) |Although there has been progress in Visual Question Answering (VQA), most models focus primarily on 2D reasoning and ignore the intricacy of 3D visual settings. This study introduces 3D-aware VQA. |
+|[DocLLM.](https://arxiv.org/abs/2401.00908) | We present DocLLM, a lightweight extension to traditional large language models (LLMs) for reasoning over visual documents, taking into account both textual semantics and spatial layout |
+|[GPT-4V(ision) is a Generalist Web Agent.](https://arxiv.org/abs/2401.01614) | In this work, we explore the potential of LMMs like GPT-4V as a generalist web agent that can follow natural language instructions to complete tasks on any given website. |
+|[Fast Inference of Mixture-of-Experts Language Models with Offloading.]() |With the widespread adoption of Large Language Models (LLMs), many deep learning practitioners are looking for strategies for running these models more efficiently. One such strategy is to use a sparse mixture of experts (MoE). In this work, we study the problem of running large MoE language models on consumer hardware with limited accelerator memory. |
+|[LLM Augmented LLMs: Expanding Capabilities through Composition.](https://arxiv.org/abs/2401.02412) |investigate combining specialized models with preexisting foundation models to increase capabilities; introduce cross-attention between models to combine representations that allow for new capabilities. For instance, a PaLM2-S model was enhanced with a smaller model trained on low-resource languages to enhance English translation and arithmetic reasoning for low-resource languages; this was also accomplished with a code-specific model that produced a 40% improvement in code generation and explanation tasks compared to the base code model. |
+|[LLaMA Pro.](https://arxiv.org/abs/2401.02415) |provides a post-pretraining technique to enhance an LLM's knowledge without causing catastrophic forgetting; it does this by freezing the inherited blocks and tuning expanded identity blocks using only new corpus; trains an LLaMA Pro-8.3B initialized from Llama2-7B using code and math data; these models outperform base models on a variety of benchmarks while maintaining the original general capabilities. |
+|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.](https://arxiv.org/abs/2401.01335) | demonstrates that a supervised fine-tuned LLM can be made better without needing to obtain more human-annotated data. Drawing inspiration from self-play, it uses the LLM to create its training data from prior iterations, then refines its policy by separating the responses it generated from the human-annotated data. This shows that the method can make the LLM perform better and outperform models trained via DPO with GPT-4 preference data.|
+
+## News
+|Link|description|
+|---|---|
+|[Microsoft’s Copilot app is now available on iOS.](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai) | The Microsoft Copilot app lets you ask questions, draft text, and generate images using AI. |
+|[Stuff we figured out about AI in 2023.](https://simonwillison.net/2023/Dec/31/ai-in-2023/) | This piece aims to summarize the major advancements in AI research throughout the course of 2023. It addresses a number of topics, including LLM applications, the issue of gullibility, model tweaking, and how to execute LLMs on personal devices. When used appropriately, LLMs can significantly improve the quality of life for those who use them. Although they are really rather simple to construct, many applications still find them to be unstable and there is still plenty to learn about them.|
+|[Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models.](https://github.com/eternityyw/gemini-commonsense-evaluation) |This study conducts a thorough evaluation of Gemini Pro's efficacy in commonsense reasoning tasks, employing a diverse array of datasets that span both language-based and multimodal scenarios. |
+|[Noise-free Optimization in Early Training Steps for Image Super-Resolution.](https://arxiv.org/abs/2312.17526v1) | By concentrating on two crucial elements—the ideal centroid of possible high-resolution images and the intrinsic noise that degrades image quality—researchers have created a novel technique that enhances single image super-resolution.|
+|[AI-created “virtual influencers” are stealing business from humans.](https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/) |Brands are turning to hyper-realistic, AI-generated influencers for promotions. |
+|[DeepMind AI outdoes human mathematicians on unsolved problem.](https://www.nature.com/articles/d41586-023-04043-w) |Large language model improves on efforts to solve combinatorics problems inspired by the card game Set. |
+|[Nikon, Sony, and Canon fight AI fakes with new camera tech.](https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech) |Digital signatures to provide a way to tell real photos from deep fakes |
+|[Intel to spin out AI software firm with outside investment.](https://finance.yahoo.com/news/intel-spins-ai-software-firm-133626026.html) | Intel on Wednesday said it was forming a new independent company around its artificial intelligence software efforts with backing from digital-focused asset manager DigitalBridge Group and other investors.|
+|[Search startup Perplexity AI valued at $520 mln in funding from Bezos, Nvidia.](https://www.reuters.com/technology/perplexity-ai-valued-520-mln-funding-bezos-nvidia-2024-01-04/) |Search startup Perplexity AI has raised $73.6 million from a group of investors including Nvidia |
+|[OpenAI’s app store for GPTs will launch next week.](https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/) | OpenAI plans to launch a store for GPTs, custom apps based on its text-generating AI models (e.g. GPT-4), sometime in the coming week.|
+|[Google appears to be working on an ‘advanced’ version of Bard that you have to pay for.](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription) | Google might be on track to release a Gemini Ultra-powered Bard Advanced.|
+|[LLM Training and Inference with Intel Gaudi 2 AI Accelerators.](https://www.databricks.com/blog/llm-training-and-inference-intel-gaudi2-ai-accelerators) | Excellent training throughput, flops, and decoding bandwidth are features of the new Intel processor, which is accessible for on-premise deployment across many platforms.|
+|[GitHub makes Copilot Chat generally available, letting devs ask questions about code.](https://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/) |GitHub’s launching Chat in general availability for all users. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[llm-course.](https://github.com/mlabonne/llm-course) |Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+|[Bash One-Liners for LLMs.](https://justine.lol/oneliners/) |A project called Llamafile combines the inference and model code into a single portable executable. In order to handle command line output further, this blog post explains how to do so. |
+|[pykoi: RLHF/RLAIF in one unified interface.](https://github.com/CambioML/pykoi) |pykoi is an open-source Python library for improving LLMs with RLHF. We provide a unified interface including RLHF/RLAIF data and feedback collection, finetuning with reinforcement learning and reward modeling, and LLM comparisons. |
+|[gpt-fast.](https://github.com/pytorch-labs/gpt-fast) |Simple and efficient pytorch-native transformer text generation. |
+|[TinyGPT-V.](https://github.com/DLYuanGod/TinyGPT-V) |TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones |
+|[sbs-generator.](https://github.com/TheWiselyBearded/sbs-generator?utm_source=tldrai) |This repository contains a framework for converting monocular videos into side-by-side (SBS) 3D videos. It utilizes a combination of image processing techniques and depth map predictions to generate separate views for each eye, creating a 3D effect when viewed with appropriate hardware. |
+|[ColBERTv2: Indexing & Search Notebook.](https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb) |ColBERT is a cutting-edge generation and retrieval technique. To assist readers in getting up to speed and experimenting with the technique, the authors have included a notepad. |
+|[intel-extension-for-transformers.](https://github.com/intel/intel-extension-for-transformers?utm_source=tldrai) |An Innovative Transformer-based Toolkit to Accelerate GenAI/LLM Everywhere |
+|[aMUSEd: An Open MUSE Reproduction.](https://huggingface.co/papers/2401.01808) |We present aMUSEd, an open-source, lightweight masked image model (MIM) for text-to-image generation based on MUSE. With 10 percent of MUSE's parameters, aMUSEd is focused on fast image generation. |
+|[RAGatouille.](https://github.com/bclavie/RAGatouille) | Easily use and train state-of-the-art retrieval methods in any RAG pipeline. Designed for modularity and ease of use, backed by research.|
+|[ODTrack.](https://github.com/gxnu-zhonglab/odtrack) |ODTrack is a simple, flexible, and effective video-level tracking pipeline, which densely associates the contextual relationships of video frames in an online token propagation manner.  |
+|[ARLib.](https://github.com/coderwzw/arlib) |An open-source framework for conducting data poisoning attacks on recommendation systems, designed to assist researchers and practitioners. |
+|[Learning JAX as a PyTorch developer.](https://kidger.site/thoughts/torch2jax/) | Some ideas about the transition from Pytorch to Jax. This post explains nine key ideas that set Jax apart and make it effective; each is illustrated with a lovely piece of code.|
+|[Mitigating Hallucination in LLMs.](https://arxiv.org/abs/2401.01313) | A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models|
+|[If LLM Is the Wizard, Then Code Is the Wand.](https://arxiv.org/abs/2401.00812) |A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[How IBM Sees AI Changing the Game for Companies of All Sizes with IBM’s VP of Technology and Director of Startups.](https://www.saastr.com/how-ai-is-changing-the-game-for-companies-with-ibm/) |AI technology is revolutionizing a variety of sectors' business landscapes. In this article, IBM's Director of Startups Kylie Rutherford, and Vice President of Software and Technology Raj Datta discuss how artificial intelligence (AI) is transforming business for organizations of all kinds and provide several use examples for different products. |
+|[LLMs and Programming in the first days of 2024.](http://antirez.com/news/140) | Large Language Models (LLMs) have greatly accelerated code creation and comprehension of intricate APIs or frameworks in 2023, making them indispensable for programmers. LLMs perform well at high-level Python coding and routine chores, but they are less effective at sophisticated system programming. They may also be used as a simplified form of documentation and as an effective method for increasing productivity.|
+|[Surge in number of ‘extremely productive’ authors concerns scientists.](https://www.nature.com/articles/d41586-023-03865-y) |Some researchers publish a new paper every five days, on average. Data trackers suspect not all their manuscripts were produced through honest labor. |
+|[Satellite images reveal untracked human activity on the oceans.](https://www.nature.com/articles/d41586-023-03983-7) | Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.|
+|[Revealing the ‘Clever Hans Effect’ in AI-Driven Drug Discovery.](https://bnnbreaking.com/tech/ai-ml/revealing-the-clever-hans-effect-in-ai-driven-drug-discovery/) |In a landmark study at the University of Bonn, a team led by Prof. Dr. Jürgen Bajorath has revealed a significant finding about the role of artificial intelligence (AI) in pharmaceutical research. |
+|[What We Learned About AI and Education in 2023.](https://aisupremacy.substack.com/p/what-we-learned-about-ai-and-education) |From Disruption to Integration: AI Responsive Education in 2023 |
+|[The AI trust crisis.](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) |Users worry that their data may be used to train OpenAI's models as a result of Dropbox's new AI features, even though Dropbox has denied this and has a policy requiring customer agreement for such usage. This circumstance draws attention to a larger crisis of confidence in AI and data privacy, highlighting the necessity of corporations communicating clearly and being open about how they use data. |
+|[The official OpenAI prompt engineering guide.](https://platform.openai.com/docs/guides/prompt-engineering/) | a thorough, step-by-step manual that outlines methods and techniques for improving performance with big language models such as GPT-4.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 # 2023
 
