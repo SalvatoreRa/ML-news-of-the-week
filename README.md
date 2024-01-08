@@ -16,11 +16,11 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # Index
 
-# 2024
+## 2024
 
 * [ML news: Week 1 - 7 January](#ML-news-Week-1-7-January)
 
-# 2023
+## 2023
 
 * [ML news: Week 18 - 24 December](#ML-news-Week-18-24-December)
 * [ML news: Week 11 - 17 December](#ML-news-Week-11-17-December)
@@ -31,6 +31,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 * [ML news: Week 6-12 October](#ML-news-Week-6-12-November)
 * [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
+
+[Back to index](#Index)
 
 # 2024
 
@@ -71,11 +73,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Google appears to be working on an ‘advanced’ version of Bard that you have to pay for.](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription) | Google might be on track to release a Gemini Ultra-powered Bard Advanced.|
 |[LLM Training and Inference with Intel Gaudi 2 AI Accelerators.](https://www.databricks.com/blog/llm-training-and-inference-intel-gaudi2-ai-accelerators) | Excellent training throughput, flops, and decoding bandwidth are features of the new Intel processor, which is accessible for on-premise deployment across many platforms.|
 |[GitHub makes Copilot Chat generally available, letting devs ask questions about code.](https://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/) |GitHub’s launching Chat in general availability for all users. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -95,9 +92,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Learning JAX as a PyTorch developer.](https://kidger.site/thoughts/torch2jax/) | Some ideas about the transition from Pytorch to Jax. This post explains nine key ideas that set Jax apart and make it effective; each is illustrated with a lovely piece of code.|
 |[Mitigating Hallucination in LLMs.](https://arxiv.org/abs/2401.01313) | A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models|
 |[If LLM Is the Wizard, Then Code Is the Wand.](https://arxiv.org/abs/2401.00812) |A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -110,14 +105,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[What We Learned About AI and Education in 2023.](https://aisupremacy.substack.com/p/what-we-learned-about-ai-and-education) |From Disruption to Integration: AI Responsive Education in 2023 |
 |[The AI trust crisis.](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) |Users worry that their data may be used to train OpenAI's models as a result of Dropbox's new AI features, even though Dropbox has denied this and has a policy requiring customer agreement for such usage. This circumstance draws attention to a larger crisis of confidence in AI and data privacy, highlighting the necessity of corporations communicating clearly and being open about how they use data. |
 |[The official OpenAI prompt engineering guide.](https://platform.openai.com/docs/guides/prompt-engineering/) | a thorough, step-by-step manual that outlines methods and techniques for improving performance with big language models such as GPT-4.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
+[Back to index](#Index)
 
 # 2023
 
