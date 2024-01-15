@@ -18,6 +18,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2024
 
+* [ML news: Week 8 - 14 January](#ML-news-Week-8-14-January)
 * [ML news: Week 1 - 7 January](#ML-news-Week-1-7-January)
 
 ## 2023
