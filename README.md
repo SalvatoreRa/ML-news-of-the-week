@@ -17,7 +17,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
-
+* [ML news: Week 15 - 21 January](#ML-news-Week-15-21-January)
 * [ML news: Week 8 - 14 January](#ML-news-Week-8-14-January)
 * [ML news: Week 1 - 7 January](#ML-news-Week-1-7-January)
 
@@ -36,6 +36,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 15 - 21 January
+
+
+
+[Back to index](#Index)
 
 # ML news: Week 8 - 14 January
 
