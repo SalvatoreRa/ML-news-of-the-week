@@ -110,6 +110,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[trapped-in-texture-bias.](https://github.com/johannestheo/trapped-in-texture-bias) |This is the official code release for the paper Trapped in texture bias. A large-scale comparison of deep instance segmentation |
 |[MegaDolphin-120b.](https://huggingface.co/cognitivecomputations/MegaDolphin-120b) |MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b |
 |[TACO(Topics in Algorithmic COde generation dataset).](https://github.com/FlagOpen/TACO) |TACO (Topics in Algorithmic COde generation dataset) is a dataset focused on algorithmic code generation, designed to provide a more challenging training dataset and evaluation benchmark for the code generation model field.  |
+|[AlphaFold found thousands of possible psychedelics. Will its predictions help drug discovery?](https://www.nature.com/articles/d41586-024-00130-8)|Researchers have doubted how useful the AI protein-structure tool will be in discovering medicines — now they are learning how to deploy it effectively.|
 
 
 ## Perspectives
