@@ -130,6 +130,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Road To Honest AI.](https://www.astralcodexten.com/p/the-road-to-honest-ai) |Identifying and modifying honesty-related vectors within the AI or employing unrelated questions to discover lying tendencies based on the AI's response consistency are two strategies suggested by recent studies to regulate AI honesty. |
 
 ![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme1.jpg)
+
 [Back to index](#Index)
 
 # ML news: Week 8 - 14 January
