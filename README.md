@@ -233,6 +233,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[NVIDIA’s CEO on Leading Through the A.I. Revolution.](https://hbr.org/podcast/2023/12/nvidias-ceo-on-leading-through-the-a-i-revolution) |In this podcast, NVIDIA CEO and co-founder Jensen Huang shares his thoughts on how he steers his company through rapidly changing times and offers advice to other entrepreneurs on how to stay competitive by incorporating AI into their operations. |
 |[It’s Humans All the Way Down.](https://blog.jim-nielsen.com/2024/humans-all-the-way-down/) |Because everyone believes that everyone else's work is simple, people believe that AI will replace a lot of employment. Ignorance is the foundation for the desire to exclude humans from the equation. It is impossible to ignore the fact that people matter, even in the craziest of ideas. Humans want to be seen and understood by other humans. |
 
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme2.jpg)
 
 [Back to index](#Index)
 
@@ -305,6 +306,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[What We Learned About AI and Education in 2023.](https://aisupremacy.substack.com/p/what-we-learned-about-ai-and-education) |From Disruption to Integration: AI Responsive Education in 2023 |
 |[The AI trust crisis.](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) |Users worry that their data may be used to train OpenAI's models as a result of Dropbox's new AI features, even though Dropbox has denied this and has a policy requiring customer agreement for such usage. This circumstance draws attention to a larger crisis of confidence in AI and data privacy, highlighting the necessity of corporations communicating clearly and being open about how they use data. |
 |[The official OpenAI prompt engineering guide.](https://platform.openai.com/docs/guides/prompt-engineering/) | a thorough, step-by-step manual that outlines methods and techniques for improving performance with big language models such as GPT-4.|
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme3.jpg)
 
 [Back to index](#Index)
 
@@ -403,6 +406,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Year One of Generative AI: Six Key Trends.](https://foundationcapital.com/year-one-of-generative-ai-six-key-trends) |In this post, drawing on countless founder meetings and pitch decks, we distill our first-hand learnings into six trends that have defined the generative AI space throughout 2023 and that are set to shape its trajectory in 2024. |
 |[Marketplaces in the Age of AI.](https://a16z.com/marketplaces-in-the-age-of-ai/) |For the past 20 years, marketplaces have dominated company models. This is a summary from a16z discussing their predictions on how AI would affect this kind of business. Customizing the experience for both sides of the marketplace is the main concept. |
 
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme4.jpg)
+
 [Back to index](#Index)
 
 # ML news: Week 11 - 17 December
@@ -492,6 +497,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The real research behind the wild rumors about OpenAI’s Q* project.](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors) | OpenAI hasn't said what Q* is but it has revealed plenty of clues.|
 |[Two Titans on the Future of AI (with Reid Hoffman & Vinod Khosla).](https://www.newcomer.co/p/two-titans-on-the-future-of-ai-with) |A double header from Cerebral Valley. |
 
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme5.jpg)
+
 [Back to index](#Index)
 
 # ML news: Week 4 - 10 December
@@ -579,6 +586,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[ChatGPT one year on: who is using it, how and why?.](https://www.nature.com/articles/d41586-023-03798-6) | In just a year, ChatGPT has permeated scientific research. Seven scientists reveal what they have learned about how the chatbot should — and shouldn’t — be used.|
 |[ML system design: 300 case studies to learn from.](https://www.evidentlyai.com/ml-system-design) |How do companies like Netflix, Airbnb, and Doordash apply machine learning to improve their products and processes? We put together a database of 300 case studies from 80+ companies that share practical ML use cases and learnings from designing ML systems. |
 
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme6.jpg)
+
 [Back to index](#Index)
 
 # ML news: Week 27 November - 3 December
@@ -665,6 +674,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[In The Age Of AI, Google Experiments With Bold Changes To Search.](https://www.bigtechnology.com/p/in-the-age-of-ai-google-experiments) | The excitement surrounding Q*, the purported AI breakthrough from OpenAI, illustrates the tech community's propensity to quickly change focus and conjecture about the next great development in AI, frequently with no information—a phenomenon known as "Shiny Object Syndrome."|
 |[A global hit: AI translation tools help singers break down borders.](https://www.semafor.com/article/11/10/2023/ai-translation-tools-help-singers-break-down-borders) |While some producers view the cost as prohibitive, YouTube, Mr. Beast, and a South Korean label are among the companies using AI to dub video content into many languages. |
 |[ChatGPT is winning the future — but what future is that?.](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future) | OpenAI didn’t mean to kickstart a generational shift in the technology industry. But it did. Now all we have to decide is where to go from here.|
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme7.jpg)
 
 [Back to index](#Index)
 
