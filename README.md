@@ -9,6 +9,7 @@ For each week you will find different sections:
 * **News:** the most important news related to companies, institutions, and much more
 * **Resources:** released resources for artificial intelligence and machine learning
 * **Perspectives:** a collection of deep and informative articles about open questions in artificial intelligence
+and a meme for starting well the week.
 
 ## Suggestions and corrections
 
