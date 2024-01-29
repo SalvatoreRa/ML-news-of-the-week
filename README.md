@@ -127,8 +127,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Google AI has better bedside manner than human doctors — and makes better diagnoses.](https://www.nature.com/articles/d41586-024-00099-4) | Researchers say their artificial-intelligence system could help to democratize medicine.|
 |[Tech developers must respect equitable AI access.](https://www.nature.com/articles/d41586-024-00185-7) | We argue for a legal framework to ensure equitable access to artificial intelligence (AI) tools, such as ChatGPT, to avoid limiting their benefits to a privileged few|
 |[Seven technologies to watch in 2024.](https://www.nature.com/articles/d41586-024-00173-x) | Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation|
-|[If AI Were Conscious, How Would We Know?.](https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we) | When discussing AI consciousness, references to Searle's Chinese Room Thought Experiment and the Turing Test are frequently made. The former examines whether an AI's conduct can be distinguished from that of a human, while the latter contends that exterior behavior is insufficient to demonstrate consciousness. Given that our knowledge of consciousness in AI is mostly derived on functionalist theories and human experiences, this argument emphasizes how difficult it is to define and identify consciousness in AI.|
+|[If AI Were Conscious, How Would We Know?.](https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we) | When discussing AI consciousness, references to Searle's Chinese Room Thought Experiment and the Turing Test are frequently made. The former examines whether an AI's conduct can be distinguished from that of a human, while the latter contends that exterior behavior is insufficient to demonstrate consciousness. Given that our knowledge of consciousness in AI is mostly derived from functionalist theories and human experiences, this argument emphasizes how difficult it is to define and identify consciousness in AI.|
 |[AI today and trends for an AI future.](https://davidtsong.substack.com/p/ai-today-and-trends-for-an-ai-future) | A survey of experts on: How are early adopters using AI today? Where is AI going in 2024?|
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme8.jpg)
+
+[Back to index](#Index)
 
 # ML news: Week 15 - 21 January
 
