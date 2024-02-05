@@ -122,7 +122,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) |AI is already capable of completing several jobs in less than a minute, thus businesses and staff will need to stress the need to utilize AI for good rather than evil. |
 |[The American Dynamism 50: AI.](https://a16z.com/american-dynamism-50-ai/) |This list of 50 companies, compiled by a16z, addresses some of the most important issues facing the US in the areas of manufacturing, transportation, energy, and military. They're all utilizing AI to speed up their work in one way or another. This is an excellent insight if you're interested in practical uses of artificial intelligence. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme8.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme9.jpg)
 
 [Back to index](#Index)
 
