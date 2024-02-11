@@ -133,7 +133,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Thesis on value accumulation in AI.](https://lethain.com/value-accumulation-in-ai/) |This investor's perspective breaks down the layers of value that exist in AI today into three categories: AI-enhanced products (like all of you that use AI to improve your products), modeling and core (like OpenAI and Anthropic), and infrastructure layer (like cloud providers and chip makers). |
 
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme9.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme10.jpg)
 
 [Back to index](#Index)
 
