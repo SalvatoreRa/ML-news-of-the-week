@@ -129,7 +129,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024.](https://www.nature.com/articles/d41586-024-00274-7) | Faced with data restrictions and harassment, researchers are mapping out fresh approaches to studying social media’s political reach.|
 |[Why "Chat over Your Data" Is Harder Than You Think.](https://www.arcus.co/blog/chat) |Contrary to popular belief, developing chat-based, domain-specific LLM applications and copilots is challenging. Achieving strong performance, managing intricate queries and data, and providing robust data retrieval for LLM-based chat apps are a few of the difficulties. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme10.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme11.jpg)
 
 [Back to index](#Index)
 
