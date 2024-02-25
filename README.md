@@ -135,7 +135,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[This is why the idea that AI will just augment jobs, never replace them, is a lie!.](https://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html) |AI will automate labor in certain areas. The response thus far has been divided: would increased efficiency allow for more human workers to accomplish the same duties, or will fewer workers be needed? This article compares and contrasts the effects of technology on manufacturing, agriculture, and the contemporary knowledge worker. |
 |[LLM evaluation at scale with the NeurIPS Large Language Model Efficiency Challenge.](https://blog.mozilla.ai/exploring-llm-evaluation-at-scale-with-the-neurips-large-language-model-efficiency-challenge/) |‍After a year of breakneck innovation and hype in the AI space, we have now moved sufficiently beyond the peak of the hype cycle to start asking a critical question: are LLMs good enough yet to solve all of the business and societal challenges we are setting them up for? |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme11.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme12.jpg)
 
 [Back to index](#Index)
 
