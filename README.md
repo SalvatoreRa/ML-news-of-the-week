@@ -67,14 +67,14 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments. |
 |[Object Recognition as Next Token Prediction.](https://github.com/kaiyuyue/nxtp) |an innovative approach to object recognition that makes use of a language decoder. With this approach, text tokens are predicted from picture embeddings by using a customized non-causal attention mask. It makes it possible to sample many labels in parallel effectively. |
 |[TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment.](https://arxiv.org/abs/2401.03854v1) | To evaluate the quality of the generated images, TIER makes use of both written prompts and the images that result from them. |
-| [.]()| |
-| [.]()| |
-| [.]()| |
-| [.]()| |
-| [.]()| |
-| [.]()| |
-| [.]()| |
-| [.]()| |
+| [Large Language Models for Data Annotation: A Survey.](https://arxiv.org/abs/2402.13446)| |
+| [Generative Representational Instruction Tuning.](https://arxiv.org/abs/2402.09906)| |
+| [LoRA+: Efficient Low Rank Adaptation of Large Models.](https://arxiv.org/abs/2402.12354)| |
+| [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs.](https://arxiv.org/abs/2402.14740)| |
+| [In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs Miss.](https://arxiv.org/abs/2402.10790)| |
+| [When is Tree Search Useful for LLM Planning? It Depends on the Discriminator.](https://arxiv.org/abs/2402.10890)| |
+| [Chain-of-Thought Reasoning Without Prompting.](https://arxiv.org/abs/2402.10200)| |
+| [OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement.](https://arxiv.org/abs/2402.14658)| |
 
 ## News
 |Link|description|
