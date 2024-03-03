@@ -19,6 +19,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 26 February - 3 March](#ML-news-Week-26-February-3-March])
 * [ML news: Week 19 - 25 February](#ML-news-Week-19-25-February)
 * [ML news: Week 12 - 18 February](#ML-news-Week-12-18-February)
 * [ML news: Week 5 - 11 February](#ML-news-Week-5-11-February)
@@ -43,6 +44,14 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 26 February - 3 March
+
+
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme12.jpg)
+
+[Back to index](#Index)
 
 # ML news: Week 19 - 25 February
 
