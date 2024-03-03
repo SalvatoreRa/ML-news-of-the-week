@@ -139,7 +139,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[StarCoder2.](https://huggingface.co/bigcode/starcoder2-15b) |StarCoder2-15B model is a 15B parameter model trained on 600+ programming languages from The Stack v2, with opt-out requests excluded. |
 |[The paradox of diffusion distillation.](https://sander.ai/2024/02/28/paradox.html) |Diffusion models decompose complex issues, such as image production, into numerous smaller issues, such as minimizing a small amount of noise in an image. Single-step diffusion generation has received a lot of attention, however it appears to miss the mark. This article examines the diffusion distillation conundrum and lists the various avenues of inquiry that might be pursued. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme12.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme13.jpg)
 
 [Back to index](#Index)
 
