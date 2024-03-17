@@ -151,7 +151,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[How to thrive in a crowded enterprise AI market.](https://lsvp.com/stories/generative-sf-how-to-thrive-in-a-crowded-enterprise-ai-market/) |At a Lightspeed event, Arvind Jain, CEO of Glean, spoke on the difficulties and solutions facing corporate AI startups. He emphasized the need to provide genuine business value, being tenacious in hiring, and placing a higher priority on product quality than speed and cost. Jain also emphasized how privacy and security issues have slowed down the deployment of generative AI tools in businesses. Glean wants to become a widely used workplace AI platform that completely transforms how people work by becoming firmly integrated into organizational operations. |
 |[As AI tools get smarter, they’re growing more covertly racist, experts find.](https://www.theguardian.com/technology/2024/mar/16/ai-racism-chatgpt-gemini-bias) | ChatGPT and Gemini discriminate against those who speak African American Vernacular English, report shows|
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme14.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme15.jpg)
 
 [Back to index](#Index)
 
