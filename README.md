@@ -75,11 +75,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Introducing SceneScript, a novel approach for 3D scene reconstruction.](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/) | A model developed by Meta Reality Labs may convert visual input into a three-dimensional (3D) representation of a scene. The 70m parameter model has exceptional stability and operates rapidly on the device.|
 |[Scalable Diffusion Models with State Space Backbone.](https://arxiv.org/abs/2402.05608v1) | A novel kind of diffusion model known as Diffusion State Space Models (DiS) uses a state space backbone for image data instead of the conventional U-Net. These models are effective at producing high-quality photos with little computing work and can manage long-range relationships. |
 |[PuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns.](https://arxiv.org/abs/2403.13315v1) |PuzzleVQA is a dataset created to evaluate big multimodal models such as GPT-4V's capacity for abstract thinking. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -110,11 +106,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Biden-Harris Administration Announces Deal with Intel for AI Chips.](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support) | Biden-Harris Administration Announces Preliminary Terms with Intel to Support Investment in U.S. Semiconductor Technology Leadership and Create Tens of Thousands of Jobs|
 |[Apple’s AI ambitions could include Google or OpenAI.](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt) | The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT.|
 |[World’s first major act to regulate AI passed by European lawmakers.](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html) | The European Union’s parliament on Wednesday approved the world’s first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment. Born in 2021, the EU AI Act divides the technology into categories of risk, ranging from “unacceptable” — which would see the technology banned — to high, medium and low hazard.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -138,10 +129,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Stylized image binning algorithm.](https://benjdd.com/posts/stylized-image-binning-algorithm/) |This is a tutorial on utilizing a JavaScript binning method to create an image processing application that looks like pixel art and has customizable interactive web features like sliders. By averaging pixel brightness inside bins, the binning technique transforms photos into stylized, pixelated artwork by utilizing parameters like bin size and spacing. The approach entails efficiently optimizing looping structures and modifying pixel data on HTML canvas components. |
 |[TorchTune.](https://github.com/pytorch/torchtune) | TorchTune is a native-Pytorch library for easily authoring, fine-tuning and experimenting with LLMs.|
 |[MVFA-AD.](https://github.com/mediabrain-sjtu/mvfa-ad) |Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -166,12 +153,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI and the Future of Work.](https://unchartedterritories.tomaspueyo.com/p/ai-and-the-future-of-work) | High Mensa exam scores for Anthropic's most recent AI, Claude, indicate that self-improving AI is not far off and present both prospects and existential concerns. As seen at Klarna, where a customer support AI replaced 700 workers, machine learning is already eliminating jobs. This suggests that automation is becoming more and more common. Recent layoffs at Duolingo as a result of AI's translation capabilities highlight this change and the increasing influence of AI on the nature of work in the future.|
 |[Two years later, deep learning is still faced with the same fundamental challenges.](https://garymarcus.substack.com/p/two-years-later-deep-learning-is) |Gary Marcus revisits his forecasts two years after writing a pessimistic AI paper, and he maintains his original mistrust. Even with breakthroughs like GPT-4, basic problems like true understanding and reliable AI are still unsolved. Marcus draws the conclusion that multidisciplinary cooperation is essential to achieving AGI, and that increasing data and processing capacity alone won't be enough. |
 |[From 0 to 10 million users in four years.](https://www.growthunhinged.com/p/from-0-to-10-million-copy-ai) | In just four years, the AI-powered writing tool Copy.ai has amassed an amazing 10 million users. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme16.jpg)
 
