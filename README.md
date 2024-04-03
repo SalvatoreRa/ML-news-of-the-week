@@ -151,7 +151,7 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[AI escape velocity.](https://www.bvp.com/atlas/ai-escape-velocity-a-conversation-with-ray-kurzweil) | The law of accelerating returns, which holds that progress is made at an exponential pace over time, was created by AI futurist Ray Kurzweil. Kurzweil covered a wide range of subjects in a recent talk, such as prospects that are only going to get better, the future of the AI economy, human relationships with AIs, lifespan escape velocity, and much more.|
 |[Plentiful, high-paying jobs in the age of AI.](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) |Experts in AI are investigating automating human functions, raising fears about job losses and declining wages. The belief that advances in AI would eventually render human labor obsolete, however, may not be accurate. Constraints like computer power and opportunity costs may mean that humans will still have jobs in an AI-dominated future, but this is not a given. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme17.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme17.webp)
 
 [Back to index](#Index)
 
