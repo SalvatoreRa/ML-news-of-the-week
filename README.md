@@ -76,11 +76,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning.](https://arxiv.org/abs/2403.17369v1) |A novel method for Unsupervised Domain Adaptation (UDA) is called CoDA. It learns from variances at both the scene and image levels, which aids AI models in becoming more adaptive to unlabeled, difficult settings. |
 |[Backtracing: Retrieving the Cause of the Query.](https://github.com/rosewang2008/backtracing) | This method finds the precise content—from lectures to news articles—that prompts users to ask questions online. Backtracing is a technique that seeks to assist content producers in improving their work by locating and comprehending the reasons for misunderstandings, inquisitiveness, or emotional responses.|
 |[CT-CLIP.](https://github.com/ibrahimethemhamamci/CT-CLIP) | A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -116,12 +112,6 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[LLaVA-HR: High-Resolution Large Language-Vision Assistant .](https://github.com/luogen1996/llava-hr) | This repository contains the implementation of LLaVA-HR, a strong and efficient MLLM powered by our mixture-of-resolution adaptation.|
 |[Meta is adding AI to its Ray-Ban smart glasses next month.](https://theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch) |The Ray-Ban Meta Smart Glasses can do things like identify objects, monuments, and animals, as well as translate text. |
 |[Google bringing Gemini Nano to Pixel 8 with next Feature Drop.](https://9to5google.com/2024/03/28/pixel-8-gemini-nano-feature-drop/) |The Pixel 8 will get Gemini Nano, in developer preview, to power Summarize in Recorder and Gboard Smart Reply. The latter allows for “higher-quality smart replies” that have “conversational awareness” and should be generated faster. On the Pixel 8 Pro, it works with WhatsApp, Line, and KakaoTalk. Meanwhile, Summarize can take a recording and generate bullet points.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -139,14 +129,6 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[Deepfake Generation and Detection: A Benchmark and Survey.](https://arxiv.org/abs/2403.17881v1) |This thorough analysis explores the developments and difficulties around deepfake technology and its detection, emphasizing the arms race between those who produce deepfakes and those who are creating systems to identify them. |
 |[Evaluate LLMs in real time with Street Fighter III.](https://github.com/OpenGenerativeAI/llm-colosseum) |Make LLM fight each other in real time in Street Fighter III. Each player is controlled by an LLM. We send to the LLM a text description of the screen. The LLM decide on the next moves its character will make. The next moves depends on its previous moves, the moves of its opponents, its power and health bars.|
 |[Superpipe.](https://superpipe.ai/blog/2024/03/26/introducing-superpipe/) | Superipe is a lightweight framework to build, evaluate and optimize LLM pipelines for structured outputs: data labeling, extraction, classification, and tagging. Evaluate pipelines on your own data and optimize models, prompts and other parameters for the best accuracy, cost, and speed.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -168,14 +150,6 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[Towards 1-bit Machine Learning Models.](https://mobiusml.github.io/1bit_blog/) |Recent works on extreme low-bit quantization such as BitNet and 1.58 bit have attracted a lot of attention in the machine learning community. The main idea is that matrix multiplication with quantized weights can be implemented without multiplications, which can potentially be a game-changer in terms of compute efficiency of large machine learning models. |
 |[AI escape velocity.](https://www.bvp.com/atlas/ai-escape-velocity-a-conversation-with-ray-kurzweil) | The law of accelerating returns, which holds that progress is made at an exponential pace over time, was created by AI futurist Ray Kurzweil. Kurzweil covered a wide range of subjects in a recent talk, such as prospects that are only going to get better, the future of the AI economy, human relationships with AIs, lifespan escape velocity, and much more.|
 |[Plentiful, high-paying jobs in the age of AI.](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) |Experts in AI are investigating automating human functions, raising fears about job losses and declining wages. The belief that advances in AI would eventually render human labor obsolete, however, may not be accurate. Constraints like computer power and opportunity costs may mean that humans will still have jobs in an AI-dominated future, but this is not a given. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme17.jpg)
 
