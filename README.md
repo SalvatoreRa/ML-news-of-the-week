@@ -76,15 +76,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Mixture-of-Depths: Dynamically allocating compute in transformer-based language models.](https://arxiv.org/abs/2404.02258) | The fact that every token consumes the same amount of predictive computation is one disadvantage of contemporary transformers. But compared to other tokens, some are far simpler to predict. With this work, DeepMind has paved the way for dynamic compute with a limited maximum by allowing models to depart early in order to spend fewer flops on certain tokens. For the same performance, there are 50% fewer failures at generation time.|
 |[InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation.](https://github.com/instantstyle/instantstyle) | With InstantStyle, image personalization takes a new turn by addressing the issue of style consistency without requiring intricate fine-tuning. This framework guarantees precise and consistent visual stylization, merging style intensity with text management with a seamless integration of style-specific sections and a clever division of style and content in images.|
 |[T-GATE: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models.](https://github.com/haozheliu-st/t-gate) |By splitting the process into parts for planning and revising, TGATE presents an effective method for creating visuals. By correcting some outputs early on, this strategy not only makes the creation process simpler, but it also surprisingly enhances image quality. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -125,18 +117,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Tesla Raising Pay for AI Engineers To Counter Poaching, Musk Says.](https://www.investopedia.com/tesla-raising-pay-for-ai-engineers-to-counter-poaching-musk-says-8624619) | Tesla is raising pay for its artificial intelligence (AI) engineers as it fends off poaching from the likes of OpenAI, Chief Executive Officer (CEO) Elon Musk said in a series of posts on X. The plan to boost the pay of AI staff comes as the talent wars for people well-versed in the technology heats up.|
 |[YouTube Says OpenAI Training Sora With Its Videos Would Break Rules.](https://ca.finance.yahoo.com/news/youtube-says-openai-training-sora-185454534.html) |The use of YouTube videos to train OpenAI’s text-to-video generator would be an infraction of the platform's terms of service, YouTube Chief Executive Officer Neal Mohan said. |
 |[AI-generated YC Demo Day video.](https://twitter.com/eyc/status/1775636877732663673) |AI was utilized by a team from the latest YC cohort to create their demo day video. This is an unprecedented action taken by a firm. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -157,15 +137,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Infrastructure Explained.](https://salesforceventures.com/perspectives/ai-infrastructure-explained/) |Innovative applications of AI have captured the public’s imagination over the past year and a half. What’s less appreciated or understood is the infrastructure powering these AI-enabled technologies. But as foundational models get more powerful, we’ll need a strong technology stack that balances performance, cost, and security to enable widespread AI adoption and innovation. |
 |[Introducing world's largest synthetic open-source Text-to-SQL dataset.](https://gretel.ai/blog/synthetic-text-to-sql-dataset) | HuggingFace currently has 23 million text to SQL tokens ready for use. In order to assist in producing SQL queries based on tasks involving natural language, Gretel has gathered a sizable dataset. This can support the creation of synthetic data as well as RAG applications.|
 |[Write OpenAPI with TypeSpec.](https://blog.trl.sn/blog/typespec-for-openapi/) |Compared to JSON or YAML, TypeSpec, an API specification language created at Microsoft, provides a more succinct and understandable format for writing OpenAPI. It solves the verbosity and lack of reusable components in OpenAPI by allowing the specification of API patterns as reusable components, which streamlines code production and governance at scale. This is done by drawing inspiration from TypeScript's syntax. The flexibility and productivity gains of TypeSpec may increase the appeal of developing applications using APIs first. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -187,14 +158,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Inside the shadowy global battle to tame the world's most dangerous technology.](https://www.politico.eu/article/ai-control-kamala-harris-nick-clegg-meta-big-tech-social-media/) |This article explores the intricate global attempts to control artificial intelligence (AI), which is considered to be one of the most powerful and dangerous technologies of our day. |
 |[How to win at Vertical AI.](https://platforms.substack.com/p/how-to-win-at-vertical-ai) | Vertical B2B applications, where AI agents and open APIs play a critical role in rebundling and generating new business value, are where artificial intelligence truly shines. Domain-specific models provide vertical AI with an advantage in the near term, but horizontal integration into larger ecosystems is necessary for long-term success. AI agents make it possible to rebundle workflows, which transforms management procedures and gives businesses new competitive advantages across a range of industries.|
 |[Where AI Thrives, Religion May Struggle.](https://www.chicagobooth.edu/review/where-ai-thrives-religion-may-struggle) |According to a study headed by Adam Waytz and Joshua Conrad Jackson, there may be a correlation between a drop in religious beliefs and growing exposure to robotics and AI. Higher robotization countries have higher declines in religiosity. According to the study, those whose occupations involved a lot of AI had a much lower likelihood of believing in God. These associations suggest that automation technologies could have an impact on the loss of religion. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-
 
 ![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme17.webp)
 
