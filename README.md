@@ -19,6 +19,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 1 - 7 April](#ML-news-Week-Week-1-7-April)
 * [ML news: Week 25 - 31 March](#ML-news-Week-Week-25-31-March)
 * [ML news: Week 18 - 24 March](#ML-news-Week-Week-18-24-March)
 * [ML news: Week 11 - 17 March](#ML-news-Week-Week-11-17-March)
@@ -48,6 +49,10 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 1 - 7 April
+
+
 
 # ML news: Week 25 - 31 March
 
