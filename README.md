@@ -84,10 +84,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[FedPFT: Federated Proxy Fine-Tuning of Foundation Models.](https://arxiv.org/abs/2404.11536v1) | Federated Proxy Fine-Tuning (FedPFT), a novel technique created by researchers, enhances foundation models' ability to adjust for certain tasks while maintaining data privacy. |
 |[In-Context Learning State Vector with Inner and Momentum Optimization.](https://arxiv.org/abs/2404.11225v1) | In this research, a novel method for improving In-Context Learning (ICL) in big language models such as GPT-J and Llama-2 is presented. The authors introduce a novel optimization technique that enhances compressed representations of the model's knowledge, referred to as "state vectors." |
 |[Decomposing and Editing Predictionsby Modeling Model Computation.](https://github.com/madrylab/modelcomponents) | To determine each component's precise contribution to the final result, component modeling dissects a model's prediction process into its most fundamental parts, such as attention heads and convolution filters.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -117,9 +114,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[OpenAI winds down AI image generator that blew minds and forged friendships in 2022.](https://arstechnica.com/information-technology/2024/04/when-ai-images-were-mind-blowing-early-users-recall-the-first-days-of-dall-e-2/) |When OpenAI's DALL-E 2 debuted on April 6, 2022, the idea that a computer could create relatively photorealistic images on demand based on just text descriptions caught a lot of people off guard. The launch began an innovative and tumultuous period in AI history, marked by a sense of wonder and a polarizing ethical debate that reverberates in the AI space to this day. Last week, OpenAI turned off the ability for new customers to purchase generation credits for the web version of DALL-E 2, effectively killing it. |
 |[Stability AI lays off roughly 10 percent of its workforce.](https://www.theverge.com/2024/4/18/24133996/stability-ai-lay-off-emad-mostaque) | Stability AI laid off 20 employees just a day after announcing the expansion of access to its new flagship model. This comes after weeks of upheaval that saw its founding CEO leave the company.|
 |[The Humane AI Pin is lost in translation.](https://www.theverge.com/2024/4/18/24134180/humane-ai-pin-translation-wearables) |Though the Humane AI Pin has a lot of drawbacks, its translation feature might be the worst. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -140,18 +135,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Gateway.](https://github.com/Portkey-AI/gateway) |Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency. |
 |[moondream.](https://github.com/vikhyat/moondream) | a tiny vision language model that kicks ass and runs anywhere|
 |[Sentence Embeddings. Introduction to Sentence Embeddings.](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/) | This series aims to demystify embeddings and show you how to use them in your projects. This first blog post will teach you how to use and scale up open-source embedding models. We’ll look into the criteria for picking an existing model, current evaluation methods, and the state of the ecosystem. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
