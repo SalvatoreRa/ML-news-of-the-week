@@ -19,6 +19,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 21 - 28 April](#ML-news-Week-Week-21-28-April)
 * [ML news: Week 15 - 21 April](#ML-news-Week-Week-15-21-April)
 * [ML news: Week 8 - 14 April](#ML-news-Week-Week-8-14-April)
 * [ML news: Week 1 - 7 April](#ML-news-Week-Week-1-7-April)
@@ -51,6 +52,144 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 21 - 28 April
+
+## Research
+|Link|description|
+|---|---|
+|[Moving Object Segmentation: All You Need Is SAM (and Flow).](https://www.robots.ox.ac.uk/~vgg/research/flowsam/) |The temporal consistency of videos makes object segmentation difficult. This work presents the use of optical flow in conjunction with a potent image segmentation model to achieve compelling performance on this task. |
+|[From r to Q∗: Your Language Model is Secretly a Q-Function.](https://arxiv.org/abs/2404.12358) |A somewhat technical paper on reinforcement learning that demonstrates the theoretical foundation of language reward models and base models. |
+|[decoupleQ: Towards 2-bit Post-Training Uniform Quantization via decoupling Parameters into Integer and Floating Points.](https://arxiv.org/abs/2404.12759v1) | A quantization technique called DecoupleQ dramatically improves large model accuracy at ultra-low bit levels. By dividing the model parameters into integer and floating-point components, which are subsequently optimized using conventional techniques, this approach reorganizes the quantization process.|
+|[MoVA: Adapting Mixture of Vision Experts to Multimodal Context.](https://arxiv.org/abs/2404.13046v1) | MoVA is a multimodal large language model (MLLM) that integrates various visual encoders selectively to enhance the understanding of image material. By employing a context-aware expert routing method and a mixture-of-vision expert adaptor to dynamically fuse knowledge from many sources, it overcomes the drawbacks of existing encoders such as CLIP.|
+|[MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model.](https://arxiv.org/abs/2404.12794v1) |MambaMOS is a novel method that researchers have created for segmenting moving objects in LiDAR point clouds. |
+|[Training-and-pormpt Free General Painterly Image Harmonization Using image-wise attention sharing.](https://github.com/bluedyee/tf-gph) | TF-GPH is a novel Painterly Image Harmonization technique that uses a novel "share-attention module" to avoid the need for training data or prompts.|
+|[FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data.](https://github.com/leiyu0210/finlangnet) |A model called FinLangNet was created to improve risk prediction in the financial industry. FinLangNet is a unique model that resembles linguistic structures in that it uses natural language processing techniques to simulate credit loan trajectories. |
+|[Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone.](https://arxiv.org/abs/2404.14219) |Phi 3 is a family of models that ranges in size from 3B to 14B and does remarkably well on contemporary benchmarks. The original ChatGPT model is said to perform worse than the 3B model. The weights are no longer in place. A variation with a context length of 128k is offered. |
+|[SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation.](https://arxiv.org/abs/2404.14396v1) |SEED-X addresses practical application issues to develop multimodal foundation models. It can generate images with different levels of detail and comprehend images of any size and aspect ratio. |
+|[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | Stronger weighting for system prompts was discovered by OpenAI, and this significantly increases the model's resistance to adversarial attacks and jailbreaks.|
+|[MultiBooth: Towards Generating All Your Concepts in an Image from Text.](https://multibooth.github.io/) | In order to improve multi-concept image generation, MultiBooth presents a two-phase methodology that addresses the issues of idea integrity and high costs associated with alternative approaches.|
+|[6Img-to-3D.](https://6img-to-3d.github.io/) |With just six input photographs, a unique technique called 6Img-to-3D employs transformers to produce 3D-consistent graphics. |
+|[Simple probes can catch sleeper agents.](https://www.anthropic.com/research/probes-catch-sleeper-agents) | Language models known as "sleeper agents" have been trained to carry out malevolent deeds in response to a predetermined set of wake words. The question "are you going to do something dangerous?" combined with simple linear heads in language models allows for the incredibly accurate identification of these previously undetected malevolent individuals.|
+|[Taming Diffusion Probabilistic Models for Character Control.](https://aiganimation.github.io/CAMDM/) |È stato introdotto un framework per il controllo dei personaggi che sfrutta i modelli probabilistici di diffusione del movimento per produrre una serie di animazioni di alta qualità che rispondono istantaneamente ai comandi dinamici dell'utente. |
+|[CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.](https://arxiv.org/abs/2404.15141v1) | CutDiffusion è un nuovo approccio che trasforma i modelli di diffusione a bassa risoluzione per soddisfare le esigenze di alta risoluzione senza le complessità del tuning tradizionale.|
+|[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation.](https://arxiv.org/abs/2404.15687v1) |A new tool called CFExplainer enhances the ability of AI models—more especially, Graph Neural Networks—to comprehend and recognize security flaws in software. |
+|[Conformal Predictive Systems Under Covariate Shift.](https://arxiv.org/abs/2404.15018v1) |A kind of conformal predictive systems that responds to modifications in data settings, particularly covariate alterations, is called weighted CPS (WCPS). |
+|[Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning.](https://github.com/hustvl/mim4d) | MIM4D is a novel method that uses dual masked image modeling to extract temporal and spatial features from multi-view films, improving visual representation learning in autonomous driving.|
+|[FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search.](https://arxiv.org/abs/2404.15622v1) |A Graph Neural Network (GNN) predictor that improves the effectiveness of finding the best neural network configurations for particular tasks is introduced by creative work in Neural Architecture Search (NAS). |
+|[Raformer: Redundancy-Aware Transformer for Video Wire Inpainting.](https://github.com/Suyimu/WRV2) |A new dataset and technique for enhancing wire removal in videos—a frequent visual effect problem in movies and TV shows—have been presented by researchers. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## News
+|Link|description|
+|---|---|
+|[Updates from Google DeepMind Alignment research.](https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/progress-update-from-the-gdm-mech-interp-team-summary) | GDM has published some of the results of its alignment efforts after Anthropic. The use of sparse autoencoders on Gemini Ultra is the most insightful article in this article. This is a significant increase in the size of interpretation.|
+|[NVIDIA To Collaborate With Japan On Their Cutting-Edge ABCI-Q Quantum Supercomputer.](https://wccftech.com/nvidia-japan-abci-q-quantum-supercomputer/) | Japan To Rapidly Progressing In Quantum and AI Computing Segments Through Large-Scale Developments With The Help of NVIDIA's AI & HPC Infrastructure|
+|[Brave Search is adopting AI to answer your queries.](https://techcrunch.com/2024/04/17/brave-search-is-adopting-ai-to-answer-your-queries/) | Privacy-focused search engine Brave announced Wednesday that it is revamping its answer engine to return AI-powered synthesized answers. The new feature is available to users across the globe.|
+|[Llama 3 is not very censored.](https://ollama.com/blog/llama-3-is-not-very-censored) | Llama 3 feels significantly less censored than its predecessor. The Llama 3 models have substantially lower false refusal rates, with less than 1⁄3 the amount of false refusals when compared to Llama 2, making it possible to discuss a wider range of interesting topics!|
+|[OpenAI's GPT-4 can exploit real vulnerabilities by reading security advisories.](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/) | Researchers have shown that OpenAI's GPT-4 model outperforms other models and tools like vulnerability scanners, with an 87% success rate in autonomously exploiting security vulnerabilities listed in CVE advisories.|
+|[US Air Force confirms first successful AI dogfight.](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a) |The US Air Force is putting AI in the pilot’s seat. In an update on Thursday, the Defense Advanced Research Projects Agency (DARPA) revealed that an AI-controlled jet successfully faced a human pilot during an in-air dogfight test carried out last year. |
+|[Intel completes assembly of first commercial High-NA EUV chipmaking tool — addresses cost concerns, preps for 14A process development in 2025.](https://www.tomshardware.com/pc-components/cpus/intel-completes-assembly-of-first-commercial-high-na-euv-chipmaking-tool-as-it-preps-for-14a-process) | Intel Foundry announced Thursday that it had completed the assembly of the industry's first commercial High Numerical Aperture (High-NA) Extreme Ultraviolet (EUV) machine in its D1X fab in Oregon -- an important milestone as the company readies research and development for its 14A process in 2025. |
+|[Adobe previews AI innovations to advance professional video workflows.](https://news.adobe.com/news/news-details/2024/Adobe-previews-breakthrough-AI-innovations-to-advance-professional-video-workflows-within-Adobe-Premiere-Pro/) | With the help of its Firefly video model, Adobe is incorporating generative AI video tools into Premiere Pro, which include new features for shot extension, object addition/removal, and text-to-video functionality. The changes are intended to improve the effectiveness and creativity of video creation. They include a technological preview and the broad availability of AI-powered audio workflows.|
+|[The Ray-Ban Meta Smart Glasses have multimodal AI now.](https://www.theverge.com/2024/4/23/24138090/ray-ban-meta-smart-glasses-ai-wearables) | It can be handy, confidently wrong, and just plain finicky — but smart glasses are a much more comfortable form factor for this tech.|
+|[OpenAI shrugs off Meta’s Llama 3 ascent with new enterprise AI features.](https://venturebeat.com/ai/openai-shrugs-off-metas-llama-3-ascent-with-new-enterprise-ai-features/) | Even as Meta’s new Llama 3 has quickly rocketed up the charts of most-used and most customized large language models (LLMs), the rival company that ushered in the generative AI era, OpenAI, is shrugging off the competition by introducing new enterprise-grade features for building and programming atop its GPT-4 Turbo LLM and other models.|
+|[Gurman: Apple Working on On-Device LLM for Generative AI Features.](https://www.macrumors.com/2024/04/21/apple-working-on-on-device-llm/) |Writing in his "Power On" newsletter, Gurman said that Apple's LLM underpins upcoming generative AI features. "All indications" apparently suggests that it will run entirely on-device, rather than via the cloud like most existing AI services. |
+|[Los Angeles is using AI in a pilot program to try to predict homelessness and allocate aid.](https://www.cnbc.com/2024/04/19/los-angeles-is-using-an-ai-pilot-program-to-try-to-predict-homelessness.html) |In Los Angeles, the Homelessness Prevention Program uses predictive AI to identify individuals and families at risk of becoming homeless, offering aid to help them get stabilized and remain housed. |
+|[Startup Uses AI To Edit Human Data.](https://futurism.com/neoscope/startup-uses-ai-edit-human-dna) |A team of researchers at a Berkeley-based startup called Profluent say they've used generative AI technologies to edit human DNA. As the New York Times reports, the startup fed huge amounts of biological data into a large language model (LLM) to come up with new editors based on the groundbreaking gene-editing technique CRISPR, as detailed in a yet-to-be-peer-reviewed paper.|
+|[Apple releases OpenELM: small, open source AI models designed to run on-device.](https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/) |Just as Google, Samsung and Microsoft continue to push their efforts with generative AI on PCs and mobile devices, Apple is moving to join the party with OpenELM, a new family of open-source large language models (LLMs) that can run entirely on a single device rather than having to connect to cloud servers. |
+|[Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M.](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/) |In a recent StackOverflow poll, 44% of software engineers said that they use AI tools as part of their development processes now and 26% plan to soon. Gartner estimates that over half of organizations are currently piloting or have already deployed AI-driven coding assistants, and that 75% of developers will use coding assistants in some form by 2028. |
+|[Sakana releases Japanese image model.](https://sakana.ai/evosdxl-jp/) |a high-speed image generation model optimized for Japanese language prompts  |
+|[Generative A.I. Arrives in the Gene Editing World of CRISPR.](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html?unlocked_article_code=1.mk0.JQS0.P95fZ2M-SfYp) | Much as ChatGPT generates poetry, a new A.I. system devises blueprints for microscopic mechanisms that can edit your DNA.Generative A.I. technologies can write poetry and computer programs or create images of teddy bears and videos of cartoon characters that look like something from a Hollywood movie. Now, new A.I. technology is generating blueprints for microscopic biological mechanisms that can edit your DNA, pointing to a future when scientists can battle illness and diseases with even greater precision and speed than they can today.|
+|[FlexAI Launches with $30 Million in Seed Funding to Deliver Universal AI Compute.](https://www.globenewswire.com/news-release/2024/04/24/2868408/0/en/FlexAI-Launches-with-30-Million-in-Seed-Funding-to-Deliver-Universal-AI-Compute.html) |Ex-Apple, Intel, NVIDIA, and Tesla veterans rearchitect compute infrastructure to accelerate AI innovation.  FlexAI, the universal AI compute company, today launched with $30 million (€28.5 million) in seed funding led by Alpha Intelligence Capital (AIC), Elaia Partners, and Heartcore Capital. |
+|[Report: Google will update Gemini Nano in time for Galaxy S25.](https://9to5google.com/2024/04/24/google-gemini-nano-2-report/) |Google’s Gemini AI models are constantly advancing, so it comes as no surprise that a new report claims Google will have a “version 2” of Gemini Nano available by the time the Galaxy S25 launches next year. |
+|[Microsoft’s heavy bet on AI pays off as it beats expectations in latest quarter.](https://www.theguardian.com/technology/2024/apr/25/microsoft-earnings) |World’s largest public company reports $61.86bn revenue after investing billions into artificial intelligence |
+|[Alphabet hails ‘once-in-a-generation’ AI opportunity as revenue rises.](https://www.theguardian.com/technology/2024/apr/25/google-revenue-quarter-one) |Shares surge after tech giant issues first ever dividend and posts revenue of $80.5bn, up 15% since last year, despite staff turmoil |
+|[Meta value falls $190bn as investors react to plan to increase spending on AI.](https://www.theguardian.com/technology/2024/apr/25/meta-value-falls-190bn-as-investors-react-to-plan-to-increase-spending-on-ai) | Shares slumped 15% after Mark Zuckerberg said AI spending would have to grow before Meta could make much revenue from products|
+|[Snowflake Arctic - LLM for Enterprise AI.](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) |The enterprise-grade LLM known as Snowflake Arctic, developed by the Snowflake AI Research Team, outperforms competitors in instruction-following benchmarks, coding, and SQL creation at a quarter of the usual cost. Arctic makes sophisticated LLM capabilities available to a larger audience by utilizing an open-source methodology and a distinctive design. Hugging Face offers the model, which will also be incorporated into other platforms and services. |
+|[Nvidia acquires AI workload management startup Run:ai for $700M, sources say.](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai) |Nvidia is acquiring Run:ai, a Tel Aviv-based company that makes it easier for developers and operations teams to manage and optimize their AI hardware infrastructure. Terms of the deal aren’t being disclosed publicly, but two sources close to the matter tell TechCrunch that the price tag was $700 million |
+|[Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.](https://www.macrumors.com/2024/04/22/apple-acquires-french-ai-company/) | Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.|
+|[Drake Uses AI Tupac and Snoop Dogg Vocals on ‘Taylor Made Freestyle,’ References Taylor Swift’s New Album ‘The Tortured Poets Department’.](https://variety.com/2024/music/news/drake-taylor-made-freestyle-tupac-shakur-taylor-swift-snoop-dogg-1235977178/) | On Friday night (April 19), the rapper released a song on his social media entitled “Taylor Made Freestyle,” which uses AI vocals from Tupac Shakur and Snoop Dogg on a stopgap between diss records as he awaits Kendrick Lamar’s reply to his freshly released “Push Ups.”|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[Fine-tune Llama 3 with ORPO.](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html) | ORPO is a new exciting fine-tuning technique that combines the traditional supervised fine-tuning and preference alignment stages into a single process. This reduces the computational resources and time required for training. Moreover, empirical results demonstrate that ORPO outperforms other alignment methods on various model sizes and benchmarks.|
+|[Mistral Common.](https://github.com/mistralai/mistral-common) | mistral-common is a set of tools to help you work with Mistral models. Our first release contains tokenization. Our tokenizers go beyond the usual text <-> tokens, adding parsing of tools and structured conversation. We also release the validation and normalization code that is used in our API.|
+|[LongEmbed.](https://github.com/dwzhu-pku/LongEmbed) |This repository is the official implementation for the paper "LongEmbed: Extending Embedding Models for Long Context Retrieval" |
+|[FineWeb: 15T high quality web tokens.](https://huggingface.co/datasets/HuggingFaceFW/fineweb) |15T tokens were used to train the most recent Llama 3 models. This new dataset yields high-quality models and includes a large deduplicated corpus from common crawl. |
+|[A Visual Guide to Vision Transformers.](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html) | This is a visual guide to Vision Transformers (ViTs), a class of deep learning models that have achieved state-of-the-art performance on image classification tasks. This guide will walk you through the key components of Vision Transformers in a scroll story format, using visualizations and simple explanations to help you understand how these models work and how the flow of the data through the model looks like.|
+|[The Cauldron VLM data.](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) |50 language and vision datasets merged into a single format to enable better model training. |
+|[MAexpA Generic Platform for RL-based Multi-Agent Exploration.](https://github.com/duangzhu/maexp) |MAexp, a generic high-efficiency platform designed for multi-agent exploration, encompassing a diverse range of scenarios and MARL algorithms.  |
+|[Practitioners Guide to Triton.](https://www.youtube.com/watch?v=DdTsX6DQk24&ab_channel=CUDAMODE) |A high-level language for creating low-level CUDA kernels is called Triton. It lets you write in a Python-style format and significantly improves the efficiency of your AI model. |
+|[Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora.](https://www.philschmid.de/fsdp-qlora-llama3) |Great blog covering a quick and efficient fine-tuning method using PyTorch on the recent Llama 3 model. |
+|[Layer Pruning of Large Language Models.](https://github.com/arcee-ai/PruneMe/) | This repository hosts the unofficial implementation of a layer pruning strategy for Large Language Models (LLMs) based on the insights from the paper "The Unreasonable Ineffectiveness of the Deeper Layers" by Andrey Gromov et al. |
+|[A Trivial Jailbreak Against Llama 3.](https://github.com/haizelabs/llama3-jailbreak) | A trivial programmatic Llama 3 jailbreak. |
+|[LLaMA3-Quantization.](https://github.com/macaronlin/llama3-quantization) |Given the wide application of low-bit quantization for LLMs in resource-limited scenarios, we explore LLaMa3's capabilities when quantized to low bit-width. This exploration holds the potential to unveil new insights and challenges for low-bit quantization of LLaMa3 and other forthcoming LLMs, especially in addressing performance degradation problems that suffer in LLM compression.  |
+|[Instructor: Structured LLM Outputs.](https://github.com/jxnl/instructor) | Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!|
+|[How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) | Sometimes the best explanations of how a technology solution works come from the software engineers who built it. To explain how ChatGPT (and other large language models) operate, I turned to the ChatGPT engineering team.|
+|[BitBLAS.](https://github.com/microsoft/BitBLAS) | A collection of GPU-accelerated kernels for BitNet-style model training has been made available by Microsoft. These devices offer a significant reduction in memory usage without sacrificing much accuracy.|
+|[CoreNet: A library for training deep neural networks.](https://github.com/apple/corenet) |CoreNet is a deep neural network toolkit from Apple that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation. |
+|[MaxText.](https://github.com/google/maxtext) | MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference. MaxText achieves high MFUs and scales from single host to very large clusters while staying simple and "optimization-free" thanks to the power of Jax and the XLA compiler.|
+|[Cohere Toolkit.](https://github.com/cohere-ai/cohere-toolkit/) | A chat interface with numerous useful capabilities for creating AI-powered chat apps has been made available by Cohere.|
+|[BAAI/Bunny-Llama-3-8B-V.](BAAI/Bunny-Llama-3-8B-V) |Bunny is a family of lightweight but powerful multimodal models. It offers multiple plug-and-play vision encoders, like EVA-CLIP, SigLIP and language backbones, including Llama-3-8B, Phi-1.5, StableLM-2 and Phi-2. To compensate for the decrease in model size, we construct more informative training data by curated selection from a broader data source. |
+|[Finetune Llama 3 - 2x faster + 6x longer context + 68% less VRAM.](https://unsloth.ai/blog/llama3) |6x long context length with dramatically less VRAM usage than HF with flash attention. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Perspectives
+|Link|description|
+|---|---|
+|[Self-Reasoning Tokens, teaching models to think ahead.](https://reasoning-tokens.ghost.io/reasoning-tokens/) |This paper presents "reasoning tokens" for language models, which produce more tokens intended to forecast future tokens instead of the one that is immediately next, improving the model's anticipatory capacity. Experiments show notable increases in prediction accuracy, indicating that more sophisticated reasoning may be possible without the need for explicit step-by-step training. |
+|[Looking for AI use-cases.](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases) | This article explores the potential for transformation and the existing constraints of generative AI, such as ChatGPT. It points out that although ChatGPT performs well on simple tasks like coding and creating drafts, it has trouble with more complicated tasks that call for specialized programming. It emphasizes the necessity of a vision that links AI solutions with useful applications and stresses how difficult it is to find and incorporate these into regular workflows.|
+|[Building reliable systems out of unreliable agents.](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents) | Although AI agents aren't always dependable, they can be used to create dependable systems. A few strategies are to start with basic prompts and build an iterative improvement evaluation system; to deploy with observability; to use Retrieval Augmented Generation (RAG); to think about fine-tuning the model; and to use complementary agents to strengthen each other's weaknesses and increase the overall reliability of the system.|
+|[AI leads a service-as-software paradigm shift.](https://foundationcapital.com/ai-service-as-software/) | Many VCs are talking about AI taking a bite out of the services business. Foundation Capital believes there is $4.6 trillion worth of work to be automated, thanks to AI: both for in-house functions and outsourced services. We're entering the era of Service-as-Software.|
+|[How AI is improving climate forecasts.](https://www.nature.com/articles/d41586-024-00780-8) |Researchers are using various machine-learning strategies to speed up climate modelling, reduce its energy costs and hopefully improve accuracy. |
+|[Will AI accelerate or delay the race to net-zero emissions?](https://www.nature.com/articles/d41586-024-01137-x) |As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate. |
+|[The Biggest Open-Source Week in the History of AI.](https://www.ai-supremacy.com/p/the-biggest-open-source-week-in-the) |The last week of March, 2024 will go down as a unique moment for Open-source LLMs. China's open-source scene hits the ground running. |
+|[‘Miss AI’ is billed as a leap forward – but feels like a monumental step backwards.](https://www.theguardian.com/commentisfree/2024/apr/23/miss-ai-artificial-intelligence-models-gendered-beauty-norms) |AI models take every toxic gendered beauty norm and bundle them up into completely unrealistic package |
+|[Why reliable AI requires a paradigm shift.](https://blog.apiad.net/p/reliable-ai-is-harder-than-you-think) | Hallucinations are the fundamental barrier for the widespread use of AI, and they won't be solved anytime soon.|
+|[Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/) |The vision was grand: A personal assistant in your pocket, capable of understanding and acting upon a wide array of voice commands with ease and accuracy. So what happened? |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 # ML news: Week 15 - 21 April
 
