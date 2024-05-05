@@ -81,7 +81,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Long-Context Data Engineering.](https://github.com/franxyao/long-context-data-engineering) | The technique presented in this work allows language models to be greatly extended to context lengths of up to 128K, highlighting the significance of training data diversity and quantity.|
 |[StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.](https://github.com/ironjr/StreamMultiDiffusion) |StreamMultiDiffusion is a framework that enables real-time region-based text-to-image generation. |
 
-
 ## News
 |Link|description|
 |---|---|
@@ -111,7 +110,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Apple reports slumping iPhone sales as global demand weakens.](https://www.theguardian.com/technology/article/2024/may/02/apple-earnings-iphone-sales-decrease) | iPhone sales fell 10% compared with the same time period last year, but the company still beat Wall Street’s expectations|
 |[Microsoft bans US police departments from using enterprise AI tool for facial recognition.](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/) |Microsoft has reaffirmed its ban on U.S. police departments from using generative AI for facial recognition through Azure OpenAI Service, the company’s fully managed, enterprise-focused wrapper around OpenAI tech. |
 |[Meta plans to build $800 million, next-generation data center in Montgomery.](https://www.madeinalabama.com/2024/05/meta-plans-to-build-800-million-next-generation-data-center-in-montgomery/) | MONTGOMERY, Alabama — Governor Kay Ivey announced today that technology company Meta Platforms plans to open an $800 million data center in Alabama’s capital city that will support 100 operational jobs and build on the company’s previous investment in the state.|
-
 
 ## Resources
 |Link|description|
@@ -145,7 +143,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[databonsai.](https://github.com/databonsai/databonsai) |databonsai is a Python library that uses LLMs to perform data cleaning tasks. |
 |[InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions.](https://github.com/nttmdlab-nlp/instructdoc) | The InstructDr model is engineered to perform exceptionally well in a range of visual document interpretation tasks, including information extraction and question answering. Through the use of big language models combined with document images, InstructDr can outperform existing models and adapt to new tasks and datasets.|
 
-
 ## Perspectives
 |Link|description|
 |---|---|
@@ -161,7 +158,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Great Talent Dividend and NYC's AI Opportunity.](https://www.luxcapital.com/news/the-great-talent-dividend-and-nycs-ai-opportunity) |NYC's leadership in AI is a testament to its rich talent pool and expanding stature as a hub for AI. Tech professionals and AI unicorns have been drawn to NYC's tech ecosystem. Resources such as top institutions and a $400 million fund from the AI Research Consortium power it. |
 |[How AI apps make money.](https://www.growthunhinged.com/p/how-ai-apps-make-money) |With an emphasis on per-user fees, most AI apps have embraced traditional subscription-based pricing models in recent years, reflecting their function as digital assistants rather than human worker replacements. Newer AI companies are starting to use creative pricing techniques, like outcome-based models, which charge only for good outcomes, potentially increasing client adoption and revenue.|
 |[Danger and opportunity for news industry as AI woos it for vital human-written copy.](https://www.theguardian.com/media/article/2024/may/04/danger-and-opportunity-for-news-industry-as-ai-woos-it-for-vital-human-written-copy) | With large language models needing quality data, some publishers are offering theirs at a price while others are blocking access|
-
 
 ![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme22.jpg)
 
