@@ -145,8 +145,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) |Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come |
 
 
-
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme23.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme24.jpg)
 
 [Back to index](#Index)
 
