@@ -166,7 +166,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[A Grand Unified Theory of the AI Hype Cycle.](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html) | Over the years, the AI sector has experienced multiple hype cycles, each of which produced really useful technology and outlasted the previous one. Instead of following an exponential process, every cycle adheres to a sigmoid one. There is an inevitable limit to any technology development strategy, and it is not too difficult to find. Although this AI hype cycle is unlike any other that has come before it, it will probably go in the same direction.|
 |[Hi, AI: Our Thesis on AI Voice Agents.](https://a16z.com/ai-voice-agents/) |The current state of AI speech agents is described in a blog post and deck created by Andreessen Horowitz, along with potential areas for advancement and investment. It outlines the present state of the B2B and B2C application layer landscape and covers the top infrastructure stack. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme27.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme27.jpg.png)
 
 [Back to index](#Index)
 
