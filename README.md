@@ -62,6 +62,9 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # ML news: Week 10 - 16 June
 
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme28.jpg.png)
+
+[Back to index](#Index)
 
 
 # ML news: Week 3 - 9 June
