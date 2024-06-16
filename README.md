@@ -162,7 +162,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Maintaining Large-Scale AI Capacity At Meta.](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/) |To meet AI demands, Meta is modernizing its data centers throughout the world. For AI training tasks, it intends to scale to 600,000 GPUs. In order to assure minimal disruptions and constant performance while enabling quick infrastructure scalability, this calls for creative maintenance tactics and tools like OpsPlanner. |
 
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme28.jpg.png)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme28.jpg)
 
 [Back to index](#Index)
 
