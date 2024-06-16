@@ -1,6 +1,6 @@
-# ML news of the week
+# ML & AI news of the week
 
-A collection of the best ML news every week (research, news, resources). Star this repository if you find it useful.
+A collection of the best ML & AI news every week (research, news, resources). Star this repository if you find it useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
 
@@ -19,6 +19,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 10 - 16 June](#ML-news-Week-10-16-June)
 * [ML news: Week 3 - 9 June](#ML-news-Week-3-9-June)
 * [ML news: Week 27 May - 2 June](#ML-news-Week-27-May-2-June)
 * [ML news: Week 20 - 26 May](#ML-news-Week-20-26-May)
@@ -58,6 +59,10 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 10 - 16 June
+
+
 
 # ML news: Week 3 - 9 June
 
