@@ -89,8 +89,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
 |[AlphaProof: AI achieves silver-medal standard solving International Mathematical Olympiad problems.](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) |A pre-trained Gemini-style language model and an AlphaGo-style reinforcement learning algorithm were combined by DeepMind to create a model that can tackle International Mathematics Olympiad (IMO) questions at the silver medal level. In this year's challenge, the system was able to tackle 4/6 issues. |
 |[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. Additionally, our technique guarantees cross-model transferability among quantized models.|
-|[Elon Musk’s X under pressure from regulators over data harvesting for Grok AI.](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai) |Social media platform uses pre-ticked boxes of consent, a practice that violates UK and EU GDPR rules |
-|[A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost.](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost) |Science secretary backs five quantum technology hubs in push for UK to transform healthcare and industry |
 
 ## News
 |Link|description|
@@ -126,6 +124,9 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Elon Musk's Neuralink employees want to cash out .](https://www.fastcompany.com/91161279/elon-musks-neuralink-employees-want-cash-out-heres-why) |Some of the staff at Elon Musk’s Neuralink are making preparations to sell the brain implant company’s stock in the wake of its valuation jumping following its first human trial, according to people familiar with the matter. |
 |[The AI boyfriend business is booming.](https://www.axios.com/2024/07/24/ai-boyfriend-replika-nomi-chatbot) | More and more women are turning to chatbots for companionship and connection because they see their empathetic representation to be more reliable than that of many human partners. By defying the image of undersocialized men conversing with AI partners in their parent's basement, these female AI users are questioning preconceived notions about what it means to be in a relationship.|
 |[OpenAI announces free fine-tuning for GPT-4o mini model.](https://www.infoworld.com/article/3477228/openai-announces-free-fine-tuning-for-gpt-4o-mini-model.html) | Free fine-tuning allows OpenAI customers to train the GPT-4o mini model on additional data at no charge until September 23, starting with Tier 4 and Tier 5 users.|
+|[Elon Musk’s X under pressure from regulators over data harvesting for Grok AI.](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai) |Social media platform uses pre-ticked boxes of consent, a practice that violates UK and EU GDPR rules |
+|[A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost.](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost) |Science secretary backs five quantum technology hubs in push for UK to transform healthcare and industry |
+
 
 ## Resources
 |Link|description|
