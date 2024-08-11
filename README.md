@@ -83,21 +83,9 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation.](https://arxiv.org/abs/2407.20650v1) |This work presents enhancements to line search strategies that improve the efficiency of stochastic gradient descent systems. |
 |[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) |Utilizing LLMs, researchers have created an automated approach for generating reviews in order to assist in managing the massive amount of scientific material. |
 |[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | CLEFT is a Contrastive Learning technique meant for medical imaging that aims to overcome the drawbacks of current, resource-intensive CLIP-like methods.|
-|[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) |To boost model performance, there is a lot of demand to leverage computation at inference time. This essay explores the trade-offs made between various approaches and presents a number of useful ones. This often suggests a larger trend of getting more performance out of smaller machines. |
-|[An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion.](https://omages.github.io/) |It is easy to utilize a DiT model to generate unique things based on textual inputs by treating 3D objects as UV wrapped images. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) |To boost model performance, there is a lot of demand to leverage computation at inference time. This essay explores the trade-offs made between various approaches and presents several useful ones. This often suggests a larger trend of getting more performance out of smaller machines. |
+|[An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion.](https://omages.github.io/) |It is easy to utilize a DiT model to generate unique things based on textual inputs by treating 3D objects as UV-wrapped images. |
+
 
 ## News
 |Link|description|
