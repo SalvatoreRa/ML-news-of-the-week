@@ -127,10 +127,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Microsoft launches GitHub Models, offering 100 million developers easy access to leading AI tools.](https://betanews.com/2024/08/01/microsoft-github-models-ai/) | Microsoft has introduced "GitHub Models," a new platform that enables over 100 million developers to integrate AI into their software projects by providing access to a variety of AI models. This includes popular models like Llama 3.1, GPT-4o, and Mistral Large 2, among others. Developers can explore these models for free through a built-in model playground on GitHub, where they can experiment with different prompts and model parameters.|
 |[Google brings Gemini-powered search history and Lens to Chrome desktop.](https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/) |Google Thursday said that it is introducing new Gemini-powered features for Chrome’s desktop version, including Lens for desktop, tab compare for shopping assistance, and natural language integration for search history. |
 |[Apple changes EU App Store rules after commission charges.](https://www.theguardian.com/technology/article/2024/aug/09/apple-changes-eu-app-store-communication) | Change in policy means developers will be able to communicate with customers outside App Store|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -161,14 +157,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[PyTorch FlexAttention.](https://pytorch.org/blog/flexattention/) | A new API from PyTorch makes it possible to design and compile any kind of attention variant to Triton. Better portability, performance, and research velocity on attention types are made possible by this.|
 |[A Language Model with Quick Pre-Training.](https://github.com/Pints-AI/1.5-Pints) |The "1.5-Pints" Language Model offers a novel method for pre-training that is compute-efficient. This model outperforms Apple's OpenELM and Microsoft's Phi in instruction-following tasks, as determined by MT-Bench, by curating a high-quality dataset of 57 billion tokens. |
 |[lighthouse.](https://github.com/line/lighthouse) |Lighthouse is a user-friendly library for reproducible and accessible research on video moment retrieval (MR) and highlight detection (HD). It supports six VMR-HD models, three features, and five datasets for reproducible VMR-HD. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Perspectives
 |Link|description|
@@ -192,9 +180,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Is Coming for India's Famous Tech Hub.](https://www.msn.com/en-us/money/other/ai-is-coming-for-india-s-famous-tech-hub/ar-AA1omuJF) |AI integration is posing a danger to employment, particularly in routine operations like contact centers, which has caused a sea change in India's technology outsourcing sector. While recruiting is slowing down, companies are finding it difficult to move up the value chain. However, some are optimistic that AI technologies may open up new opportunities in fields like programming. Higher order cognitive abilities will be necessary in the sector going forward as automation continues to reshape traditional employment. |
 |[Inside the company that gathers ‘human data’ for every major AI company.](https://www.semafor.com/article/08/07/2024/inside-turing-the-company-gathering-human-data-for-every-major-ai-company) | Advances in AI pre-training have made it possible for models to handle large amounts of online data, and supervised fine-tuning with specialists afterwards aids in the models' ability to become more specialized and general. The goal of Turing's method is to improve AI reasoning capabilities by leveraging "input and output pairs" created by subject-matter experts. These models, foreseeing the "agentic" future of artificial intelligence, might integrate specialized knowledge across areas to accomplish complicated tasks independently.|
 
-
-
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme35.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme36.jpg)
 
 [Back to index](#Index)
 
