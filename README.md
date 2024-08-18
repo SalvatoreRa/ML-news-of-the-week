@@ -89,19 +89,11 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Sakana Launches AI Scientist.](https://sakana.ai/ai-scientist/) | A system that can independently conduct research by formulating hypotheses, carrying out experiments, developing code, and compiling the findings into well-reasoned publications has been unveiled by the Japanese artificial intelligence company Sakana. Together with an open-sourced version of the system, the company has supplied samples of the papers the system wrote.|
 |[Small but Mighty: Introducing answerai-colbert-small.](https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html) |ColBERT is a highly effective retrieval model. Despite having just 33 million parameters, this new model performs remarkably well on several measures. This article explains how to train a comparable model and what tips and techniques produced good results. |
 |[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.](https://arxiv.org/abs/2408.04961v1) |"Lazy visual grounding" is a two-step approach to open-vocabulary semantic segmentation that finds object masks independently of text and subsequently identifies the objects with textual information. |
-|[Introducing Agent Q: Research Breakthrough for the Next Generation of AI Agents with Planning & Self Healing Capabilities.](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities) |An agent educated by Multion to do web queries via self play. It increased from 18% to 81% during training on a range of web-based tasks, such as placing restaurant orders. To get better, it employs DPO and MCTS. A publication from this work is published on the website, and researchers from Stanford also contributed to it. It seems to be based on Salesforce Research's xLAM function calling mechanism. |
-|[Anchored Preference Optimization.](https://arxiv.org/abs/2408.06266) | Modifying models to conform to human tastes typically necessitates post-training. It is unclear, nevertheless, why one example is superior than another when these models are being trained. By using an existing example that has been deteriorated, APO allows models to anchor the preference difference.|
-|[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers.](https://arxiv.org/abs/2408.06195) |Research on tree search for inference time computation for language models is very active. This Microsoft article presents a very strong argument for how little models can significantly outperform large models on mathematical tasks. |
+|[Introducing Agent Q: Research Breakthrough for the Next Generation of AI Agents with Planning & Self Healing Capabilities.](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities) |An agent educated by Multion to do web queries via self-play. It increased from 18% to 81% during training on a range of web-based tasks, such as placing restaurant orders. To get better, it employs DPO and MCTS. A publication from this work is published on the website, and researchers from Stanford also contributed to it. It seems to be based on Salesforce Research's xLAM function calling mechanism. |
+|[Anchored Preference Optimization.](https://arxiv.org/abs/2408.06266) | Modifying models to conform to human tastes typically necessitates post-training. It is unclear, nevertheless, why one example is superior to another when these models are being trained. By using an existing example that has deteriorated, APO allows models to anchor the preference difference.|
+|[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers.](https://arxiv.org/abs/2408.06195) |Research on tree search for inference time computation for language models is very active. This Microsoft article presents a very strong argument for how small models can significantly outperform large models on mathematical tasks. |
 |[MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation.](https://arxiv.org/abs/2408.07576v2) |Based on the MetaFormer design, MetaSeg is a potent semantic segmentation network that improves the network's decoder and backbone. |
 |[Long Context RAG Performance of LLMs.](https://www.databricks.com/blog/long-context-rag-performance-llms) |This article investigates the performance of long context models on several RAG tasks. Increasing the amount of examples can be beneficial. These models frequently break down in odd but expected ways. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -137,17 +129,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Another Apple smart ring patent granted, includes controlling smart glasses.](https://9to5mac.com/2024/08/13/apple-smart-ring-patent-smart-glasses/) |A smart ring that can monitor health and control other Apple devices is described in a recently awarded patent by Apple, which also makes reference to potential integration with AR/VR headsets and smart glasses. |
 |[Iranian group used ChatGPT to try to influence US election, OpenAI says.](https://www.theguardian.com/technology/article/2024/aug/16/open-ai-chatgpt-iran) |AI company bans accounts and says operation did not appear to have meaningful audience engagement |
 |[Russia’s AI tactics for US election interference are failing, Meta says.](https://www.theguardian.com/technology/article/2024/aug/15/russia-us-election-interference-ai-meta-facebook-instagram) | New Meta security report finds that AI-powered deception campaigns ‘provide only incremental’ results for bad actors|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -176,11 +157,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Universal Waveform Generation.](https://periodwave.github.io/demo/) |This article investigates the performance of long context models on several RAG tasks. Increasing the amount of examples can be beneficial. These models frequently break down in odd but expected ways. |
 |[Security Risks in Model Merging.](https://github.com/jzhang538/badmerging) | New security threats surface as Model Merging (MM), a common technique for merging optimized models without further training, gains traction. The first backdoor attack that targets MM specifically is described in this publication, called BadMerging.|
 |[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.](https://arxiv.org/abs/2408.07666v2) | This survey offers a thorough analysis of model merging strategies, a machine learning technique that is becoming more and more popular and doesn't require costly computation or raw training data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
