@@ -1,5 +1,11 @@
 # ML & AI news of the week
 
+![ML & AI news of the week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/news.jpg)
+
+Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/it/@priscilladupreez) on [Unsplash](https://unsplash.com/it)
+
+
+
 A collection of the best ML & AI news every week (research, news, resources). Star this repository if you find it useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
