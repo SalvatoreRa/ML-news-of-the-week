@@ -195,7 +195,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Work From Home Free-for-All Is Coming to an End.](https://www.wsj.com/lifestyle/workplace/amazon-return-to-office-five-day-policy-1cf0c496) |Amazon’s CEO just called everyone back to the office full-time. If you thought your two days a week at home were safe, think again. |
 |[AI has returned chipmaking to the heart of computer technology.](https://www.economist.com/technology-quarterly/2024/09/16/ai-has-returned-chipmaking-to-the-heart-of-computer-technology) |And the technological challenges are bigger than the political ones, argues Shailesh Chitnis |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpeg)
+
 
 # ML news: Week 9 - 15 September
 
