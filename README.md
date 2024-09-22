@@ -25,6 +25,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 16 - 22 September](#ML-news-Week-16-122-September)
 * [ML news: Week 9 - 15 September](#ML-news-Week-9-15-September)
 * [ML news: Week 2 - 8 September](#ML-news-Week-2-8-September)
 * [ML news: Week 26 August - 1 September](#ML-news-Week-26-August-1-September)
@@ -78,6 +79,10 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 16 - 22 September
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpg)
 
 # ML news: Week 9 - 15 September
 
