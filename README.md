@@ -213,7 +213,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human potential, making possible tasks that currently seem beyond reach. With advancements in deep learning and greater computational power, AI will bring about innovations such as personal assistants, educational mentors, and healthcare consultants. It's crucial to prioritize accessibility and address potential risks, ensuring that the Intelligence Age leads to broad-based prosperity. |
 |[OpenAI just unleashed an alien of extraordinary ability.](https://www.understandingai.org/p/openai-just-unleashed-an-alien-of) |OpenAI's new o1 models demonstrate substantial improvements in reasoning abilities, surpassing existing models like GPT-4o. These advancements are achieved through a more refined reinforcement learning approach and improved chain-of-thought training, enabling the o1-enhanced models to tackle complex math and programming tasks with greater accuracy. However, they continue to face challenges with spatial reasoning and tasks that demand long-term contextual comprehension. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpeg)
 
 [Back to index](#Index)
 
