@@ -101,15 +101,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Larger and more instructable language models become less reliable.](https://www.nature.com/articles/s41586-024-07930-y) | Scaling up and shaping up large language models increased their tendency to provide sensible yet incorrect answers at difficulty levels humans cannot supervise, highlighting the need for a fundamental shift in artificial intelligence design towards reliability.|
 |[SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents.](https://arxiv.org/abs/2409.15817) |This work addresses the limitations of LLMs in drug discovery by integrating an advanced Retrieval-Augmented Generation (RAG) system for more accurate answers and combining LLMs with external tools to create an automatic target dossier. The result is a production-ready dossier with comprehensive data, summarized into a PDF and PowerPoint presentation. |
 |[Self-Explainable AI.](https://arxiv.org/abs/2409.16693v1) |In the field of explainable AI, there is a strong focus on developing self-explainable models, which offer a more principled approach compared to post-hoc methods that attempt to interpret decisions after they have been made by opaque models. Despite its potential, this line of research often faces challenges such as lack of reproducibility, difficulties in comparison, and inconsistent standards. To address these issues, we introduce CaBRNet, an open-source, modular, and backward-compatible framework for Case-Based Reasoning Networks |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -156,12 +148,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI is stressing networks out - Nvidia thinks AI can help.](https://www.fierce-network.com/wireless/ai-stressing-networks-out-nvidia-and-t-mobile-are-using-ai-fix-it) |Nvidia and T-Mobile are leveraging AI to manage the growing network traffic driven by increased AI usage in 5G environments. This collaboration aims to optimize network performance and efficiency, ensuring seamless connectivity and handling the surge in data demands associated with AI-driven applications. |
 |[Rabbit’s web-based ‘large action model’ agent arrives on r1 on October 1.](https://techcrunch.com/2024/09/23/rabbits-web-based-large-action-model-agent-arrives-on-r1-as-early-as-this-week/) |The Rabbit r1 was the must-have gadget of early 2024, but the blush fell off it pretty quickly when the company’s expansive promises failed to materialize. CEO Jesse Lyu admits that “on day one, we set our expectations too high” but also said that an update coming to devices next week will finally set the vaunted Large Action Model free on the web. |
 |[Boston Dynamics’ Spot can now autonomously unlock doors.](https://techcrunch.com/2024/09/23/boston-dynamics-spot-can-now-autonomously-unlock-doors/) | Boston Dynamics’ Spot will be able to autonomously unlock its automated doors.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -200,17 +187,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[statewide-visual-geolocalization.](https://github.com/fferflo/statewide-visual-geolocalization) | Researchers have developed a method that accurately determines the geolocation of street-view photos by matching them with a database of aerial images. This technique enhances the ability to pinpoint locations by leveraging the complementary perspectives of ground-level and overhead imagery, resulting in more precise geolocation predictions.|
 |[DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling.](https://github.com/kkyuhun94/dalda) |Researchers have introduced a novel data augmentation framework that integrates large language models with diffusion models to produce diverse and semantically accurate images, particularly in data-scarce scenarios. This approach enhances the quality and variety of training data, improving model performance when dealing with limited datasets. |
 |[How streaming LLM APIs work.](https://til.simonwillison.net/llms/streaming-llm-apis) |A review of HTTP streaming APIs from different LLM providers highlighted shared patterns. OpenAI, Anthropic, and Google Gemini all utilize POST requests, but there are slight differences in their response structures and token handling. The article offers practical examples and code snippets for consuming these streams using tools like curl, Python's HTTPX, and JavaScript Fetch, providing a comprehensive guide for developers. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Perspectives
 |Link|description|
@@ -237,7 +213,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human potential, making possible tasks that currently seem beyond reach. With advancements in deep learning and greater computational power, AI will bring about innovations such as personal assistants, educational mentors, and healthcare consultants. It's crucial to prioritize accessibility and address potential risks, ensuring that the Intelligence Age leads to broad-based prosperity. |
 |[OpenAI just unleashed an alien of extraordinary ability.](https://www.understandingai.org/p/openai-just-unleashed-an-alien-of) |OpenAI's new o1 models demonstrate substantial improvements in reasoning abilities, surpassing existing models like GPT-4o. These advancements are achieved through a more refined reinforcement learning approach and improved chain-of-thought training, enabling the o1-enhanced models to tackle complex math and programming tasks with greater accuracy. However, they continue to face challenges with spatial reasoning and tasks that demand long-term contextual comprehension. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme42.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpg)
 
 [Back to index](#Index)
 
