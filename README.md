@@ -94,17 +94,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Scaling Optimal LR Across Token Horizon.](https://arxiv.org/abs/2409.19913) |This paper investigates how to adjust the learning rate as the amount of training data increases for a model. While LLaMA applied an exponential scaling factor of -0.28, the paper proposes using an exponential scaling factor of -0.33 for improved performance during training with larger datasets. |
 |[Knowledge Graph Embedding by Normalizing Flows.](https://arxiv.org/abs/2409.19977v1) | This paper presents a novel approach to knowledge graph embedding by leveraging group theory to incorporate uncertainty into the process. This method allows for more nuanced and flexible representations of relationships within knowledge graphs, enhancing the model's ability to handle uncertain or ambiguous information.|
 |[How AI is improving simulations with smarter sampling techniques.](https://news.mit.edu/2024/how-ai-improving-simulations-smarter-sampling-techniques-1002) | MIT CSAIL researchers created an AI-powered method for low-discrepancy sampling, which uniformly distributes data points to boost simulation accuracy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## News
@@ -133,11 +122,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects.](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects) |OpenAI introduced a new way to interact with ChatGPT on Thursday: an interface it calls “canvas.” The product opens a separate window, beside the normal chat window, with a workspace for writing and coding projects. Users can generate writing or code directly in the canvas, then highlight sections of the work to have the model edit. Canvas is rolling out in beta to ChatGPT Plus and Teams users on Thursday, and Enterprise and Edu users next week. |
 |[Anthropic hires OpenAI co-founder Durk Kingma.](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/) |Durk Kingma, one of the lesser-known co-founders of OpenAI, today announced that he’ll be joining Anthropic. |
 |[OpenAI unveils easy voice assistant creation at 2024 developer event.](https://arstechnica.com/information-technology/2024/10/openai-unveils-easy-voice-assistant-creation-at-2024-developer-event/) | Altman steps back from the keynote limelight and lets four major API additions do the talking.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -171,18 +155,7 @@ Towards Minimum MSE Photo-Realistic Image Restoration.](https://pmrf-ml.github.i
 |[Tiny Test Models.](https://huggingface.co/blog/rwightman/timm-tiny-test) |AI researcher Ross Wightman has released a collection of models trained on ImageNet-1k that are remarkably small, with fewer than 1 million parameters. Despite their compact size, these models perform reasonably well and are designed to be easy to fine-tune, making them highly accessible for various applications where model efficiency is critical. |
 |[entropix.](https://github.com/xjdr-alt/entropix) |Entropy-based sampling and parallel Chain of Thought (CoT) decoding are promising strategies for advancing reasoning models to match |
 |[Concordia.](https://github.com/google-deepmind/concordia) | DeepMind's Concordia repository enables the simulation of social interactions between individuals and groups at a reasonable scale. This platform allows researchers to model complex social behaviors, study group dynamics, and explore various interaction scenarios in a controlled, scalable environment.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
