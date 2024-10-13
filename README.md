@@ -84,7 +84,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # ML news: Week 30 September - 6 October
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme43.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme44.jpeg)
 
 [Back to index](#Index)
 
