@@ -183,7 +183,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI will use a lot of energy. That's good for the climate.](https://climate.benjames.io/ai-go-brrr/) |AI data centers are significantly increasing the demand for clean, 24/7 energy, prompting tech giants to invest heavily in renewable and nuclear power solutions. This growing demand is expected to accelerate the cost reduction of clean energy technologies, driven by their learning rates. Over time, the energy needs of AI could lead to policy shifts and advancements in clean energy infrastructure, fostering faster adoption and development of sustainable energy sources. |
 |[I want to break some laws too.](https://snats.xyz/pages/articles/breaking_some_laws.html) | This article explores the use of an automated data cleaning pipeline inspired by the Minipile method, which prunes datasets to deliver significant performance gains with only a fraction of the original data size. By leveraging techniques such as few-shot prompting and clustering, the approach streamlines dataset refinement for AI training, challenging traditional scaling laws by prioritizing data quality over quantity. The results indicate that using foundational datasets with more refined data can optimize AI model training, reducing resource consumption while boosting performance.|
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme44.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme45.jpeg)
 
 [Back to index](#Index)
 
