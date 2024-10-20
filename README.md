@@ -204,7 +204,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Here’s the deal: AI giants get to grab all your data unless you say they can’t. Fancy that? No, neither do I.](https://www.theguardian.com/commentisfree/2024/oct/18/ai-systems-big-tech-data-ministers) | Data is vital to AI systems, so firms want the right to take it and ministers may let them. We must wake up to the danger|
 |[Where’s The Generative AI ROI? Start With The Supply Chain.](https://www.bigtechnology.com/p/wheres-the-generative-ai-roi-start) | Generative AI is revolutionizing supply chain operations by effectively managing unstructured documents, resulting in substantial time and cost savings. Flexport, a technology company focused on supply chain solutions, has effectively implemented AI to automate and optimize document management, cutting processing time by 80%. This use of AI highlights its practical value in revenue-generating activities rather than merely in theoretical advancements.|
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme45.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme46.jpeg)
 
 [Back to index](#Index)
 
