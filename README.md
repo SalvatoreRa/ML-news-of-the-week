@@ -25,6 +25,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 28 October - 3 November](#ML-news-Week-28-October-3-November)
 * [ML news: Week 21 - 27 October](#ML-news-Week-21-27-October)
 * [ML news: Week 14 - 20 October](#ML-news-Week-14-20-October)
 * [ML news: Week 7 - 13 October](#ML-news-Week-7-13-October)
