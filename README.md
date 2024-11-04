@@ -106,18 +106,6 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs.](https://arxiv.org/abs/2410.18779) |In this work, DeepMind demonstrates how a small language model can be used to provide soft supervision labels and identify informative or challenging data points for pretraining, significantly accelerating the pretraining process. |
 |[NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.](https://arxiv.org/abs/2410.19452v1) |The NeuroClips framework introduces advancements in reconstructing continuous videos from fMRI brain scans by decoding both high-level semantic information and fine-grained perceptual details. |
 |[Machine-guided design of cell-type-targeting cis-regulatory elements.](https://www.nature.com/articles/s41586-024-08070-z) |A generalizable framework to prospectively engineer cis-regulatory elements from massively parallel reporter assay models can be used to write fit-for-purpose regulatory code. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -151,9 +139,6 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Google plans to announce its next Gemini model soon.](https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december) |December is shaping up to be a month of dueling announcements from OpenAI and Google.  |
 |[Meta is reportedly developing a search engine for its chatbot.](https://www.engadget.com/ai/meta-is-reportedly-developing-a-search-engine-for-its-chatbot-172505704.html) | The company wants to decrease Meta AI’s reliance on Google and Microsoft.|
 |[A mysterious new image generation model has appeared.](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/) |A mysterious new image generation model is beating models from Midjourney, Black Forest Labs, and OpenAI on the crowdsourced Artificial Analysis benchmark. The model, which goes by the name “red_panda,” is around 40 Elo points ahead of the next-best-ranking model, Black Forest Labs’ Flux1.1 Pro, on Artificial Analysis’ text-to-image leaderboard.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -199,14 +184,6 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[BART vectoriZed.](https://github.com/gattocrucco/bartz) |A new GPU-enabled implementation of Bayesian Additive Regression Trees (BART) significantly accelerates processing speed, making it up to 200 times faster than conventional CPU-based versions. |
 |[Huge new Diffusers release.](https://github.com/huggingface/diffusers/releases/tag/v0.30.0) |The Hugging Face Diffusers package now includes new pipelines like Flux, Stable Audio, Kolors, CogVideoX, Latte, and others, alongside new methods such as FreeNoise and SparseCtrl, plus various refactors. |
 |[4 experiments with voice AI models to help you explore culture.](https://blog.google/outreach-initiatives/arts-culture/4-experimentations-with-voice-ai-models-to-help-you-explore-culture/) |Google’s voice AI models allow users to engage with culture in innovative ways. Projects like Talking Tours provide AI-guided virtual tours, Mice in the Museum offers art narration, and Lip Sync animates lips to discuss cultural topics. These entertaining tools offer new perspectives on art and design. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Perspectives
 |Link|description|
