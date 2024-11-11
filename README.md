@@ -102,22 +102,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Adam Alternative for Deep Learning Optimization.](https://arxiv.org/abs/2411.02853v1) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
 |[A faster, better way to train general-purpose robots.](https://news.mit.edu/2024/training-general-purpose-robots-faster-better-1028) |Inspired by large language models, researchers develop a training technique that pools diverse data to teach robots new skills. |
 |[Vision Language Models are In-Context Value Learners.](https://generative-value-learning.github.io/) |Visual Language Models (VLMs) are capable of learning skills through the use of prompts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -164,14 +148,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations.](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) | Palantir and Anthropic have collaborated to make the Claude suite of models available on AWS for U.S. intelligence agencies and defense operations.|
 |[ChatGPT Can Now Control a Robot Arm.](https://futurism.com/the-byte/chatgpt-control-robot-arm-clean-spill) |Researchers from UC Berkeley and ETH Zurich utilized GPT-4 to train cost-effective robot arms for cleaning spills. They accomplished this by incorporating a multimodal agent called LangChain, which translates LLM inputs into robotic actions. This research demonstrates a novel proof-of-concept for human-robot interaction and democratizes robotics using open-source technology. |
 |[OpenAI in talks with regulators to become a for-profit company: Report.](https://cointelegraph.com/news/chat-gpt-creator-openai-in-talks-for-profit-company) |The $157 billion artificial intelligence giant wants to retain a nonprofit arm to pursue its mission of benevolent AI development.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-
 
 ## Resources
 |Link|description|
@@ -207,12 +183,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[gsplat.](https://docs.gsplat.studio/main/) |G Splat is a robust package and studio designed for conducting research on Gaussian splatting. |
 |[RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models.](https://github.com/stanford-aimi/ravl) | RaVL is a novel approach that enhances the accuracy of vision-language models by concentrating on local image features instead of the whole image, aiming to reduce misleading correlations.|
 |[Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis.](https://arxiv.org/abs/2411.03637v1) | SCGaussian is an innovative method for 3D scene synthesis that preserves structural consistency, even when working with sparse input data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
