@@ -109,14 +109,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Oasis: A Universe in a Transformer.](https://oasis-model.github.io/) | A 500M parameter foundation model without a game engine powers Oasis, a fully AI-generated, real-time open-world video game model. It is tailored for Etched's Sohu ASIC to achieve great frame rate efficiencies and uses quick transformer inference to generate gameplay. Despite showing great promise, issues like long-context consistency and domain generalization still exist.|
 |[OpenAI to present plans for U.S. AI strategy and an alliance to compete with China.](https://www.cnbc.com/2024/11/13/openai-to-present-plans-for-us-ai-strategy-and-an-alliance-to-compete-with-china.html) | OpenAI's AI infrastructure blueprint suggests establishing AI economic zones and collaborating with the U.S. Navy on nuclear energy to promote AI-driven economic growth and innovation. The proposal features a North American AI alliance and initiatives modeled after the National Interstate and Defense Highways Act to address infrastructure demands. It stresses the importance of investing in U.S. data centers and energy projects to stay competitive with China.|
 |[Introducing Athene-V2: Advancing Beyond the Limits of Scaling with Targeted Post-training.](https://nexusflow.ai/blogs/athene-v2) | Athene V2 consists of models built upon Qwen 2.5 72B, optimized for agentic and chat-based workflows, and outperform GPT-4o on several key benchmarks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -149,14 +141,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[OpenAI launches ChatGPT desktop integrations, rivaling Copilot.](https://venturebeat.com/ai/openai-launches-chatgpt-desktop-integrations-rivaling-copilot/) | When OpenAI released desktop app versions of ChatGPT, it was clear the goal was to get more users to bring ChatGPT into their daily workflows. Now, new updates to Mac OS and Windows PC versions encourage users to stay in the ChatGPT apps for most of their tasks. |
 |[Supermaven joins Cursor.](https://supermaven.com/blog/cursor-announcement) |The team behind the code editing plugin is joining Cursor to further enhance the user experience. |
 |[Google’s AI ‘learning companion’ takes chatbot answers a step further.](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational) |Google’s Learn About AI tool has more educational, textbook-style responses to guide you through new topics. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -200,16 +184,6 @@ Researchers have developed a method to train image recognition networks that are
 |[X-Portrait 2: Highly Expressive Portrait Animation.](https://byteaigc.github.io/X-Portrait2/) | ByteDance's AI group has unveiled X-Portrait 2, an advanced portrait animation technology that transforms static images into highly expressive, realistic videos. Building upon its predecessor, X-Portrait, this new model excels in capturing subtle facial expressions and complex movements, such as pouting, tongue-out gestures, cheek-puffing, and frowning. It achieves high fidelity in emotion preservation, ensuring the generated videos maintain the subject's identity and emotional nuances.|
 |[MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views.](https://donydchen.github.io/mvsplat360/) |The MVSplat360 model offers a new way to create realistic 360° views of real-world scenes, even from just a few sparse images. |
 |[Improved Multi-Task Brain Tumour Segmentation with Synthetic Data Augmentation.](https://arxiv.org/abs/2411.04632v1) | This paper presents the leading approach for brain tumor segmentation in the BraTS challenge, demonstrating how synthetic data can improve AI models for medical imaging applications.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
