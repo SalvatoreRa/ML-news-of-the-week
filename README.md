@@ -107,20 +107,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Qwen's first reasoning inspired model QwQ.](https://qwenlm.github.io/blog/qwq-32b-preview/) | Qwen has introduced a 32B parameter reasoning model that rivals OpenAI's o1 series in performance. The model demonstrates scalability when generating extended reasoning traces and is particularly proficient in mathematics and coding. It is now available for use.|
 |[Pathways on the Image Manifold: Image Editing via Video Generation.](https://arxiv.org/abs/2411.16819) | In the early days of image synthesis, exploring the latent space was an effective method for creating diverse images. This concept has now extended to video, enabling sequential edits to a single image while preserving semantic consistency.|
 |[Low-Bit Quantization Favors Undertrained LLMs.](https://arxiv.org/abs/2411.17691) | Models trained for shorter durations on fewer tokens show less performance degradation when quantized after training. This aligns with findings from other research, suggesting that extended training allows models to utilize higher precision to compress increasingly complex information.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -147,11 +133,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model.](https://oodaloop.com/briefs/technology/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/) | Alibaba has released QwQ-32B-Preview, an ‘open' challenger to OpenAI's o1 reasoning model.|
 |[Ai2 releases new language models competitive with Meta’s Llama.](https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/) |Ai2 has launched OLMo 2, an open-source language model series featuring 7- and 13-billion-parameter models. Built using publicly available training data and code, OLMo 2 aims to advance open-source AI innovation. Ai2 asserts that these models surpass comparable open models, such as Meta's Llama 3.1. The models are licensed under Apache 2.0, allowing for commercial use. |
 |[xAI could soon have its own app.](https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report) |Elon Musk’s xAI is reportedly about to take its next step to compete with OpenAI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -198,20 +180,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Steel Browser API for AI Agents.](https://github.com/steel-dev/steel-browser) |The open-source browser API built for AI agents. Steel provides a REST API to control headless browsers with session management, proxy support, and anti-detection features. Perfect for web automation, scraping, and building AI agents that can interact with the web. |
 |[PixMo dataset.](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b) | Allen AI has released several datasets that were used to train its visual language models.|
 |[StableAnimator: High-Quality Identity-Preserving Human Image Animation.](https://francis-rings.github.io/StableAnimator/) |StableAnimator introduces a breakthrough in human image animation by ensuring identity consistency in generated videos. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -235,7 +204,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[A new AI scaling law shell game?](https://garymarcus.substack.com/p/a-new-ai-scaling-law-shell-game) | Recent changes in AI scaling laws have exposed limits in predictability and effectiveness, with newer models falling short of previous expectations. Microsoft CEO Satya Nadella emphasizes "inference time compute" as a key area to address, though issues of cost and reliability remain. Advancing beyond scaling is essential, and LLMs should be integrated into a more comprehensive AI strategy.|
 
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme52.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme53.jpeg)
 
 [Back to index](#Index)
 
