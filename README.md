@@ -25,7 +25,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
-* [ML news: Week 25 November - 1 December](#ML-news-Week-25 November-1-December)
+* [ML news: Week 25 November - 1 December](#ML-news-Week-25-November-1-December)
 * [ML news: Week 18 - 24 November](#ML-news-Week-18-24-November)
 * [ML news: Week 11 - 17 November](#ML-news-Week-11-17-November)
 * [ML news: Week 3 - 10 November](#ML-news-Week-3-10-November)
