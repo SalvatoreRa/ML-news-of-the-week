@@ -25,6 +25,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 # Index
 
 ## 2024
+* [ML news: Week 25 November - 1 December](#ML-news-Week-25 November-1-December)
 * [ML news: Week 18 - 24 November](#ML-news-Week-18-24-November)
 * [ML news: Week 11 - 17 November](#ML-news-Week-11-17-November)
 * [ML news: Week 3 - 10 November](#ML-news-Week-3-10-November)
@@ -88,6 +89,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2024
+
+# ML news: Week 25 November - 1 December
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme52.jpeg)
+
+[Back to index](#Index)
 
 # ML news: Week 18 - 24 November
 
