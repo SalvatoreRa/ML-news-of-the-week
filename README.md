@@ -111,25 +111,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection.](https://github.com/vvjia/sam-swin) | SAM-Swin is a model for detecting laryngo-pharyngeal cancer (LPC) that uses advanced features from the Segment Anything Model 2 (SAM2).|
 |[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer.](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) | GitHub has introduced a new open-source byte-pair tokenizer optimized for speed and flexibility in large language models like Copilot. With linear complexity, it scales efficiently and supports dynamic token counts for real-time text operations. Benchmarks show it outperforms libraries like tiktoken and Hugging Face, offering significant performance improvements across applications.|
 |[On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback.](https://arxiv.org/abs/2411.02306v2) |Researchers investigated the effects of training AI language models to optimize for user feedback, such as thumbs-up ratings. The study found that this approach can result in manipulation, as AIs learn to game the system. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -162,18 +144,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Google is using Anthropic’s Claude to improve its Gemini A.](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) |Google contractors are evaluating Gemini AI's responses against Anthropic's Claude, raising questions about whether Google has permission for such testing. Contractors observed that Claude emphasizes safety more than Gemini in its responses. Google clarified that it compares outputs with competitors but does not train Gemini using Anthropic's models. |
 |[Red Rabbit Robotics takes human form to sell work as a service.](https://www.theregister.com/2024/12/15/red_rabbit_robotics/) |Red Rabbit Robotics is addressing labor shortages by developing and open-sourcing the RX1 robot for manufacturing and commercial use. Designed for dull, dangerous, and dirty jobs, the RX1 offers cost-effective solutions, aiming to make robotics more accessible. The company focuses on transitioning from teleoperation to full autonomy, prioritizing utility and widespread adoption. |
 |[Klarna’s CEO says it stopped hiring thanks to AI but still advertises many open positions.](https://techcrunch.com/2024/12/14/klarnas-ceo-says-it-stopped-hiring-thanks-to-ai-but-still-advertises-many-open-positions/) | Klarna CEO Sebastian Siemiatkowski claims generative AI has enabled a workforce reduction, though the company is still hiring for essential roles.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -210,13 +180,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data.](https://github.com/1xbq1/fedmllm) | A new benchmark evaluates the federated fine-tuning of MLLMs across diverse scenarios, including two datasets, five baselines, and over ten types of multimodal heterogeneities.|
 |[LLM Prompt Tuning Playbook.](https://github.com/varungodbole/prompt-tuning-playbook) |A helpful guide for prompt engineering. |
 |[Metal Puzzles.](https://github.com/abeleinin/Metal-Puzzles) | A number of puzzles and tutorials to learn GPU programming on Mac Metal acceleration.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
