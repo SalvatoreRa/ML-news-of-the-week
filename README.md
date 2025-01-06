@@ -24,6 +24,11 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # Index
 
+## 2025
+
+* [ML news: Week 23 - 29 December](#ML-news-Week-23-29-December)
+
+
 ## 2024
 * [ML news: Week 23 - 29 December](#ML-news-Week-23-29-December)
 * [ML news: Week 16 - 22 December](#ML-news-Week-16-22-December)
@@ -91,6 +96,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 * [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
 
 [Back to index](#Index)
+
+# 2025
 
 # 2024
 
