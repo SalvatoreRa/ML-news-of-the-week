@@ -26,6 +26,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
+* [ML news: Week 6 -12 January](#ML-news-6-12-January)
 * [ML news: Week 31 December - 5 January](#ML-news-Week-31-December-5-January)
 
 
@@ -98,6 +99,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2025
+
+# ML news: Week 6 -12 January
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme56.jpeg)
+
+[Back to index](#Index)
 
 # ML news: Week 31 December - 5 January
 
