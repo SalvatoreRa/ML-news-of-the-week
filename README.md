@@ -9,6 +9,7 @@ Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/it/@priscilladupreez
 A collection of the best ML & AI news every week (research, news, resources). Star this repository if you find it useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
+[Here](https://github.com/SalvatoreRa/artificial-intelligence-articles) some reviews on specific artificial intelligence topics
 
 For each week you will find different sections:
 * **Research:** the most important published research of the week.
