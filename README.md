@@ -130,17 +130,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Parents sue TikTok over child deaths allegedly caused by ‘blackout challenge’.](https://www.theguardian.com/technology/2025/feb/07/tiktok-sued-over-deaths-of-children-said-to-have-attempted-blackout-challenge) | Parents claim four children died as a result of attempting challenge that went viral in 2021|
 |[Call to make tech firms report data centre energy use as AI booms.](https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms) |Experts say mandatory reporting on energy and water use is needed to avoid irreparable damage to environment |
 |[Google edits Super Bowl ad for AI that featured false information.](https://www.theguardian.com/technology/2025/feb/06/google-edits-super-bowl-ad-for-ai-that-featured-false-information) |Tech company removes error about gouda cheese after blogger points out ‘unequivocally’ untrue statistic |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## News
@@ -177,13 +166,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[OpenAI co-founder John Schulman leaves Anthropic after just five months.](https://techcrunch.com/2025/02/06/openai-co-founder-john-schulman-leaves-anthropic-after-just-five-months/) | OpenAI co-founder and prominent AI researcher John Schulman has left Anthropic after five months, according to multiple reports.|
 |[Lyft and Anthropic Partnership.](https://www.anthropic.com/news/lyft-announcement) | Lyft is partnering with Anthropic to integrate Claude-powered AI solutions, cutting customer service resolution times by 87% and improving the overall rideshare experience through AI-driven automation and engineering advancements. |
 |[Copyright Office Offers Assurances on AI Filmmaking Tools.](https://variety.com/2025/biz/news/copyright-ai-tools-filmmaking-studios-office-1236288969/) |The U.S. Copyright Office clarified that AI-assisted creations can still be eligible for copyright protection, as long as they involve human authorship. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -219,13 +202,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[DeepSeek Releases VL2, a Series of MoE Vision-Language Models.](https://github.com/deepseek-ai/DeepSeek-VL2) |DeepSeek-VL2 launches a new series of Mixture-of-Experts Vision-Language models featuring up to 4.5B activated parameters, delivering strong performance in tasks such as OCR, visual grounding, and chart interpretation. |
 |[colqwen2-v0.1.](https://huggingface.co/vidore/colqwen2-v0.1) | A new vision-based retrieval model built on Qwen has surpassed the state of the art in later interaction document retrieval.|
 |[Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models.](https://github.com/geaming2002/ruler) |The "Ruler" method assists LLMs in generating responses of a specific length. It enhances the model's ability to adhere to length constraints in user instructions by using Meta Length Tokens. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
