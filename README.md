@@ -91,6 +91,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2023
 
+2023 news are now [here](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/2023.md)
+
 * [ML news: Week 18 - 24 December](#ML-news-Week-18-24-December)
 * [ML news: Week 11 - 17 December](#ML-news-Week-11-17-December)
 * [ML news: Week 4 - 10 December](#ML-news-Week-4-10-December)
