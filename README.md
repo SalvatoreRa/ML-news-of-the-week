@@ -121,12 +121,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Competitive Programming with Large Reasoning Models.](https://arxiv.org/abs/2502.06807) | An OpenAI paper discusses the use of their o series of reasoning models in competitive programming. Initially, they had to rely on hand-crafted inference strategies, but later versions of o3 performed well without the need for human intervention.|
 |[Scaling Pre-training to One Hundred Billion Data for Vision Language Models.](https://arxiv.org/abs/2502.07617) | DeepMind scaled vision-language model training to a much larger data scale than previously attempted. While performance on Western-centric tasks quickly reaches saturation, it continues to improve on diverse global tasks. Interestingly, this progress is seldom reflected in existing benchmarks.|
 |[LLMs with Fewer Parameters.](https://github.com/joaopauloschuler/less-parameters-llm) |Researchers show that LLMs can retain their learning ability while cutting non-embedding parameters by as much as 77%. By substituting dense layers with optimized subnetworks, they achieve similar performance using far fewer resources. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -180,12 +175,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Deep Research comes to Gemini Android app.](https://9to5google.com/2025/02/04/gemini-deep-research-android) |Deep Research, Gemini's first agentic feature, is now available for Android, enabling multi-step web research with customizable plans. |
 |[DeepSeek Gets an ‘F’ in Safety From Researchers.](https://gizmodo.com/deepseek-gets-an-f-in-safety-from-researchers-2000558645) |Cisco tested DeepSeek's open-source model, DeepSeek R1, which was unable to defend against all 50 harmful behavior prompts from the HarmBench dataset. |
 |[Arm looks to launch its own chip after landing Meta contract.](https://www.theguardian.com/business/2025/feb/14/arm-looks-to-launch-its-own-chip-after-landing-meta-contract) | Plan represents move away from SoftBank-owned group licensing its chip blueprints to firms such as Apple and Nvidia|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -215,15 +205,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[MobileLLM.](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95) |Meta has released checkpoints for their small but mighty mobile friendly language models. |
 |[Better Reasoning with Mask-Enhanced Autoregressive Prediction.](https://github.com/scitix/MEAP) | MEAP incorporates Masked Language Modeling into Next-Token Prediction through a decoder-only Transformer. By masking a small portion of input tokens, it enhances information retrieval tasks while preserving reasoning abilities.|
 |[ComplexFuncBench.](https://github.com/thudm/complexfuncbench) |This repository contains benchmarks and tools for assessing AI models on complex function calls. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Perspectives
@@ -238,7 +220,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Keeps Its Own Time.](https://spectrum.ieee.org/mems-time) | SiTime's MEMS-based timekeeping device boosts AI efficiency by enhancing synchronization among various components, leading to notable energy savings. The Super-TCXO clock offers better synchronization than quartz components, helping improve bandwidth speed and lower idle times for GPUs. SiTime's technology is already incorporated into Nvidia's Spectrum-X Switch, with future developments focused on further energy efficiency and bandwidth improvements.|
 |[Why AI Is A Philosophical Rupture.](https://www.noemamag.com/why-ai-is-a-philosophical-rupture/) |Tobias Rees contends that generative AI challenges traditional distinctions between humans and machines, introducing new types of intelligence that demand a philosophical reassessment. The ability of AI to function outside conventional comprehension frameworks indicates its potential to reshape human cognition and self-awareness. Rees calls for philosophical involvement in AI development to better understand and navigate this emerging era of human-AI collaboration. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme60.png)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme60.jpg)
 
 [Back to index](#Index)
 
