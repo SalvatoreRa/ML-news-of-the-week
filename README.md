@@ -27,6 +27,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
+* [ML news: Week 10 - 16 February](#ML-news-10-16-February)
 * [ML news: Week 3 - 9 February](#ML-news-3-9-February)
 * [ML news: Week 27 January - 2 February](#ML-news-20-26-January)
 * [ML news: Week 20 - 26 January](#ML-news-Week-20-26-January)
@@ -93,19 +94,16 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 2023 news are now [here](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/2023.md)
 
-* [ML news: Week 18 - 24 December](#ML-news-Week-18-24-December)
-* [ML news: Week 11 - 17 December](#ML-news-Week-11-17-December)
-* [ML news: Week 4 - 10 December](#ML-news-Week-4-10-December)
-* [ML news: Week 27 November - 3 December](#ML-news-Week-27-November-3-December)
-* [ML news: Week 20-26 November](#ML-news-Week-20-26-November)
-* [ML news: Week 12-19 November](#ML-news-Week-12-19-November)
-* [ML news: Week 6-12 October](#ML-news-Week-6-12-November)
-* [ML news: Week 30 October - 5 November](#ML-news-Week-30-October-5-November)
-* [ML news: Week 23-29 October](#ML-news-Week-23-29-October)
 
 [Back to index](#Index)
 
 # 2025
+
+# ML news: Week 10 - 16 February
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme60.png)
+
+[Back to index](#Index)
 
 # ML news: Week 3 - 9 February
 
