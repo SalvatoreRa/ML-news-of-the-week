@@ -27,6 +27,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
+* [ML news: Week 17 - 23 February](#ML-news-17-23-February)
 * [ML news: Week 10 - 16 February](#ML-news-10-16-February)
 * [ML news: Week 3 - 9 February](#ML-news-3-9-February)
 * [ML news: Week 27 January - 2 February](#ML-news-20-26-January)
@@ -98,6 +99,13 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2025
+
+# ML news: Week 17 - 23 February
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme61.jpg)
+
+[Back to index](#Index)
+
 
 # ML news: Week 10 - 16 February
 
