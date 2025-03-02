@@ -118,19 +118,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks.](https://www.arxiv.org/abs/2502.08235) |This paper explores overthinking in Large Reasoning Models (LRMs), where models prioritize internal reasoning over real-world interactions, leading to reduced task performance. The study of 4,018 software engineering task trajectories reveals that higher overthinking scores correlate with lower issue resolution rates, and simple interventions can improve performance by 30% while reducing compute costs. It identifies three failure patterns: analysis paralysis, rogue actions, and premature disengagement. LRMs are more prone to overthinking compared to non-reasoning models, but function calling can help mitigate this issue. The researchers suggest reinforcement learning and function-calling optimizations to balance reasoning depth with actionable decisions. |
 |[Inner Thinking Transformer.](https://arxiv.org/abs/2502.13842v2) |The Inner Thinking Transformer (ITT) improves reasoning efficiency in small-scale LLMs through dynamic depth scaling, addressing parameter bottlenecks without increasing model size. ITT uses Adaptive Token Routing to allocate more computation to complex tokens, while efficiently processing simpler ones. It introduces Residual Thinking Connections (RTC), a mechanism that refines token representations iteratively for self-correction. Achieving 96.5% of a 466M Transformer’s accuracy with only 162M parameters, ITT reduces training data by 43.2% and outperforms loop-based models across 11 benchmarks. Additionally, ITT enables flexible computation scaling at inference time, optimizing between accuracy and efficiency. |
 |[Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs.](https://martins1612.github.io/emergent_misalignment_betley.pdf) | The authors of this paper present an unsettling result from alignment, showing that tuning a model to generate insecure code leads to broad misalignment with user intent, and in some cases, causes the model to actively produce harmful content.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -149,7 +137,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Claude's Extended Thinking Mode.](https://www.anthropic.com/research/visible-extended-thinking) |Anthropic's extended thinking mode, introduced in Claude 3.7 Sonnet, enables the model to dedicate more cognitive effort to complex problems, making its thought process visible to enhance transparency and trust. |
 |[Qatar signs deal with Scale AI to use AI to boost government services.](https://www.reuters.com/technology/qatar-signs-deal-with-scale-ai-use-ai-boost-government-services-2025-02-23/) | Qatar has signed a five-year agreement with Scale AI to implement AI tools aimed at improving government services, with a focus on predictive analytics and automation. Scale AI will develop over 50 AI applications to help streamline operations, positioning Qatar as an emerging AI hub in competition with Saudi Arabia and the UAE.|
 |[Rabbit shows off the AI agent it should have launched with.](https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1) |Watch Rabbit’s AI agent, but not the Rabbit R1, do things in Android apps. |
-|[https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1?utm_source=tldrai.](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-launches-first-blackwell-ai-gpu-powered-instances-72-way-gb200-with-72-b200-gpus-and-36-grace-cpus) | Google Cloud has introduced A4X VMs, powered by Nvidia's GB200 NVL72 systems, which feature 72 B200 GPUs and 36 Grace CPUs. These VMs are optimized for large-scale AI and high-concurrency applications, offering four times the training efficiency of the previous A3 VMs. Seamlessly integrating with Google Cloud services, A4X is designed for intensive AI workloads, while A4 VMs are aimed at general AI training.|
+|[Google Cloud launches first Blackwell AI GPU-powered instances.](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-launches-first-blackwell-ai-gpu-powered-instances-72-way-gb200-with-72-b200-gpus-and-36-grace-cpus) | Google Cloud has introduced A4X VMs, powered by Nvidia's GB200 NVL72 systems, which feature 72 B200 GPUs and 36 Grace CPUs. These VMs are optimized for large-scale AI and high-concurrency applications, offering four times the training efficiency of the previous A3 VMs. Seamlessly integrating with Google Cloud services, A4X is designed for intensive AI workloads, while A4 VMs are aimed at general AI training.|
 |[Scientists took years to solve a problem that AI cracked in two days.](https://macaonews.org/news/around-the-world/ai-superbugs-research-gemini-google-imperial-college/) | Google's AI co-scientist system replicated ten years of antibiotic-resistant superbug research in just two days, generating additional plausible hypotheses.|
 |[Don’t gift our work to AI billionaires: Mark Haddon, Michael Rosen and other creatives urge government.](https://www.theguardian.com/technology/2025/feb/23/dont-gift-our-work-to-ai-billionaires-mark-haddon-michal-rosen-and-other-creatives-urge-government?utm_source=tldrai) | More than 2,000 cultural figures challenge Whitehall’s eagerness ‘to ­wrap our lives’ work in attractive paper for automated competitors’|
 |[Amazon's Alexa+.](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence) | Amazon has launched Alexa+, an upgraded version of its voice assistant. Powered by generative AI, Alexa+ is smarter and more conversational.|
@@ -166,16 +154,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Anthropic's Claude 3.7 Sonnet hybrid reasoning model is now available in Amazon Bedrock.](https://aws.amazon.com/it/blogs/aws/anthropics-claude-3-7-sonnet-the-first-hybrid-reasoning-model-is-now-available-in-amazon-bedrock/) |Amazon Bedrock now includes Anthropic's Claude 3.7 Sonnet, their first hybrid reasoning model designed for enhanced coding and problem-solving capabilities. |
 |[Elon Musk's AI Company Tried to Recruit an OpenAI Engineer and His Reply Was Brutal.](https://futurism.com/openai-engineer-elon-musk-recruiting-rejection) |OpenAI's Javier Soto rejected a recruitment offer from Elon Musk's xAI, criticizing Musk's rhetoric as harmful to democracy. |
 |[Microsoft scraps some data center leases as Apple, Alibaba double down on AI.](https://siliconangle.com/2025/02/24/microsoft-scraps-data-center-leases-apple-alibaba-double-ai/) | Microsoft has canceled data center leases totaling 200 megawatts, indicating possibly lower-than-expected AI demand, while reaffirming its $80 billion investment in AI infrastructure through 2025.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -213,18 +192,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[DiffSynth Studio.](https://github.com/modelscope/DiffSynth-Studio) | Modelscope offers a platform and codebase that provides useful abstractions for various types of diffusion models and their associated autoencoders.|
 |[Uncertainty in Chain-of-Thought LLMs.](https://github.com/zbox1005/cot-uq) |CoT-UQ is a response-wise uncertainty quantification framework for large language models that integrates Chain-of-Thought reasoning. |
 |[Avoiding pitfalls of AI for designers: Guiding principles.](https://blog.logrocket.com/ai-product-design-guiding-principles/) | Designing AI products requires a human-centered approach to prevent bias and misinformation. Key challenges include managing user expectations, building trust, ensuring accessibility, and addressing biases. Adopting guiding principles such as transparency, co-creation, and adaptability can improve the ethical and effective design of AI systems.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
