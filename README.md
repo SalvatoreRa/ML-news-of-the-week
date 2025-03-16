@@ -70,21 +70,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices.](https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/) |Podcastle has released Asyncflow v1.0, an AI text-to-speech model featuring more than 450 AI voices and affordable training options. |
 |[Generalized discrete diffusion.](https://www.arxiv.org/abs/2503.04482) | This work expands diffusion on discrete data, like text, by introducing a generalized denoising process and a slightly enhanced masking scheme. This combination improves training efficiency and enables the model to correct its own output.|
 |[Implicit Reasoning in Transformers is Reasoning through Shortcuts.](https://arxiv.org/abs/2503.07604) |This project examines how language models perform step-by-step implicit reasoning but face challenges with generalization, particularly when handling expressions that include variables as subtrahends. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -120,9 +106,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Snapchat is rolling out AI-powered video lenses.](https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses) |Snapchat Platinum subscribers can now access AI-generated video lenses featuring animated foxes, raccoons, and flowers. |
 |[Notable Tesla investor says he hopes Musk’s government role is ‘short-lived’.](https://www.theguardian.com/technology/2025/mar/15/christopher-tsai-elon-musk-tesla) | Christopher Tsai retains faith in carmaker’s earnings potential despite backlash that has seen its shares take a hit|
 |[Eggings, swastikas and dog poop: Tesla bears brunt of people’s ire against Musk.](https://www.theguardian.com/technology/2025/mar/15/vandalized-tesla-elon-musk-trump) |In response to the billionaire’s scorched-earth raids on US government agencies, Tesla chargers and showrooms are being targeted |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -168,15 +152,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Agent S2: An Open, Modular, and Scalable Framework for Computer Use Agents.](https://github.com/simular-ai/Agent-S) | Agent S is a robust and open computer use system. It has achieved state-of-the-art performance in browsers, system operations, and even mobile tasks.|
 |[Unified Visual Decoding.](https://github.com/MacavityT/REF-VLM) |REF-VLM unifies visual decoding tasks in multimodal LLMs using a structured triplet-based representation. |
 |[Open-Sora: Democratizing Efficient Video Production for All.](https://github.com/hpcaitech/Open-Sora) |The Open Sora initiative, which has been ongoing since the original launch of the model, has developed a competitive model for under $200k. It has released all the code and weights to allow others to reproduce the results. The motions are impressive, though not entirely state-of-the-art. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
