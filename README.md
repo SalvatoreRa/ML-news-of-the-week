@@ -56,7 +56,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # ML news: Week 24 - 30 March
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme66.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme66.jpg)
 
 [Back to index](#Index)
 
