@@ -72,21 +72,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[ GNNs as Predictors of Agentic Workflow Performances.](https://arxiv.org/abs/2503.11301) |This work presents FLORA-Bench, a large-scale benchmark designed to assess GNN-based predictors for automating and optimizing agentic workflows. It demonstrates that Graph Neural Networks can effectively predict the success of multi-agent LLM workflows, substantially cutting down on expensive repeated model calls. |
 |[Anthropic Researchers Trace the Thoughts of LLM.](https://www.anthropic.com/research/tracing-thoughts-language-model) |Two new studies from Anthropic explore the internal pathways of Claude models, revealing planning behaviors, shared conceptual representations across languages, and occurrences of fabricated reasoning. |
 |[Measuring Internal Bias in Vision Models.](https://github.com/aaronserianni/attention-iou) |A new metric leverages attention maps to measure internal bias in vision models, enabling the detection of confounding features and surpassing traditional group-based accuracy disparity analyses. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -128,16 +114,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AWS generative AI exec leaves to launch startup.](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup) |Raj Aggarwal is leaving AWS, where he served as GM of generative AI, to start a new company. |
 |[Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M.](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) |Browser Use, a Y Combinator startup, enhances AI agent navigation on websites by converting site elements into a text-like format. |
 |[XR Training with Llama-Powered Simulations.](https://ai.meta.com/blog/cornerstone-transforming-training-llama/) | Cornerstone is revolutionizing enterprise training by combining XR with the Llama 3.1 model, allowing rapid creation of personalized simulations that include intelligent virtual mentors and real-time multilingual support.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -185,12 +162,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[PET-MAD: A Universal Interatomic Potential for Advanced Materials Modeling.](https://github.com/lab-cosmo/pet-mad) | PET-MAD is a universal interatomic potential model trained on the MAD dataset that is capable of predicting energies and forces for complex materials modeling across the periodic table.|
 |[Flux Inpainting.](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint) | Inpainting support for the new powerful diffusion model Flux.|
 |[Training and Finetuning Reranker Models with Sentence Transformers v4.](https://huggingface.co/blog/train-reranker) | This post explains how to fine-tune high-performing reranker models with Sentence Transformers 4.0, achieving better results than many large public rerankers using smaller, task-specific versions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Perspectives
