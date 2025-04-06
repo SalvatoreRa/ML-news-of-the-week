@@ -77,14 +77,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Current and Future Use of LLMs for Knowledge Work.](https://arxiv.org/abs/2503.16774v1) |A two-part survey of 216 and 107 participants shows that knowledge workers currently use LLMs for tasks such as code generation and text enhancement, but anticipate more integrated use within workflows and data systems. The results provide insights for shaping future design and adoption of generative AI in professional environments. |
 |[Backdoor Attacks in CLIP.](https://arxiv.org/abs/2502.01385v2) |CLIP models are extremely susceptible to backdoor poisoning attacks, with almost perfect success rates using very little poisoned data. A practical way to detect this is by applying local outlier detection to reveal accidental backdoors in current datasets. |
 |[Large Small Net.](https://github.com/THU-MIG/lsnet) |A new class of efficient vision models draws inspiration from the human visual system's ability to process broad scenes while focusing on details, known as "See Large, Focus Small". LSNet delivers leading performance with strong efficiency across multiple vision tasks and features a novel convolution kernel design. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -131,12 +124,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Devin, the viral coding AI agent, gets a new pay-as-you-go plan.](https://finance.yahoo.com/news/devin-viral-coding-ai-agent-194633884.html) |Cognition, the startup behind the viral AI programming tool Devin, has introduced a new low-cost plan to incentivize signups. |
 |[Trump extends deadline for TikTok sale to non-Chinese buyer to avoid ban.](https://www.theguardian.com/us-news/2025/apr/04/tik-tok-ban-trump-extension) |Deadline set by US president was supposed to be Saturday, with Trump now considering decreasing tariffs to get deal |
 |[US authors’ copyright lawsuits against OpenAI and Microsoft combined in New York with newspaper actions.](https://www.theguardian.com/books/2025/apr/04/us-authors-copyright-lawsuits-against-openai-and-microsoft-combined-in-new-york-with-newspaper-actions) |California cases over AI trainers’ use of work by writers including Ta-Nehisi Coates and Michael Chabon transferred to consolidate with New York suits from John Grisham and Jonathan Franzen and more |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -176,12 +164,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Zonos TTS.](https://www.zyphra.com/post/beta-release-of-zonos-v0-1) |An impressive Apache 2.0 model for speech synthesis and voice cloning, featuring multilingual support and expressive real-time generation. |
 |[Hugging Face's AI Agents Course.](https://huggingface.co/learn/agents-course/en/unit0/introduction) |Hugging Face released an AI agents course today. This free course will take you on a journey, from beginner to expert, in understanding, using, and building AI agents. |
 |[The LLM Course from Hugging Face.](https://huggingface.co/blog/llm-course) |Hugging Face has updated its well-known NLP course into a more comprehensive LLM curriculum, adding new chapters on fine-tuning, reasoning models, and current AI agent workflows. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
