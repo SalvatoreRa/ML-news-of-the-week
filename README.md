@@ -77,20 +77,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Scientist v2.](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf) | Sakana AI had a research paper accepted to an ICLR workshop that was entirely generated, executed, and written by a language model system. They enhanced the system with vision-language models, broader search capabilities, and other improvements.|
 |[Dynamic Knowledge Circuits.](https://github.com/zjunlp/dynamicknowledgecircuits) |This research investigates how LLMs internalize new knowledge by examining computational subgraphs, uncovering patterns in knowledge acquisition, training optimization phases, and offering insights for enhancing continual pre-training strategies. |
 |[Concept Attention.](https://github.com/helblazer811/ConceptAttention) |A novel method to view concepts in the attention map of neural networks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -137,12 +124,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Trump administration backs off Nvidia's H20 chip crackdown after Mar-a-Lago dinner, NPR reports.](https://www.reuters.com/technology/trump-administration-backs-off-nvidias-h20-chip-crackdown-after-mar-a-lago-2025-04-09/) | The Trump administration reversed plans to restrict Nvidia's H20 AI chip exports to China after Nvidia CEO promised U.S. investments.|
 |[Tesla stops taking orders in China for two models imported from US.](https://www.theguardian.com/technology/2025/apr/11/tesla-stops-taking-orders-in-china-for-two-models-imported-from-us) |Carmaker removes ‘order now’ buttons for Model S saloon and Model X SUV on its Chinese website amid tariffs war |
 |[OpenAI countersues Elon Musk over ‘unlawful harassment’ of company.](https://www.theguardian.com/technology/2025/apr/11/openai-countersues-elon-musk-over-unlawful-harassment-of-company) | ChatGPT developer asks US federal judge to stop former founder making any further attacks|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -187,14 +168,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[US engineers' AI converts simple text into walking robots in a day.](https://interestingengineering.com/innovation/robots-from-text-using-ai) | Duke University's Text2Robot allows non-experts to design functional 3D robots using simple text prompts through a generative AI framework, making robotic design more accessible by removing the need for advanced technical expertise.|
 |[Sculptor: Catch and fix issues as you code.](https://imbue.com/product/sculptor/) | Sculptor is an early access coding agent environment that incorporates software engineering best practices by executing code in secure, sandboxed environments.|
 |[WordPress AI Website Builder.](https://wordpress.com/blog/2025/04/09/ai-website-builder/) |A new AI-powered website builder generates full WordPress sites based on user input, making it a great tool for entrepreneurs, freelancers, and bloggers. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
