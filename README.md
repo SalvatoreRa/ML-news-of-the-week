@@ -185,7 +185,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AlphaFold is running out of data — so drug firms are building their own version.](https://www.nature.com/articles/d41586-025-00868-9) | Thousands of 3D protein structures locked up in big-pharma vaults will be used to create a new AI tool that won’t be open to academics.|
 
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme68.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme69.jpg)
 
 [Back to index](#Index)
 
