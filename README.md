@@ -27,20 +27,21 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
-* [ML news: Week 31 March - 6 April](#ML-news-31-March-6-April)
-* [ML news: Week 24 - 30 March](#ML-news-24-30-March)
-* [ML news: Week 17 - 23 March](#ML-news-17-23-March)
-* [ML news: Week 10 - 16 March](#ML-news-10-16-March)
-* [ML news: Week 3 - 9 March](#ML-news-3-9-March)
+* [ML news: Week 7 - 13 April](#ML-news-Week-7-13-April)
+* [ML news: Week 31 March - 6 April](#ML-news-Week-31-March-6-April)
+* [ML news: Week 24 - 30 March](#ML-news-Week-24-30-March)
+* [ML news: Week 17 - 23 March](#ML-news-Week-17-23-March)
+* [ML news: Week 10 - 16 March](#ML-news-Week-10-16-March)
+* [ML news: Week 3 - 9 March](#ML-news-Week-3-9-March)
 * [ML news: Week 24 February - 2 March](#ML-news-24-February-2-March)
-* [ML news: Week 17 - 23 February](#ML-news-17-23-February)
-* [ML news: Week 10 - 16 February](#ML-news-10-16-February)
-* [ML news: Week 3 - 9 February](#ML-news-3-9-February)
-* [ML news: Week 27 January - 2 February](#ML-news-20-26-January)
+* [ML news: Week 17 - 23 February](#ML-news-Week-17-23-February)
+* [ML news: Week 10 - 16 February](#ML-news-Week-10-16-February)
+* [ML news: Week 3 - 9 February](#ML-news-Week-3-9-February)
+* [ML news: Week 27 January - 2 February](#ML-news-Week-20-26-January)
 * [ML news: Week 20 - 26 January](#ML-news-Week-20-26-January)
 * [ML news: Week 13 - 19 January](#ML-news-Week-13-19-January)
 * [ML news: Week 6 -12 January](#ML-news-Week-6-12-January)
-* [ML news: Week 31 December - 5 January](#ML-news-Week-Week-31-December-5-January)
+* [ML news: Week 31 December - 5 January](#ML-news-Week--31-December-5-January)
 
 
 ## 2024
@@ -54,6 +55,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2025
+
+# ML news: Week 7 - 13 April
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme68.jpg)
+
+[Back to index](#Index)
 
 # ML news: Week 31 March - 6 April
 
