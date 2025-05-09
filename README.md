@@ -71,24 +71,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[TTRL: Test-Time Reinforcement Learning.](https://www.arxiv.org/abs/2504.16084) | Test-Time Reinforcement Learning (TTRL) lets LLMs improve during inference by using majority voting over their own outputs to create pseudo-rewards, enabling reinforcement learning without labeled data. Combining test-time scaling and training, it adapts models to new inputs. TTRL boosts performance significantly, even surpassing its own supervision baseline, though it relies on the model's prior knowledge and well-tuned settings to work effectively. |
 |[Discovering Values in Real-World Language Model Interactions.](https://assets.anthropic.com/m/18d20cca3cde3503/original/Values-in-the-Wild-Paper.pdf) |This study analyzes over 300,000 real conversations with Claude 3 and 3.5, identifying 3,307 AI-expressed values across five domains. Practical and epistemic values dominate, with Claude often emphasizing helpfulness, professionalism, and clarity. Values vary by context, becoming most explicit during resistance or reframing. Claude mirrors user values in supportive settings but resists unethical requests. Claude 3 Opus shows deeper emotional and ethical grounding than later Sonnet versions. |
 |[Faster Drug Development: Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability.](https://arxiv.org/abs/2410.17005v1) | GEMCODE is a new AI-based system for automating co-crystal screening.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -120,15 +102,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Perplexity’s AI voice assistant is now available on iOS.](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone) | The Perplexity bot is now available on both iPhones and Android devices, allowing you to ask it to set reminders, send messages, and more.|
 |[Google’s AI Overviews Reach 1.5 Billion Monthly Users.](https://www.searchenginejournal.com/googles-ai-overviews-reach-1-5-billion-monthly-users/545333/) | Google reported that AI Overviews hit 1.5 billion monthly users. Google Search revenue grew 10% year-over-year to $50.7 billion. Google is heavily investing in AI, with capital expenditures up 43%.|
 |[Microsoft 365 Copilot: Your window into the world of agents.](https://www.microsoft.com/en-us/microsoft-365/blog/2025/04/23/microsoft-365-copilot-built-for-the-era-of-human-agent-collaboration/) | Microsoft has released Microsoft 365 Copilot Wave 2, bringing new features like AI-powered search, enhanced content creation tools, and an Agent Store with reasoning agents powered by OpenAI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -168,12 +142,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Weed Mapping for Smarter Farming.](https://arxiv.org/abs/2410.04983v2) |This study presents RoWeeder, a novel unsupervised framework for weed detection in agriculture that integrates crop-row detection with a robust deep learning model, training it to distinguish weeds from crops using crop-row data. |
 |[Training Small Language Models with Knowledge Distillation.](https://huggingface.co/MiniLLM) | MiniPLM is a new framework designed to enhance pre-training of small language models using knowledge from larger models.|
 |[Omdet Turbo.](https://huggingface.co/docs/transformers/main/en/model_doc/omdet-turbo) |A strong improvement in real time, open vocabulary, object detection. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
