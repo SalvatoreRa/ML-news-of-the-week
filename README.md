@@ -72,21 +72,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050) |JudgeLRM is a family of LLMs trained with reinforcement learning for judgment tasks. Unlike SFT, it excels in reasoning-heavy evaluations, outperforming models like GPT-4 and DeepSeek-R1. |
 |[Conversational AI for Cells.](https://blog.google/technology/research/cell2sentence-scale/) | C2S-Scale is a new family of LLMs that interprets single-cell data and translates biological signals into natural language for applications in personalized medicine and drug discovery.|
 |[DocAgent: A Multi-Agent System for Automated Code Documentation Generation.](https://arxiv.org/abs/2504.08725) | Meta AI's DocAgent is a tool-integrated framework that generates high-quality docstrings for complex codebases using a team of specialized agents and a topological traversal strategy. By parsing code dependencies and incrementally building context, it avoids token overflow and improves documentation quality. Evaluated on Python projects, DocAgent significantly outperforms baselines in completeness, helpfulness, and truthfulness, with its dependency-aware Navigator proving essential to its success.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -127,14 +112,6 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Cohere on Hugging Face Inference Providers.](https://huggingface.co/blog/inference-providers-cohere) |Cohere became the first model creator to directly host and serve its enterprise-focused AI models on Hugging Face. |
 |[OpenAI Flex Processing.](https://platform.openai.com/docs/guides/flex-processing) |OpenAI has introduced Flex processing, a cost-saving API option that trades slower response times and intermittent availability for lower prices, ideal for non-production tasks. |
 |[Anthropic enhances Claude with Research and Google Workspace integration.](https://www.anthropic.com/news/research) |Anthropic has launched new Claude features: Research for autonomous multi-step search with citations and Google Workspace integration for context-aware assistance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -178,14 +155,6 @@ While the project is still in early stages, we’re told there’s an internal p
 |[SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents.](https://arxiv.org/abs/2504.08703v3) | SWE-PolyBench is a new benchmark for evaluating coding agents on real-world tasks in Java, JavaScript, TypeScript, and Python. It uses execution-based and syntax tree metrics, revealing that current agents struggle with complex problems and perform inconsistently across languages.|
 |[A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems.](https://arxiv.org/abs/2504.09037) |This survey organizes LLM reasoning methods by timing (inference-time vs. training) and architecture (standalone vs. agentic/multi-agent), spotlighting trends like learning-to-reason and agentic workflows. It reviews techniques including prompt design, output refinement, and training approaches like PPO and verifier-based learning. |
 |[A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science.](https://arxiv.org/abs/2504.09848) | This paper surveys spatial intelligence across fields, linking human cognition to how LLMs manage spatial memory, reasoning, and representations. It proposes a unified framework bridging AI, robotics, urban planning, and earth science, emphasizing LLMs’ growing spatial abilities and interdisciplinary relevance.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
