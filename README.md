@@ -72,31 +72,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems.](https://arxiv.org/abs/2504.01990) |This survey presents a modular, brain-inspired framework for intelligent agents, drawing from cognitive science and neuroscience to define core components like reasoning, memory, and action. It contrasts LLM agents with human cognition, explores how agents can plan and adapt over time, and highlights the need for better tools and training for real-world action. It also emphasizes the long-term goal of self-evolving agents capable of improving themselves with minimal human intervention. |
 |[MAGI: Multi-Agent Guided Interview for Psychiatric Assessment.](https://arxiv.org/abs/2504.18260) |MAGI is a multi-agent system that automates structured psychiatric interviews based on the MINI protocol, using four agents for flow control, questioning, judgment, and diagnosis. Its explainable reasoning method, PsyCoT, breaks down diagnoses into transparent steps tied to DSM-5 criteria. In tests on over 1,000 interviews, MAGI outperformed other LLM-based methods in accuracy, completeness, and clinical reliability, achieving strong agreement across multiple psychiatric conditions. |
 |[Modulating Reasoning in LLMs.](https://arxiv.org/abs/2504.19483) | Researchers demonstrate that reasoning abilities in LLMs can be modified through straightforward changes in the residual stream by applying representation-based control vectors.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -136,13 +112,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Perplexity’s CEO on fighting Google and the coming AI browser war.](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war) | Perplexity's CEO Aravind Srinivas outlines plans to launch Comet, Perplexity AI's own browser designed as a platform for AI agents. Despite hurdles with Google, the company secured a pre-installation agreement with Motorola’s new Razr phones. Srinivas views browsers as key to AI, enabling deep integration and interaction with third-party services.|
 |[AI Mode Updates in Google Search.](https://blog.google/products/search/ai-mode-updates-may-2025/) | AI tools like ChatGPT and Perplexity accurately determine locations from photos and bird songs based on visual and auditory clues, even without metadata.|
 |[Perplexity is now live on WhatsApp.](https://x.com/AskPerplexity/status/1916889097643368929) |Perplexity has launched a WhatsApp integration for its AI assistant. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -177,16 +147,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |
 |[Federated LoRA Fine-Tuning.](https://arxiv.org/abs/2502.15436v1) | Fed-SB has introduced a scalable approach for federated fine-tuning of LLMs using LoRA-SB that drastically reduces communication costs.|
 |[OmniParser v2.0.](https://huggingface.co/microsoft/OmniParser-v2.0) | The next version of the great screenshot parsing tool from Microsoft. It scores well on the Screenshot Pro benchmark.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -199,7 +160,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Why would AI companies use human-level AI to do alignment research?](https://www.lesswrong.com/posts/XLNxrFfkyrdktuzqn/why-would-ai-companies-use-human-level-ai-to-do-alignment) |AI companies may overlook alignment bootstrapping once they reach human-level AI, similar to how they now prioritize enhancing capabilities with human researchers over safety. This could create a risky gap where AI advances outstrip alignment progress, heightening existential threats. To prevent this, companies should already be prioritizing safety to demonstrate their dedication to responsible development. |
 |[Why Developers Should Care About Generative AI (Even If They Aren't AI Experts).](https://hackread.com/why-developers-care-about-generative-ai-experts/) |Generative AI tools such as GitHub Copilot and Claude are poised to reshape software development by boosting productivity and automating repetitive tasks. Though these tools offer efficiency improvements, human developers remain essential for creativity, quality control, and managing complex needs. Embracing AI tools can help developers enhance their abilities and stay current with evolving technology. |
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme71.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme72.jpg)
 
 [Back to index](#Index)
 
