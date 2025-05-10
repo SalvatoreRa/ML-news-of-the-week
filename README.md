@@ -143,8 +143,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Microsoft's Phi-4-reasoning.](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/) |Microsoft has introduced Phi-4-reasoning variants, pushing small language models further in efficiency and reasoning capabilities. |
 |[Ai2's OLMo 2.](https://huggingface.co/allenai/OLMo-2-0425-1B) |The Allen Institute has released OLMo-2-1B, a small, transparent model backed by full training data and logs, furthering open research in language models. |
 |[Observability for RAG Agents.](https://decodingml.substack.com/p/observability-for-rag-agents) |This article provides a walkthrough of building realistic simulation agents using RAG and LLMOps. |
-|[Google's Medical AI Reading Images.](https://research.google/blog/amie-gains-vision-a-research-ai-agent-for-multi-modal-diagnostic-dialogue/) | A summary of how Google's AMIE now examines medical images during conversational diagnoses, enhancing its capability to recommend accurate treatments similar to a real doctor.
-|
+|[Google's Medical AI Reading Images.](https://research.google/blog/amie-gains-vision-a-research-ai-agent-for-multi-modal-diagnostic-dialogue/) | A summary of how Google's AMIE now examines medical images during conversational diagnoses, enhancing its capability to recommend accurate treatments similar to a real doctor.|
 |[Federated LoRA Fine-Tuning.](https://arxiv.org/abs/2502.15436v1) | Fed-SB has introduced a scalable approach for federated fine-tuning of LLMs using LoRA-SB that drastically reduces communication costs.|
 |[OmniParser v2.0.](https://huggingface.co/microsoft/OmniParser-v2.0) | The next version of the great screenshot parsing tool from Microsoft. It scores well on the Screenshot Pro benchmark.|
 
