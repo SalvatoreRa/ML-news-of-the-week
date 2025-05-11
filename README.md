@@ -76,24 +76,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[IDInit: A Universal and Stable Initialization Method for Neural Network Training.](https://arxiv.org/abs/2503.04626) | A new initialization technique, IDInit, ensures stable convergence in deep neural networks by maintaining identity transitions in both main and sub-stem layers.|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |Chatbot Arena's benchmarking shows bias stemming from hidden private tests and unequal data access. Companies like Google and OpenAI have broad access, while open-source models get far less, leading to overfitting instead of real model progress. |
 |[Actor-Critics Can Achieve Optimal Sample Efficiency.](https://arxiv.org/abs/2505.03710) | A new actor-critic RL algorithm has achieved near-optimal sample efficiency using offline data and targeted exploration, addressing long-standing challenges in hybrid RL settings.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -141,10 +123,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Perplexity Expanding AI-Powered Learning.](https://www.perplexity.ai/hub/blog/perplexity-partners-with-wiley-to-power-educational-ai-search) | Perplexity has partnered with Wiley to incorporate textbook content into its AI search platform, giving students and institutions easy access to course materials and instant explanations.|
 |[Freepik releases an ‘open’ AI image generator trained on licensed data.](https://techcrunch.com/2025/04/29/freepik-releases-an-open-ai-image-generator-trained-on-licensed-data/) | Freepik's F Lite is an AI image model developed with Fal.ai and trained using 64 Nvidia H100 GPUs that utilizes licensed, safe-for-work images.|
 |[Meta Enters The Token Business, Powered By Nvidia, Cerebras And Groq.](https://www.forbes.com/sites/karlfreund/2025/04/29/meta-enters-the-token-business-powered-by-nvidia-cerebras-and-groq/) |Meta showcased its capability to rival ChatGPT at LlamaCon by collaborating with Cerebras and Groq for faster inference processing. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -167,18 +146,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Pathology with DINOv2.](https://ai.meta.com/blog/mahmood-lab-human-pathology-dinov2/) |The Mahmood Lab, using Meta's DINOv2, has developed open-source AI models for pathology, improving disease detection and diagnostics. |
 |[PyTorch Role in the AI Stack.](https://pytorch.org/blog/pytorch-the-open-language-of-ai/) | PyTorch has grown from a research-focused framework into a core platform driving generative AI. The PyTorch Foundation has broadened its scope to include related projects and promote scalable AI development.|
 |[Osmosis self-improvement via real-time reinforcement learning.](https://threadreaderapp.com/thread/1920564884967928133.html) | Osmosis is a platform enabling AI self-improvement through real-time reinforcement learning. The team has open-sourced a compact model that matches state-of-the-art performance for MCP and can be run locally.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
