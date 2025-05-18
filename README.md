@@ -72,23 +72,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms.](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |Google DeepMind's AlphaEvolve employs Gemini models to iteratively create and refine full algorithmic solutions rather than isolated functions. It generates code, evaluates it automatically, and evolves better versions by building on successful attempts. This method has led to major improvements across Google’s infrastructure, including data center performance, chip design, and AI training efficiency. Some researchers will get early access, but broad availability remains uncertain. |
 |[The effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking: insights from a meta-analysis.](https://www.nature.com/articles/s41599-025-04787-y) | Amid ongoing discussions about AI in education, a meta-analysis of 51 studies reveals that ChatGPT significantly boosts student learning performance and moderately enhances perceptions of learning and higher-order thinking. Its impact was strongest in problem-based learning settings with regular use over 4–8 weeks.|
 |[BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset.](https://arxiv.org/abs/2505.09568v1) | BLIP3-o is a new diffusion transformer architecture trained using a sequential pretraining approach. It sets state-of-the-art performance on various multimodal benchmarks. The release includes the model's code, pretrained weights, and a 60k instruction-tuning dataset.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -143,17 +127,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Y Combinator Hosts First-Ever AI Startup School.](https://events.ycombinator.com/ai-sus) | The startup incubator is hosting an invite-only event on June 16-17th in San Francisco for 2,500 CS students and recent graduates.|
 |[TikTok Expands Mental Health Support.](https://newsroom.tiktok.com/en-us/tiktok-expanding-mental-health-education-fund-and-wellbeing-features) | TikTok has launched in-app meditation exercises and expanded its Mental Health Education Fund to promote accessible, reliable mental health information for users worldwide.|
 |[HeyGen launches Avatar IV, its most advanced AI avatar model yet.](https://threadreaderapp.com/thread/1919765489775231401.html) | HeyGen's Avatar IV is a neural audio-to-expression engine that interprets vocal tone, rhythm, and emotion to drive photoreal facial motion from a single image.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -179,12 +153,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Meta's New Artifacts.](https://ai.meta.com/blog/meta-fair-science-new-open-source-releases/) |Meta's FAIR team has released datasets and models supporting molecular property prediction, diffusion modeling, and language learning neuroscience. |
 |[A Visual Tool Use for AI Agents.](https://github.com/zhaochen0110/OpenThinkIMG) | OpenThinkIMG enables vision-language models to actively utilize visual tools through dynamic inference and distributed deployment. It features a new reinforcement learning approach called V-ToolRL and an efficient training pipeline designed to enhance multi-tool reasoning with images.|
 |[Making complex text understandable: Minimally-lossy text simplification with Gemini.](https://research.google/blog/making-complex-text-understandable-minimally-lossy-text-simplification-with-gemini/) | Developers leveraged Gemini models to automate prompt evaluation and refinement for text simplification, enhancing readability without losing meaning. The system uses LLMs to assess both clarity and fidelity, aligning more closely with human evaluations than traditional approaches. By iterating prompts automatically, it reduces manual work and enables highly effective simplification through a feedback loop powered by LLMs.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
