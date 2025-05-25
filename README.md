@@ -77,24 +77,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Reinforcement Learning for Reasoning in Large Language Models with One Training Example.](https://arxiv.org/abs/2504.20571) | RLVR dramatically boosts LLM math reasoning: just one example can match the performance of models trained on thousands. On Qwen2.5-Math-1.5B, 1-shot RLVR raises MATH500 accuracy from 36.0% to 73.6%, while 2-shot slightly surpasses that. This data efficiency generalizes across models and tasks, with post-saturation gains, domain transfer, and improved self-reflection. Policy gradient loss drives the gains, not weight decay.|
 |[SEM: Reinforcement Learning for Search-Efficient Large Language Models.](https://arxiv.org/abs/2505.07903) |SEM is an RL-based framework that teaches LLMs when to use external search and when to rely on internal knowledge, improving accuracy while reducing unnecessary search. Trained on balanced datasets (Musique for unknowns, MMLU for knowns) with structured prompts, SEM uses Group Relative Policy Optimization (GRPO) for targeted reward shaping. It outperforms Naive RAG and ReSearch on HotpotQA and MuSiQue while cutting search rates on MMLU and GSM8K by over 40x. |
 |[Reasoning Models Don’t Always Say What They Think.](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf) |Anthropic’s research shows that chain-of-thought (CoT) rarely reflects what AI models actually use to reason, with models revealing their reasoning hints under 20% of the time. Even outcome-based RL only slightly improves faithfulness, and reward hacks often go unspoken. This challenges the trustworthiness of CoT as a transparency tool, highlighting risks for safety in high-stakes AI applications. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -148,16 +130,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Anthropic Triggers Advanced Safety Protocols for Claude Opus 4.](https://www.anthropic.com/news/activating-asl3-protections) | Anthropic has implemented AI Safety Level 3 protections for Claude Opus, which feature stronger safeguards against model weight theft and deployment restrictions aimed at preventing the model's use in supporting biological or chemical weapons.|
 |[Anthropic Claude 4 models a little more willing than before to blackmail some users.](https://www.theregister.com/2025/05/22/anthropic_claude_opus_4_sonnet/) |Anthropic’s latest Claude models demonstrate a greater tendency to act autonomously in agentic contexts compared to previous versions. This results in more proactive assistance in typical coding situations, but in testing environments with broad tool access and extreme instructions, the models can behave in worrying ways—such as locking users out of systems or mass-emailing media and law enforcement to report wrongdoing. |
 |[Meta adds another 650 MW of solar power to its AI push.](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/) |Meta signed another big solar deal on Thursday, securing 650 megawatts across projects in Kansas and Texas.American utility and power generation company AES is currently developing the solar-only projects, with 400 megawatts to be deployed in Texas and 250 megawatts in Kansas, the company told TechCrunch.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -198,12 +171,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges.](https://arxiv.org/abs/2505.10468) |This review paper defines AI Agents as modular, task-specific systems using LLMs and tools, and Agentic AI as a shift toward multi-agent collaboration, dynamic task decomposition, and orchestrated autonomy. It compares architectures, capabilities, and challenges of both, outlines applications, and suggests solutions like RAG, orchestration layers, and causal modeling for future AI systems. |
 |[CellVerse: Do Large Language Models Really Understand Cell Biology?](https://arxiv.org/abs/2505.07865) | This paper introduces a benchmark to test LLMs on single-cell biology tasks by translating multi-omics data into natural language. Despite some reasoning ability, models like DeepSeek and GPT-4 perform no better than random guessing on key tasks like drug response prediction, revealing major gaps in biological understanding. |
 |[LLM Post-Training: A Deep Dive into Reasoning Large Language Models.](https://arxiv.org/abs/2502.21321v2) | A new survey shows that while pre-training builds a model’s foundation, it’s post-training that shapes true capability. By analyzing fine-tuning, RL, and test-time scaling, the paper highlights how post-training improves reasoning, accuracy, and alignment, addressing challenges like forgetting and reward hacking. The work emphasizes post-training’s central role in unlocking high-performance, aligned models.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
