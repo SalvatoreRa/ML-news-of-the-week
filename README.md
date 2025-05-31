@@ -27,6 +27,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
+* [ML news: Week 26 May - 2 June](#ML-news-Week-26-May-2-June)
 * [ML news: Week 19 - 25 May](#ML-news-Week-19-25-May)
 * [ML news: Week 12 - 18 May](#ML-news-Week-12-18-May)
 * [ML news: Week 5 - 11 May](#ML-news-Week-5-11-May)
@@ -61,6 +62,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 [Back to index](#Index)
 
 # 2025
+
+# ML news: Week 26 May - 2 June
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme76.jpg)
+
+[Back to index](#Index)
 
 # ML news: Week 19 - 25 May
 
