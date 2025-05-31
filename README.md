@@ -78,31 +78,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Generalizable AI predicts immunotherapy outcomes across cancers and treatments.](https://www.medrxiv.org/content/10.1101/2025.05.01.25326820v1) |COMPASS is a concept bottleneck-based foundation model that predicts patient response to immune checkpoint inhibitors (ICIs) using tumor transcriptomic data. It maps gene expression to 44 immune-related concepts for pan-cancer modeling and interpretability. Pretrained on 10,184 tumors across 33 cancer types, COMPASS outperforms 22 baselines in precision, AUPRC, and MCC, generalizing across drugs, cancer types, and cohorts. It reveals biological resistance mechanisms and improves survival stratification beyond traditional biomarkers. |
 |[Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models.](https://arxiv.org/abs/2505.10543) | This paper explores how LLMs adapt to dynamic environments, using the SmartPlay benchmark of four interactive games. Model size strongly predicts performance, with larger models excelling in reactive and structured reasoning tasks. Advanced prompting strategies like self-reflection and heuristic mutation help smaller models but show high variance and can hurt performance on simple tasks. Prompting benefits depend on task type, while dense reward shaping is more consistently effective than prompting across models and tasks.|
 |[Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.](https://www.arxiv.org/abs/2505.20561) |New research from Northwestern and DeepMind reveals that LLMs' backtracking isn’t inefficient—it's a reflection of adaptive problem-solving. Traditional RL discourages reflection by treating it as suboptimal token generation, favoring memorization and static policies. By reframing reasoning as Bayes-Adaptive RL, where each path is a hypothesis, models learn to explore strategically and backtrack when it offers useful information. Their BARL algorithm achieves the same accuracy with 50% fewer tokens, showing reflection, when used wisely, can vastly improve LLM performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -150,14 +126,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Delaware attorney general reportedly hires a bank to evaluate OpenAI’s restructuring plan.](https://techcrunch.com/2025/05/29/delaware-attorney-general-reportedly-hires-a-bank-to-evaluate-openais-restructuring-plan/) | Delaware’s attorney general is hiring an investment bank to advise on OpenAI’s for-profit conversion, the Wall Street Journal reported on Wednesday. The independent evaluation could prolong the transition, or gum up OpenAI’s plans even further.|
 |[Musk-Altman AI rivalry is complicating Trump’s dealmaking in Middle East.](https://www.cnbc.com/2025/05/29/musk-altman-ai-rivalry-complicating-trumps-dealmaking-in-middle-east.html) | Elon Musk tried to derail a major AI infrastructure deal in the Middle East, a source familiar with the matter confirmed to CNBC, following reporting by the Wall Street Journal. OpenAI, Oracle, Nvidia, Cisco and Emirati firm G42 announced plans to build a sweeping Stargate AI campus in the United Arab Emirates. Musk was frustrated that Sam Altman was tapped for the deal, the person said.|
 |[Vibe coding platforms are blowing up.](https://threadreaderapp.com/thread/1928154833514836382.html) |The data shows that people are making things for themselves, not the world, but there is clearly builder excitement. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -207,16 +176,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems.](https://arxiv.org/abs/2505.11831) |ARC-AGI-2 is a benchmark designed to advance AI reasoning by introducing harder, more unique tasks that test compositional generalization and human-like intelligence. Despite strong ARC-AGI-1 results, baseline AI models score below 5% on ARC-AGI-2, highlighting its increased difficulty. |
 |[GRIT: Teaching MLLMs to Think with Images.](https://arxiv.org/abs/2505.15879) |GRIT is a method for grounded visual reasoning in MLLMs that interleaves natural language with bounding box references. Using reinforcement learning (GRPO-GR), it achieves strong accuracy and visual coherence with as few as 20 image-question-answer triplets, outperforming baselines. |
 |[QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning.](https://www.arxiv.org/abs/2505.17667) |Large reasoning models like o1 and DeepSeek-R1 fail on long documents due to training instability, not data or compute limits. Alibaba’s QwenLong-L1 addresses this with progressive context scaling—gradually increasing document length during training with difficulty-aware sampling and hybrid rewards. This stabilizes learning and enables QwenLong-L1-32B to outperform o3-mini and match Claude-3.7 on long-context benchmarks, unlocking advanced reasoning in complex, real-world documents. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
