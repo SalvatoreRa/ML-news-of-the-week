@@ -80,33 +80,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Spurious rewards: rethinking training signals in RVLR.](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) | This work shows that Qwen2.5-Math models improve significantly on math tasks under RLVR, even with flawed or random rewards. Qwen2.5-Math-7B gains up to +24.6% accuracy with spurious signals, close to the +28.8% gain from ground-truth rewards. The improvements stem from a shift toward code-based reasoning, which is unique to Qwen models due to their pretraining. Other models like Llama3 don’t benefit. GRPO’s clipping bias helps reinforce useful high-probability behaviors like code generation, enabling learning even from noisy feedback.|
 |[Learning to Reason without External Rewards.](https://arxiv.org/abs/2505.19590) | This paper introduces INTUITOR, a reinforcement learning method that trains LLMs using self-certainty—measured via KL divergence from uniform—as an intrinsic reward, eliminating the need for external labels or verifiers. It matches GRPO performance on math tasks like GSM8K and MATH500, and generalizes better on out-of-domain tasks. INTUITOR improves early training, instruction-following, and leads to emergent structured reasoning. Its adaptive self-certainty signal proves robust and resistant to reward hacking.|
 |[Learning to Reason via Mixture-of-Thought for Logical Reasoning.](https://arxiv.org/abs/2505.15817) |Mixture-of-Thought (MoT) introduces joint multi-modal training and inference—combining natural language, code, and truth tables—for improved logical reasoning. Unlike prior work that ensembles only at inference, MoT’s self-evolving training loop generates and learns from its own multi-modal traces. At test time, it uses majority voting across modalities, yielding up to +11.7pp accuracy gains on FOLIO and ProofWriter. MoT excels on harder tasks and shows that multi-modal reasoning enhances both robustness and performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## News
@@ -153,11 +126,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR.](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) |Anysphere, the maker of AI coding assistant Cursor, has raised $900 million at a $9.9 billion valuation, Bloomberg reported. The round was led by returning investor Thrive Capital, with participation from Andreessen Horowitz, Accel, and DST Global. |
 |[Claude Gov Models for U.S. National Security Customers.](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers) | Anthropic trained custom models for the US government optimized for intelligence and defense use cases that have already been deployed in classified environments.|
 |[UK ministers delay AI regulation amid plans for more ‘comprehensive’ bill.](https://www.theguardian.com/technology/2025/jun/07/uk-ministers-delay-ai-regulation-amid-plans-for-more-comprehensive-bill) | Law expected to include safety and copyright issues but delay likely to raise concerns about ongoing lack of regulation|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -190,17 +159,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning.](https://www.arxiv.org/abs/2505.17667) | This new reinforcement learning framework scales large reasoning models from short to long contexts using progressive context scaling and hybrid rewards. It achieves state-of-the-art results on seven long-context benchmarks, outperforming models like OpenAI-o3-mini and Qwen3-235B-A22B, and matching Claude-3.7-Sonnet-Thinking in reasoning tasks with inputs up to 120K tokens.|
 |[ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay.](https://www.arxiv.org/abs/2505.16282) | ARPO is an end-to-end reinforcement learning approach for training GUI agents using GRPO with experience replay. It achieves up to 6.7% higher in-domain performance on the OSWorld benchmark, shows modest improvements on out-of-domain tasks, and enables self-corrective behavior through structured reward feedback.|
 |[Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution.](https://www.arxiv.org/abs/2505.20286) | Alita is a generalist agent framework that supports scalable reasoning by minimizing manual setup and maximizing self-evolution. It builds reusable Model Context Protocols (MCPs) through autonomous web search and code synthesis, outperforming more complex systems like OpenAI DeepResearch and OctoTools on GAIA, MathVista, and PathVQA benchmarks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
