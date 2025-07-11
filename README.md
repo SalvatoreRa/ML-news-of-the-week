@@ -78,33 +78,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[StochasTok: Improving Fine-Grained Subword Understanding in LLMs.](https://arxiv.org/abs/2506.01687) |StochasTok is a training method that randomly decomposes tokens, so instead of consistently seeing "strawberry" as a single unit, models might encounter variations like "straw|berry," "str|awberry," or fully split into characters. This helps models internalize the kind of substructure humans naturally recognize. Models trained with StochasTok show near-perfect accuracy on tasks like character counting and multi-digit math, all while preserving strong performance on standard benchmarks. |
 |[A Variational Framework for Improving Naturalness in Generative Spoken Language Models.](https://arxiv.org/abs/2506.14767v1) | An end‑to‑end variational encoder that augments semantic speech tokens with automatically learned prosodic features, removing hand‑engineered pitch inputs and yielding more natural continuations in human preference tests.|
 |[Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs.](https://github.com/optml-group/unlearn-trace) | Machine‑unlearned LLMs leave detectable behavioral and activation‑space "fingerprints". Simple classifiers can spot unlearning with >90 % accuracy, raising privacy and copyright concerns.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -133,16 +107,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[how i bring the best out of claude code - part 1.](http://www.tokenbender.com/post.html?id=how-i-bring-the-best-out-of-claude-code&utm_source=tldrai) | Getting Claude Code to actually do what you want comes down to being incredibly specific about your requirements—treat it like you're writing a program, not casual instructions.|
 |[Web-scraping AI bots cause disruption for scientific databases and journals.](https://www.nature.com/articles/d41586-025-01661-4) | Automated programs gathering training data for artificial-intelligence tools are overwhelming academic websites.|
 |[Start-up FutureHouse debuts powerful AI ‘reasoning model’ for science.](https://www.nature.com/articles/d41586-025-01753-1) | The model, called ether0, outperforms other advanced AIs at chemistry tasks and is a stepping stone towards automating the entire research pipeline.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -170,17 +134,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference.](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17) |Traditional LLM systems typically depend on a series of GPU kernel launches and external communication calls, leading to inefficient hardware utilization. This post explains how a team built a compiler that automatically converts LLM inference into a single megakernel. This approach removes launch overhead, enables fine-grained software pipelining, and overlaps computation with communication across GPUs. The result is a significant reduction in inference latency—ranging from 1.2x to 6.7x improvements—through full GPU fusion. |
 |[Changes made to the Model Context Protocol.](https://modelcontextprotocol.io/specification/2025-06-18/changelog) | This document outlines the key updates to the Model Context Protocol (MCP) specification since the 2025-03-26 revision. Notable changes include the removal of JSON-RPC batching support, the addition of structured tool output support, and clearer guidance on security considerations and best practices within the authorization specification. A full list of all changes is available via the provided link. |
 |[Andrej Karpathy: Software Is Changing (Again).](https://www.youtube.com/watch?v=LCEmiRjPEtQ) | Andrej Karpathy describes a shift into "Software 3.0," where LLMs act as cloud-based operating systems programmed in natural language—a concept he calls "vibe coding." Instead of chasing fully autonomous AI agents, he supports using "autonomy sliders" in tools like Cursor to balance AI capabilities with human oversight. He also highlights the growing importance of LLM-friendly documentation, as AI agents increasingly become key consumers of digital content.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
