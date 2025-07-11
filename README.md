@@ -27,7 +27,8 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 ## 2025
 
-* [ML news: Week 9 - 14 June](#ML-news-Week-9-14-June)
+* [ML news: Week 16 - 22 June](#ML-news-Week-16-22-June)
+* [ML news: Week 9 - 15 June](#ML-news-Week-9-14-June)
 * [ML news: Week 3 - 8 June](#ML-news-Week-3-8-June)
 * [ML news: Week 26 May - 2 June](#ML-news-Week-26-May-2-June)
 * [ML news: Week 19 - 25 May](#ML-news-Week-19-25-May)
@@ -65,6 +66,12 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # 2025
 
+# ML news: Week 16 - 22 June
+
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme78.jpg)
+
+[Back to index](#Index)
+
 # ML news: Week 9 - 14 June
 
 ## Research
@@ -73,8 +80,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[We Made Top AI Models Compete in a Game of Diplomacy.](https://every.to/diplomacy) | Out of 18 AI models tested, OpenAI's o3 stood out by excelling at deception and covertly forming alliances—at one point convincing Claude 4 Opus to turn on its ally Gemini 2.5 Pro with the false promise of a "four-way draw," only to later eliminate Claude. Gemini 2.5 Pro was the only other model to secure a win, using aggressive, fast-paced tactics. In contrast, Claude consistently aimed for peaceful outcomes, even when other models betrayed it.|
 |[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity.](https://machinelearning.apple.com/research/illusion-of-thinking) |Apple researchers evaluated Large Reasoning Models (LRMs) using custom puzzle environments to study reasoning complexity. They found LRMs collapse at high complexities, with reasoning effort peaking then declining. |
 |[Physical World Model by Meta.](https://about.fb.com/news/2025/06/our-new-model-helps-ai-think-before-it-acts/) |Meta has unveiled V-JEPA 2, an updated visual world model designed to improve physical reasoning in AI agents. Alongside the release, Meta introduced three new benchmarks aimed at evaluating how well models perform on real-world, video-based reasoning challenges. |
-|[.]() | |
-|[.]() | |
 |[Towards conversational diagnostic artificial intelligence.](https://www.nature.com/articles/s41586-025-08866-7) |The conversational diagnostic artificial intelligence system AMIE (Articulate Medical Intelligence Explorer) has potential as a real-world tool for clinical history-taking and diagnostic dialogue, based on its performance in simulated consultations. |
 |[Towards accurate differential diagnosis with large language models.](https://www.nature.com/articles/s41586-025-08869-4) |Diagnostic reasoning using an optimized large language model with a dataset comprising real-world medical cases exhibited improved differential diagnostic performance as an assistive tool for clinicians over search engines and standard medical resources. |
 |[Mistral AI Revenues Surge as Europe Seeks US Alternatives.](https://www.ft.com/content/65f79839-d637-48a7-a0f2-3fab8952b315) |Mistral AI is reportedly securing multiple contracts worth over \$100 million and nearing \$100 million in annual revenue, as European firms look for non-U.S. AI options following Trump's return to office. Its strategy of emphasizing technological sovereignty seems to be paying off—according to the CEO, business has tripled over the past 100 days, especially across Europe and other non-U.S. regions. |
