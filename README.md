@@ -84,24 +84,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841) | This paper introduces MEM1, a reinforcement learning framework that trains language agents to efficiently handle long-horizon, multi-turn tasks by consolidating memory and reasoning into a compact internal state. Unlike agents that store all past interactions, MEM1 maintains constant memory by updating a single shared internal state each turn, discarding obsolete context while optimizing for rewards via PPO-style RL with masked trajectories. MEM1 excels on complex multi-objective tasks built from standard QA datasets, outperforming larger baselines with less memory and faster inference, and exhibits emergent behaviors like structured memory, selective attention, and query reformulation.|
 |[Towards AI Search Paradigm.](https://arxiv.org/abs/2506.17188) |This paper presents a modular multi-agent system for complex search tasks, featuring four specialized LLM-driven agents—Master, Planner, Executor, and Writer—that coordinate to decompose queries, execute sub-tasks via tools, and synthesize final answers. The system replaces standard RAG pipelines with DAG-based task planning, dynamic re-planning, and a Model-Context Protocol (MCP) for efficient tool selection. Key innovations include RankGPT and TourRank for LLM-aligned search, adversarial tuning for robust answer generation, and the DRAFT method for improving LLM understanding of APIs, enabling more human-like reasoning and information synthesis. |
 |[An Agentic System for Rare Disease Diagnosis with Traceable Reasoning.](https://arxiv.org/abs/2506.20430) |This paper introduces DeepRare, a modular agentic system powered by LLMs for rare disease diagnosis from multimodal clinical inputs, producing ranked, traceable diagnostic hypotheses linked to medical sources for interpretability. Built on a 3-tier architecture with specialized agents and access to 40+ tools, DeepRare outperforms prior methods, achieving 57.18% Recall\@1 on HPO-only tasks and 70.60% on whole-exome sequencing, surpassing Exomiser. Expert reviews confirm its reasoning accuracy, and ablations show that agentic modules like self-reflection and case retrieval improve performance by 28–70% over LLM-only approaches. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -135,14 +118,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[AI is doing up to 50% of the work at Salesforce, CEO Marc Benioff says.](https://www.cnbc.com/2025/06/26/ai-salesforce-benioff.html) |Salesforce utilizes AI for 30% to 50% of its work, enhancing efficiency and reducing costs. |
 |[YouTube's AI Carousel.](https://blog.youtube/news-and-events/new-youtube-ai-tools-summer-2025/) | YouTube rolled out an AI‑generated results carousel that packages short video clips and topic summaries directly in search, an experiment now available to US Premium members for travel, shopping, and activity queries.|
 |[Creative Commons debuts CC signals, a framework for an open AI ecosystem.](https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/) |Nonprofit Creative Commons, which spearheaded the licensing movement that allows creators to share their works while retaining copyright, is now preparing for the AI era. On Wednesday, the organization announced the launch of a new project, CC signals, which will allow dataset holders to detail how their content can or cannot be reused by machines, as in the case of training AI models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -167,15 +143,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Fault Tolerant Llama: training with 2000 synthetic failures every ~15 seconds and no checkpoints on Crusoe L40S.](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/) | Researchers used torchft and torchtitan to train a model in a real-world environment with extreme synthetic failure rates to prove the reliability and correctness of fault tolerant training.|
 |[12-Factor Agents.]([This post discusses 12 core engineering techniques that make LLM-powered software more reliable, more scalable, and easier to maintain.](https://github.com/humanlayer/12-factor-agents)) |This post discusses 12 core engineering techniques that make LLM-powered software more reliable, more scalable, and easier to maintain. |
 |[SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data.](https://huggingface.co/blog/smolvla) | SmolVLA is a 450M parameter Vision-Language-Action model designed for robotics on consumer hardware.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
