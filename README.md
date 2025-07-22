@@ -86,17 +86,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search.](https://arxiv.org/abs/2503.04412) | Sakana AI introduces Adaptive Branching Monte Carlo Tree Search (AB-MCTS), a framework that dynamically chooses to explore new solutions ("go wide") or refine existing ones ("go deep") during inference. Unlike traditional MCTS with fixed branching, AB-MCTS uses unbounded branching guided by Bayesian Thompson sampling for principled exploration-exploitation balance. This unified approach adapts search strategies to task needs and outperforms repeated sampling and standard MCTS on complex coding and engineering benchmarks, leveraging LLM response diversity with multi-turn refinement.|
 |[HIRAG: Hierarchical-Thought Instruction-Tuning Retrieval-Augmented Generation.](https://arxiv.org/abs/2507.05714) |HIRAG is an instruction fine-tuning method that improves RAG models by training them to think before answering through a progressive chain-of-thought (CoT) strategy. It builds three hierarchical abilities: Filtering, Combination, and RAG-specific reasoning, enabling models to better handle open-book tasks. HIRAG delivers significant performance gains across RAG benchmarks like RGB, PopQA, and HotpotQA, and proves robust on Chinese datasets. Ablation studies confirm that each hierarchical training stage contributes to its enhanced reasoning and generalization. |
 |[Scaling Context Requires Rethinking Attention.](https://arxiv.org/pdf/2507.04239) | A new “Power” attention mechanism introduces a hyperparameter p to independently control state size, addressing the trade-off between computational cost and long-context training. It outperforms standard attention on long sequences and supports custom GPU kernels that are 8.6x faster than Flash Attention at a 64k context length.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -159,9 +149,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Meta allows ads crowdfunding for IDF drones, consumer watchdog finds.](https://www.theguardian.com/technology/2025/jul/21/meta-idf-drone-ads-israel) | Paid ads hosted on Facebook, Instagram and Threads seem to violate Meta’s stated policies yet remain active|
 |[Human-level AI is not inevitable. We have the power to change course.](https://www.theguardian.com/commentisfree/ng-interactive/2025/jul/21/human-level-artificial-intelligence) | Technology happens because people make it happen. We can choose otherwise|
 |[OpenAI launches personal assistant capable of controlling files and web browsers.](https://www.theguardian.com/technology/2025/jul/17/openai-launches-personal-assistant-capable-of-controlling-files-and-web-browsers) |AI agent can find restaurant reservations and go shopping for users, but OpenAI acknowledges there are ‘more risks’ |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -181,30 +169,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[A Survey on Latent Reasoning.](https://arxiv.org/abs/2507.06203) |This paper surveys latent reasoning, an emerging approach where AI performs inference within continuous hidden states rather than explicit token-based chains of thought. It identifies two main methods: vertical recurrence, which refines reasoning by looping through layers, and horizontal recurrence, which evolves compressed states over long contexts. The study also highlights infinite-depth models like text diffusion, enabling parallel, iterative reasoning for global planning and self-correction—offering more expressive, efficient alternatives to traditional autoregressive reasoning. |
 |[How to Evaluate AI Agents to Predict Future Events.](https://huggingface.co/blog/futurebench) |Hugging Face's FutureBench is a benchmark for testing AI agents on their ability to predict future events across domains like science, geopolitics, and technology. |
 |[Updated FineWeb with 18.5 Trillion Tokens.](https://huggingface.co/datasets/HuggingFaceFW/fineweb) |FineWeb has been updated with English data from CommonCrawl snapshots from January to June 2025. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
