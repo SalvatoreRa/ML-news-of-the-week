@@ -6,7 +6,9 @@ Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/it/@priscilladupreez
 
  
 
-A collection of the best ML & AI news every week (research, news, resources). Star this repository if you find it useful.
+A collection of the best ML & AI news every week (research, news, resources). 
+
+:star:  this repository if you find it useful.
 
 [Here](https://github.com/SalvatoreRa/tutorial), you can find articles and tutorials about artificial intelligence
 [Here](https://github.com/SalvatoreRa/artificial-intelligence-articles) some reviews on specific artificial intelligence topics
