@@ -72,7 +72,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # ML news: Week 14 - 20 July
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme83.jpg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme83.jpeg)
 
 [Back to index](#Index)
 
@@ -85,7 +85,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 
 # ML news: Week 1 - 6 July
 
-![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme81.jpeg)
+![meme-of-the-week](https://github.com/SalvatoreRa/ML-news-of-the-week/blob/main/images/meme81.jpg)
 
 [Back to index](#Index)
 
