@@ -94,22 +94,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[GNNs with Transformers for Neural Predictors.](https://arxiv.org/abs/2507.00880) |A new predictor architecture integrates GNNs and transformers, featuring a sibling-aware token mixer and a bidirectional graph isomorphism feed-forward network. This design enhances the modeling of neural architectures structured as directed acyclic graphs (DAGs), enabling more accurate predictions of their performance and behavior. |
 |[Graph Regression with Contrastive Learning.](https://arxiv.org/abs/2507.00440) |Extending causal graph learning techniques to regression tasks, this work adapts intervention strategies via contrastive learning to better handle confounders in graph-level regression. |
 |[Inference-Time Scaling and Collective Intelligence for Frontier AI.]([https://sakana.ai/ab-mcts/](https://sakana.ai/ab-mcts/)) |A new inference-time scaling method integrates o4-mini, Gemini-2.5-Pro, and DeepSeek-R1, dynamically selecting the best model for each problem to reach 30% on the ARC-AGI-2 benchmark—exceeding the performance of any single model. The technique builds on Monte Carlo Tree Search to balance between generating new solutions and refining existing ones. The open-source **TreeQuest** framework supports practical deployment of this multi-model orchestration strategy. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -154,18 +139,6 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[CoreWeave is the first cloud provider to deploy Nvidia’s latest AI chips.](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html) |CoreWeave has become the first cloud provider to deploy Nvidia’s next-generation Blackwell Ultra AI chips, integrated into systems built by Dell. Each system features 72 Blackwell Ultra GPUs paired with 36 Grace CPUs, all utilizing liquid cooling and assembled in the U.S. |
 |[Meta is reportedly training its AI chatbots to send unprompted messages.](https://www.engadget.com/big-tech/meta-is-reportedly-training-its-ai-chatbots-to-send-unprompted-messages-143229039.html) |Meta is enhancing its AI chatbots, built with the no-code AI Studio, to send unprompted follow-up messages aimed at improving user retention and engagement. Known internally as "Project Omni," the initiative also lets users customize chatbot appearances and content across Meta’s platforms. While these proactive messages are designed to drive engagement and revenue, they will only be sent after user initiation and will follow Meta’s established conversational guidelines. |
 |[Meta Offers to Buy Stake in Venture Funds Started by AI Hires Nat Friedman and Daniel Gross.](https://www.wsj.com/articles/meta-offers-to-buy-stake-in-venture-funds-started-by-ai-hires-nat-friedman-and-daniel-gross-cc72ad49?st=wzFhd4&reflink=desktopwebshare_permalink&utm_source=tldrai) | Liquidity providers could cash out at the current net asset value, an unusual opportunity in today's markets, where secondary transactions often come at a discount.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -183,35 +156,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Open Source RL Libraries for LLMs.](https://blog.langchain.com/context-engineering-for-agents/) |Anyscale researchers have compared TRL, Verl, OpenRLHF, and six other frameworks across factors like adoption metrics, system properties, and technical architecture. This comparison aims to guide developers in selecting the most suitable tool for RLHF, reasoning models, or agentic training applications. |
 |[Applying RL: Improving Code Merging.](https://www.anyscale.com/blog/open-source-rl-libraries-for-llms) | Osmosis-Apply-1.7B, a fine-tuned variant of Qwen3-1.7B using reinforcement learning, surpasses larger models like OpenAI’s o3 in code merging tasks, achieving a reward score of 0.9893 at much lower cost. Trained on a subset of the CommitPackFT dataset, its efficiency comes from applying GRPO with FSDP strategy, specifically optimizing for successful merges without relying on KL divergence penalties or entropy bonuses.|
 |[Run and Finetune Gemma 3N.](https://docs.unsloth.ai/basics/gemma-3n-how-to-run-and-fine-tune) | A guide on how to run Google's new Gemma 3n locally with Dynamic GGUFs on llama.cpp, Ollama, or Open WebUI, and how to fine-tune with Unsloth.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
