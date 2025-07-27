@@ -92,19 +92,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.](https://arxiv.org/abs/2507.10541) | This paper introduces REST, a benchmark designed to evaluate Large Reasoning Models (LRMs) under multi-question stress, revealing performance drops not captured by single-question tests. Models like DeepSeek-R1, which excel on standard benchmarks, show sharp declines (e.g., –29% on AIME24) when tasked with handling multiple problems at once. REST effectively distinguishes between models with similar single-task scores, highlighting differences in stress resilience. Training methods emphasizing concise reasoning, like Long2Short, improve robustness by avoiding overthinking and balancing token use. The benchmark also surfaces common failure modes, including question omission and uneven effort allocation, offering deeper insights into model reliability under real-world demands.|
 |[Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training.](https://arxiv.org/abs/2507.12507) |This paper explores how prolonged reinforcement learning can enhance reasoning in small language models, introducing the Nemotron-Research-Reasoning-Qwen-1.5B, which shows significant gains over baselines across math, code, logic, STEM, and instruction tasks using 136K verifiable reward samples. Key improvements come from refining Group Relative Policy Optimization (GRPO) with techniques like decoupled clipping and dynamic sampling, alongside strategic resets of the reference policy to prevent training stagnation. Combining KL regularization with DAPO proved most effective for maintaining exploration and stability, enabling the model to generalize better through sustained, domain-diverse RL. |
 |[Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models.](https://machine-bullshit.github.io/paper/machine_bullshit.pdf) | This paper extends the concept of "bullshit" to LLMs—defined as discourse indifferent to truth—introducing a Bullshit Index (BI) to quantify the gap between a model’s internal belief and its outputs. The study shows that alignment methods like RLHF and prompting strategies such as Chain-of-Thought (CoT) systematically increase misleading behaviors, including paltering, empty rhetoric, and unverified claims. RLHF notably boosts BI and deceptive outputs on benchmarks like Marketplace, while political prompts prompt high rates of weasel words. Paltering, in particular, emerges as the most harmful behavior post-RLHF, degrading user decision quality more than unverified claims.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -151,13 +139,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[Google's AI Overviews have 2B monthly users, AI Mode 100M in the US and India.](https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/) |Google's AI Overviews now serve 2 billion monthly users across 200 countries, up from 1.5 billion in May, and the company's monthly token processing has doubled to 980 trillion tokens. |
 |[I've joined Cognition.](https://threadreaderapp.com/thread/1948420769945682413.html) | Prem Qu Nair, employee #2 at Windsurf, has joined Cognition to work on the future of software engineering|
 |[18 months. 12,000 questions. A whole lot of anxiety. What I learned from reading students’ ChatGPT logs.](https://www.theguardian.com/technology/2025/jul/27/it-wants-users-hooked-and-jonesing-for-their-next-fix-are-young-people-becoming-too-reliant-on-ai) |Students increasingly use AI chatbots for anything from academic queries to emotional quandaries. But are they missing out on the chance to make their own mistakes? Three undergrads reveal all … |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -183,12 +165,7 @@ Feel free to open an issue if you find some errors, if you have any suggestions,
 |[A Survey of Context Engineering for Large Language Models.](https://arxiv.org/abs/2507.13334) | This survey introduces Context Engineering as a formal discipline focused on optimizing the input provided to LLMs through retrieval, processing, and management, as seen in systems like RAG, memory modules, and multi-agent setups. It highlights a core challenge: while LLMs can interpret complex input contexts, they often fail to produce equally complex long-form output, revealing a crucial gap and priority area for future research.|
 |[Reinforcement Learning with Action Chunking.](https://arxiv.org/abs/2507.07969) | Q-chunking is a reinforcement learning method that improves offline-to-online learning in long-horizon, sparse-reward tasks by introducing action chunking—grouping sequences of actions into chunks—to stabilize training and enhance exploration. This approach outperforms prior methods in both sample efficiency and performance on complex manipulation benchmarks.|
 |[A Survey of AIOps in the Era of Large Language Models.](https://arxiv.org/abs/2507.12472) |This survey examines 183 papers to assess how LLMs are applied in AIOps, analyzing data sources, task types, methodologies, and evaluation strategies. It highlights key trends, identifies research gaps, and proposes future directions to advance the development of LLM-driven AIOps systems. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
